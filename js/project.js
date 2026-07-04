@@ -50,19 +50,23 @@
       ${P.items.length ? `
       <section class="story">
         <div class="head">
-          <span class="t">Story // use arrows or keys to step through</span>
-          <span class="counter"><b id="cNow">01</b> / ${pad(P.items.length)}</span>
+          <span class="t">${P.items.length > 1 ? "Story // use arrows or keys to step through" : "Feature"}</span>
+          ${P.items.length > 1 ? `<span class="counter"><b id="cNow">01</b> / ${pad(P.items.length)}</span>` : ""}
         </div>
-        <div class="stage">
-          <button class="navbtn prev" id="btnPrev" aria-label="Previous">‹</button>
-          <div class="media" id="media"></div>
-          <button class="navbtn next" id="btnNext" aria-label="Next">›</button>
+        <div class="story-grid">
+          <div class="stage">
+            ${P.items.length > 1 ? `
+            <button class="navbtn prev" id="btnPrev" aria-label="Previous">‹</button>` : ""}
+            <div class="media" id="media"></div>
+            ${P.items.length > 1 ? `
+            <button class="navbtn next" id="btnNext" aria-label="Next">›</button>` : ""}
+          </div>
+          <div class="caption">
+            <p class="ct" id="capTitle"></p>
+            <p class="cd" id="capText"></p>
+          </div>
         </div>
-        <div class="caption">
-          <p class="ct" id="capTitle"></p>
-          <p class="cd" id="capText"></p>
-        </div>
-        <div class="thumbs" id="thumbs"></div>
+        ${P.items.length > 1 ? `<div class="thumbs" id="thumbs"></div>` : ""}
       </section>` : ""}
 
       <div class="proj-footer">
@@ -71,6 +75,7 @@
       </div>`;
 
     if (!P.items.length) return;
+    if (P.items.length === 1) { show(0); return; }
 
     const thumbs = document.getElementById("thumbs");
     P.items.forEach((it, k) => {
@@ -103,7 +108,16 @@
         : `<img src="${it.src}" alt="${esc(it.title || P.title)}">`;
     document.getElementById("capTitle").textContent = it.title || "";
     document.getElementById("capText").textContent = it.caption || "";
-    document.getElementById("cNow").textContent = pad(i + 1);
+    const cNow = document.getElementById("cNow");
+    if (cNow) cNow.textContent = pad(i + 1);
+    // last keyframe: the next-arrow becomes a restart cue (↺ back to start)
+    const nextBtn = document.getElementById("btnNext");
+    if (nextBtn) {
+      const last = i === P.items.length - 1;
+      nextBtn.classList.toggle("restart", last);
+      nextBtn.textContent = last ? "↺" : "›";
+      nextBtn.title = last ? "Back to start" : "Next";
+    }
     document.querySelectorAll("#thumbs button").forEach((b, k2) =>
       b.classList.toggle("active", k2 === i));
   }

@@ -28,6 +28,10 @@
    "label": "Music"
   },
   {
+   "key": "influencer",
+   "label": "Influencer"
+  },
+  {
    "key": "nobrief",
    "label": "No Brief"
   }
@@ -39,7 +43,8 @@
    "summary": "Demonstrating the possibilities of IBM Watson in creative industries, like music, allowed IBM’s core business audience and tech-minded millennials to imagine what IBM could do for their business.",
    "categories": [
     "campaign",
-    "music"
+    "music",
+    "influencer"
    ],
    "details": [
     {
@@ -189,7 +194,6 @@
    "title": "Stereo Melon Studios",
    "summary": "The birth of my daughter inspired a wealth of new stories to tell.",
    "categories": [
-    "music",
     "nobrief"
    ],
    "details": [
@@ -290,7 +294,7 @@
      "text": "Goods & Services"
     }
    ],
-   "cover": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.jpg",
+   "cover": "assets/img/9e127d64-b59d-4c4a-8982-601a61ff1ea2.jpg",
    "items": [
     {
      "title": "Ecolab x ProStart",
@@ -307,7 +311,8 @@
    "summary": "Keeping up with the thousands of new songs uploaded to the internet daily was impossible for music producer, Alex da Kid. So IBM helped him reinvent the process.",
    "categories": [
     "campaign",
-    "music"
+    "music",
+    "influencer"
    ],
    "details": [
     {
@@ -327,7 +332,7 @@
      "text": "KidInAKorner, WPP"
     }
    ],
-   "cover": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.jpg",
+   "cover": "assets/img/bd6ef591-f603-4025-9abc-ad0b73e2151b.jpg",
    "items": [
     {
      "title": "Case Study",
@@ -441,7 +446,8 @@
    "title": "Airheads + Alvin Kamara",
    "summary": "Airheads launched a video series giving fans a peek behind the plays that make Alvin the most exciting offensive superhero in football.",
    "categories": [
-    "campaign"
+    "campaign",
+    "influencer"
    ],
    "details": [
     {
@@ -666,6 +672,7 @@
    "title": "High Desert Cactus Vodka",
    "summary": "High Desert is a Austin based vodka brand that was created authentically from the ground up. Everything about the story is true and accurate by design. No part of it was manufactured or staged, keeping it simple, iconic, honest, and most of all, competitive.",
    "categories": [
+    "campaign",
     "brand"
    ],
    "details": [
@@ -909,7 +916,7 @@
    "title": "Cart.com",
    "summary": "Cart.com wanted to work with companies they thought were cool and progressive, so we captured a voice that would tap into the language of modern culture to appeal to these types of brands",
    "categories": [
-    "brand"
+    "campaign"
    ],
    "details": [
     {
@@ -973,8 +980,8 @@
    "title": "Heavily vs Ryan Whitby",
    "summary": "Music + Code Project",
    "categories": [
-    "music",
-    "nobrief"
+    "nobrief",
+    "music"
    ],
    "details": [
     {
@@ -1013,7 +1020,8 @@
    "title": "Time Hopper",
    "summary": "There are travel influencers, and then there’s the first time-traveling one, born from the unapologetic power of A.I.",
    "categories": [
-    "nobrief"
+    "campaign",
+    "influencer"
    ],
    "details": [
     {
@@ -1068,7 +1076,6 @@
    "title": "Dunkin'",
    "summary": "Crafting the Dunkin sound with their new agency, Artist Equity",
    "categories": [
-    "campaign",
     "music"
    ],
    "details": [
@@ -1133,8 +1140,9 @@
    "title": "Rheem Key Bass - Behind the Series",
    "summary": "As a unique tribute to Rheem’s history of innovation in engineering, the series features music crafted on a vintage Rheem Key bass synthesizer.",
    "categories": [
+    "music",
     "campaign",
-    "music"
+    "influencer"
    ],
    "details": [
     {
@@ -1158,7 +1166,7 @@
      "text": "Goods & Services"
     }
    ],
-   "cover": "assets/img/ff06b4_1f55172c15314c40adee2e2ba9ad0da5-mv2.jpg",
+   "cover": "assets/img/e9f208de-1fc3-4560-97cf-e61b702993a5.jpg",
    "items": [
     {
      "title": "EQUIP starring Mike Henry",
