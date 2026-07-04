@@ -8,10 +8,8 @@
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="css/style.css">
   <script>
-    // set theme before paint to avoid flash
-    document.documentElement.dataset.theme =
-      localStorage.getItem("theme") ||
-      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    // set theme before paint to avoid flash — dark by default
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "dark";
   </script>
 </head>
 <body>

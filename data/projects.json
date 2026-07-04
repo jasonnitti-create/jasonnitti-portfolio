@@ -616,7 +616,7 @@
      "text": "Anomaly"
     }
    ],
-   "cover": "assets/vid/converse-im-a-goner-01.jpg",
+   "cover": "assets/img/converse-im-a-goner-cover.jpg",
    "items": [
     {
      "title": "I'm a Goner",
@@ -1208,14 +1208,14 @@
      "text": "Artists Equity"
     }
    ],
-   "cover": "assets/vid/good-will-dunkin-01.jpg",
+   "cover": "assets/img/good-will-dunkin-cover.jpg",
    "items": [
     {
      "title": "The Pilot",
      "caption": "A lost 1995 sitcom set at a Cambridge Dunkin' — equations scrawled on the shop windows, donut holes arranged in mathematical sequences, and something extraordinary hiding in plain sight. Period-correct sitcom theme song by Jason Nitti.",
      "type": "video",
      "src": "assets/vid/good-will-dunkin-01.mp4",
-     "poster": "assets/vid/good-will-dunkin-01.jpg"
+     "poster": "assets/img/good-will-dunkin-cover.jpg"
     }
    ]
   },
