@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Project — Jason Nitti</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    document.documentElement.dataset.theme =
+      localStorage.getItem("theme") ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  </script>
+</head>
+<body>
+
+  <header class="site">
+    <div class="wrap site-bar">
+      <a class="brand" href="index.html">JASON_NITTI <span class="dim">// PORTFOLIO_INDEX</span></a>
+      <nav class="main">
+        <a href="index.html">Index</a>
+        <a href="about.html">About</a>
+        <button id="themeToggle" title="Toggle light/dark">◐ theme</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap" id="app">
+    <div class="crumbs"><a href="index.html">← Back to index</a></div>
+    <div class="empty" id="loading">Loading…</div>
+  </main>
+
+  <footer class="site wrap">
+    <span>© <span id="yr"></span> Jason Nitti</span>
+    <span><a href="https://www.linkedin.com/in/jason-nitti-b01b1b7/" target="_blank" rel="noopener">LinkedIn</a></span>
+  </footer>
+
+  <script src="js/project.js"></script>
+</body>
+</html>

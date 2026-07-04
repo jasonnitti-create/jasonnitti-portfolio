@@ -1,0 +1,1211 @@
+{
+ "name": "Jason Nitti",
+ "tagline": "Creative Director / Polymath",
+ "linkedin": "https://www.linkedin.com/in/jason-nitti-b01b1b7/",
+ "masthead": {
+  "src": "assets/masthead.mp4"
+ },
+ "about": [
+  "Jason Nitti’s career began in early 2000 as a music producer in the Atlanta scene. His avant garde approach to music and marketing attracted attention from such industry greats as Dr. Dre, Jimmy Iovine and Timbaland. But Jason found he could offer more than just beats to local music acts. He saw the opportunity for branding in a crowded local hip hop scene. Jason’s aptitude for marketing and design would later land him in the New York City advertising world. He naturally gravitated towards brands looking to leverage non-traditional approaches to advertising. This meant staying on top of the latest technological and digital innovations in a landscape vying for cultural relevancy.",
+  "Jason is an award-winning creative where he’s managed and led multi-disciplined creative departments at agencies like Anomaly, 72&Sunny, KidinaKorner and Huge. He recently developed the story practice at Atlanta’s Goods & Services where he helped evolve it into a full service creative shop.",
+  "From creating a first ever Oculus VR collaboration between industry giants, Marvel and Samsung to collaborating with IBM’s Watson and Alex Da Kid to help make a hit song, Jason is always welcome to new challenges and landscapes. He’s led fully integrated projects spanning traditional media, experience design, TV, social and experiential for many of the world’s forward-thinking brands."
+ ],
+ "categories": [
+  {
+   "key": "all",
+   "label": "All"
+  },
+  {
+   "key": "campaign",
+   "label": "Marketing / Campaign"
+  },
+  {
+   "key": "brand",
+   "label": "Design / Brand"
+  },
+  {
+   "key": "music",
+   "label": "Music"
+  },
+  {
+   "key": "nobrief",
+   "label": "No Brief"
+  }
+ ],
+ "projects": [
+  {
+   "slug": "ibm-watson-alex-da-kid",
+   "title": "IBM Watson + Alex Da Kid",
+   "summary": "Demonstrating the possibilities of IBM Watson in creative industries, like music, allowed IBM’s core business audience and tech-minded millennials to imagine what IBM could do for their business.",
+   "categories": [
+    "campaign",
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "IBM"
+    },
+    {
+     "label": "Type",
+     "text": "Direct, B2B, Influencer"
+    },
+    {
+     "label": "Output",
+     "text": "Online videos, TVC, Content Partnerships, Influencer launch event, Interactive data visualization demo, Album artwork, Music videos, Radio idents, Media tour, Song"
+    },
+    {
+     "label": "Industry",
+     "text": "Music, Technology, A.I."
+    },
+    {
+     "label": "Agency",
+     "text": "KidInAKorner, WPP"
+    },
+    {
+     "label": "Awards",
+     "text": "Cannes Lions Bronze (Digital Craft), The One Show Bronze (Custom Content), 4As Partner Award, WPPED Creme Awards - WINNER in category DIRECT  In subcategory BUSINESS TO BUSINESS"
+    }
+   ],
+   "cover": "assets/img/ff06b4_7795594806b046a8bc6ee80eee9704be-mv2.jpg",
+   "items": [
+    {
+     "title": "Behind the Project",
+     "caption": "By partnering with a Grammy award-winning producer Alex Da Kid, IBM was able to penetrate culture and gain wide exposure for the Watson brand.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_1ec56638f955440186ef6daf9bcb4ea9.mp4",
+     "poster": "assets/vid/ff06b4_1ec56638f955440186ef6daf9bcb4ea9.jpg"
+    },
+    {
+     "title": "Case Study",
+     "caption": "Challenging Watson with a more exciting task that helps anyone understand Watson's capabilities: writing a hit single with Grammy-winning producer Alex Da Kid. Watson analyzed over 26,000 songs to spot trends in lyrics and tempo, and read millions of lines of text in the news, online, and on social media. And Alex used Watson's musical and cultural insights to write a song likely to resonate with a wide audience: \"Not Easy\", featuring X Ambassadors, Whiz Kalifa, and Elle King.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_706036418d7c42abb48526c2743c6db0.mp4",
+     "poster": "assets/vid/ff06b4_706036418d7c42abb48526c2743c6db0.jpg"
+    },
+    {
+     "title": "The Song - Not Easy",
+     "caption": "In collaboration with top artists Elle King, Sam Harris from X Ambassadors, and Wiz Khalifa, they created a song that resonated with audiences and demonstrated the growing potential of “cognitive creativity.”",
+     "type": "video",
+     "src": "assets/vid/ff06b4_bd7bb83302a14314b6b15519000b02b9.mp4",
+     "poster": "assets/vid/ff06b4_bd7bb83302a14314b6b15519000b02b9.jpg"
+    },
+    {
+     "title": "Not Easy (Official Music Video)",
+     "caption": "We concepted and produced, along side Three Foot Giant, the official \"Not Easy\" music video, which launched two weeks after the release of the track",
+     "type": "video",
+     "src": "assets/vid/ff06b4_2e5e0d7725c44db2a85b8d6673ed194f.mp4",
+     "poster": "assets/vid/ff06b4_2e5e0d7725c44db2a85b8d6673ed194f.jpg"
+    },
+    {
+     "title": "Album Art & Design",
+     "caption": "Concepted, designed, and produced the official album artwork for the release of the track.",
+     "type": "image",
+     "src": "assets/img/ff06b4_e2f7f6c35cd34c38ac8ef230f4e35b2d-mv2.jpg",
+     "w": 2880,
+     "h": 1800
+    }
+   ]
+  },
+  {
+   "slug": "iex-stock-exchange",
+   "title": "IEX - Stock Exchange",
+   "summary": "When industry competitors publicly questioned IEX’s “most liquidity” claim and suggested they were too small to make an impact anyway, IEX needed creative solutions to refute and debunk these challenges and raise brand awareness.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "IEX (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "Brand Activation Campaign, B2B"
+    },
+    {
+     "label": "Output",
+     "text": "Online Videos, OOH, Social, Campaign, Naming, Brand Identity, Package Design, Influencer kits"
+    },
+    {
+     "label": "Industry",
+     "text": "Fintech"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/ff06b4_ec623acb396a40f6a01533d70dcdf84c-mv2.jpg",
+   "items": [
+    {
+     "title": "The Challenge",
+     "caption": "Brad Katsuyama, recognizing the stock market's exploitation by predatory traders, founded IEX with a vision to democratize trading fairness for all Americans. His disruptive approach, aimed at correcting market abuses, earned significant attention, including a feature in Michael Lewis's NY Times bestseller \"Flash Boys\" and an upcoming Netflix movie, despite stirring controversy on Wall Street.\n\nOne way IEX planned to achieve their goal of leveling the financial playing field was to provide the “best liquidity” in the industry, or, in simpler terms, make it easier—and therefore more profitable—for brokers to trade stocks.",
+     "type": "image",
+     "src": "assets/img/ff06b4_0a80ee27d7584a67843d9553110c0fd0-mv2.jpg",
+     "w": 4000,
+     "h": 2250
+    },
+    {
+     "title": "Liquidity. Literally.",
+     "caption": "Early on, we realized something: if there’s anything stock traders love more than money, it’s beer. So we gathered a group of brokers together, held a beer tasting, and brewed their favorite.\n\nIntroducing Liquidity from IEX. The official, unofficial beer of the stock market.\n\nTo actually make Liquidity beer come to life, we had some heavy lifting to do. We needed a name, a brand, a style of beer, a complete packaging system, and a roll out strategy.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_87f4d1a86cf542c39984fbd34105c799.mp4",
+     "poster": "assets/vid/ff06b4_87f4d1a86cf542c39984fbd34105c799.jpg"
+    },
+    {
+     "title": "Hijacking the Moment",
+     "caption": "We have a beer. Let’s make some beer ads.\n\n#StockUpResponsibly\n\nWe brewed, designed, and distributed a signature IPA and unveiled it during advertising's biggest moment — the super bowl….directing attention to IEX’s goal to help level the playing field.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_928138b936cb40a69c052f9458de7780.mp4",
+     "poster": "assets/vid/ff06b4_928138b936cb40a69c052f9458de7780.jpg"
+    },
+    {
+     "title": "Cheers",
+     "caption": "Everyone knows traditional email campaigns are boring. \n\nIntroducing Liquidity beer was a clever way to literally put that liquidity into people’s hands. \n\nWe gifted Liquidity beer to key clients and launched a social media promotion.\n\nWe collaborated with Good Word Brewing for production, including special editions.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_e30a0c5f54284b89af0bda97e1624eb2.mp4",
+     "poster": "assets/vid/ff06b4_e30a0c5f54284b89af0bda97e1624eb2.jpg"
+    },
+    {
+     "title": "Case Study",
+     "caption": "Making a beer wasn’t just a fun way to get people to the party, it also acted as a conversation starter that led to dynamic, in-person discussions with key players in the industry about IEX and the validity of their “best liquidity” position.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_8b575d127178432b8b27e5b685ddcc21.mp4",
+     "poster": "assets/vid/ff06b4_8b575d127178432b8b27e5b685ddcc21.jpg"
+    },
+    {
+     "title": "Results",
+     "caption": "IEX experienced a considerable measurable uptick in both qualitative and quantitative areas. IEX’s main goals were to raise awareness and increase positive sentiment toward the company, and, as their marketing team said, this campaign accomplished both of those in new and surprising ways.\n\nOn the media side, the Liquidity beer story was covered by Adweek in a series of articles. And, as a data point, in 2019, before the campaign, IEX it was trading stocks valued at $10 billion a day. After the Liquidity campaign that’s up to $20 billion a day.",
+     "type": "image",
+     "src": "assets/img/ff06b4_d27d8a756dce464ab11c69c37676afa1-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    }
+   ]
+  },
+  {
+   "slug": "stereo-melon-studios",
+   "title": "Stereo Melon Studios",
+   "summary": "The birth of my daughter inspired a wealth of new stories to tell.",
+   "categories": [
+    "music",
+    "nobrief"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Personal, Stereo Melon Studios"
+    },
+    {
+     "label": "Type",
+     "text": "Video Content, Music, A.I."
+    },
+    {
+     "label": "Output",
+     "text": "Original Children's stories, Music Composition, Creative Direction & Design"
+    },
+    {
+     "label": "Industry",
+     "text": "Entertainment"
+    },
+    {
+     "label": "Agency",
+     "text": "Me"
+    }
+   ],
+   "cover": "assets/img/ff06b4_c7820117d816471abada91a3ef819831-mv2.jpg",
+   "items": [
+    {
+     "title": "What is Stereo Melon?",
+     "caption": "Stereo Melon was born from hanging out with my newborn daughter, Sloane. Telling her stories I made up on the go unleashed a wave of creativity and motivation to bring these stories to life.\n\nStereo Melon has become a growing collection of vibrant characters, magical landscapes, and endless adventures. \n\nThe music is also composed by me, carefully crafted with soothing solfeggio frequencies tuned to promote relaxation, healing, and overall well-being.\n\nContinue to watch some stories!",
+     "type": "video",
+     "src": "assets/vid/ff06b4_1275293ca7034ac6948dc018313e40e4.mp4",
+     "poster": "assets/vid/ff06b4_1275293ca7034ac6948dc018313e40e4.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/p76rvG_JZPk",
+     "poster": "https://i.ytimg.com/vi/p76rvG_JZPk/hqdefault.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/i4nJTkXYKrI",
+     "poster": "https://i.ytimg.com/vi/i4nJTkXYKrI/hqdefault.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/Ta_jFuQXC4A",
+     "poster": "https://i.ytimg.com/vi/Ta_jFuQXC4A/hqdefault.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/W_6X_StUTGQ",
+     "poster": "https://i.ytimg.com/vi/W_6X_StUTGQ/hqdefault.jpg"
+    },
+    {
+     "title": "A.I. Assisted Content",
+     "caption": "A.I. is a thing right now, and I fully embrace its potential to help bring ideas to life while streamlining the process. I’ve found there's a perfect mixture of right and left brain thinking when it comes to prompting and execution with A.I. I’ve captured my creative process along the way and plan on sharing all the quirks, pivots, adaptation and happy accidents along the way.",
+     "type": "image",
+     "src": "assets/img/ff06b4_12988fba4d954a0198bbcd6529e41ac9-mv2.jpg",
+     "w": 1577,
+     "h": 936
+    }
+   ]
+  },
+  {
+   "slug": "ecolab-x-prostart",
+   "title": "Ecolab x Prostart",
+   "summary": "Ecolab set out to make a bold statement at the NRA Show and their signature Sunday Spotlight event, choosing to honor the next generation of culinary leaders.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Ecolab"
+    },
+    {
+     "label": "Type",
+     "text": "Partnership, Event"
+    },
+    {
+     "label": "Output",
+     "text": "Documentary Film"
+    },
+    {
+     "label": "Industry",
+     "text": "Sanitation Solutions"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.jpg",
+   "items": [
+    {
+     "title": "Ecolab x ProStart",
+     "caption": "Ecolab, a global leader in water, hygiene, and energy technologies, is committed to creating a cleaner, safer, and healthier world. Their partnership with ProStart showcases this mission by empowering the next generation of culinary talent.\n\nEcolab set out to make a bold statement at the NRA Show and their signature Sunday Spotlight event, choosing to honor the next generation of culinary leaders. This documentary follows the journey of ProStart students from Badger High as they compete in national culinary and management challenges, bringing their passion and diverse cultural flavors to life. The film debuted at an unforgettable gala, where guests experienced the students' winning dishes firsthand at a pop-up restaurant designed and curated entirely by the students—an inspiring blend of mentorship, tradition, and innovation.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.mp4",
+     "poster": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "ibm-watson-phase-2",
+   "title": "Phase 2 - IBM Watson + Alex Da Kid",
+   "summary": "Keeping up with the thousands of new songs uploaded to the internet daily was impossible for music producer, Alex da Kid. So IBM helped him reinvent the process.",
+   "categories": [
+    "campaign",
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Direct, B2B, Influencer"
+    },
+    {
+     "label": "Output",
+     "text": "Online videos, content partnerships, social, influencer launch event, album artwork, radio idents, media tour."
+    },
+    {
+     "label": "Industry",
+     "text": "Music, Technology, A.I."
+    },
+    {
+     "label": "Agency",
+     "text": "KidInAKorner, WPP"
+    }
+   ],
+   "cover": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.jpg",
+   "items": [
+    {
+     "title": "Case Study",
+     "caption": "In our second phase of the IBM Watson x Alex Da Kid partnership, IBM Developer, Joshua Carr, worked closely with ADK to gain insight into his vision and sensibility to drive discovery. Carr created a custom Watson solution to aid Alex’s search. A technology and entertainment industry first, Watson learned the language of music from the producer’s natural speech.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.mp4",
+     "poster": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.jpg"
+    },
+    {
+     "title": "Short Film",
+     "caption": "The creation of “Go” set a new standard for the music industry at large. To identify the perfect artist for his collaboration—rather than employ century-old A&R methods or spend countless hours casing the internet for new voices—Alex enlisted the help of IBM Watson. The technology allowed Alex to work smarter and more efficiently to uncover talent, changing the concept of A&R forever.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_1a2d99b47e9b497e883b7c6049f0c0f4.mp4",
+     "poster": "assets/vid/ff06b4_1a2d99b47e9b497e883b7c6049f0c0f4.jpg"
+    },
+    {
+     "title": "The Song - Alex Da Kid - Go ft. H.E.R., Rapsody",
+     "caption": "“Go” is said to be the first of many “game-changing moments” and singles that are birthed from using the Watson Artist Discovery Tool.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_95e31bf9733e4f68a3a4c06bb7e8eda7.mp4",
+     "poster": "assets/vid/ff06b4_95e31bf9733e4f68a3a4c06bb7e8eda7.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_469fa7bda65542c1b3bb210e6dc03822.mp4",
+     "poster": "assets/vid/ff06b4_469fa7bda65542c1b3bb210e6dc03822.jpg"
+    },
+    {
+     "title": "Go - Album Art",
+     "caption": "Concepted, designed, and produced the official album artwork for the release of the track.",
+     "type": "image",
+     "src": "assets/img/ff06b4_c9576787d36c4110a2da9dee173534a8-mv2.jpg",
+     "w": 640,
+     "h": 640
+    }
+   ]
+  },
+  {
+   "slug": "samsung-marvel",
+   "title": "Samsung + Marvel",
+   "summary": "Our mission: Activate a true global partnership between the biggest brand in technology and the biggest name in entertainment . Or was it, have as much fun as possible?",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Samsung + Marvel + Oculus (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "Retail, VR Experience & Global Recruitment Campaign"
+    },
+    {
+     "label": "Output",
+     "text": "2 short films, VR experience, retail, online, digital, app, promotion"
+    },
+    {
+     "label": "Industry",
+     "text": "Consumer Electronics, Entertainment"
+    },
+    {
+     "label": "Agency",
+     "text": "72andSunny"
+    }
+   ],
+   "cover": "assets/img/ff06b4_dadfd054294f4fcb9a89b57d866fd00e-mv2.jpg",
+   "items": [
+    {
+     "title": "Become an Avenger",
+     "caption": "As part of the launch of the new Avengers film, Samsung and Marvel collaborated to provide a wide range of themed products and consumer experiences to fans, including a mind-blowing virtual reality experience. \n\nThe immersive two minute experience that was designed for the Galaxy S6 and Gear VR Headset places fans in the middle of a battle between the Avengers and Ultron robots.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_5fe74553424d4c7d9cb9a6598f0b8156.mp4",
+     "poster": "assets/vid/ff06b4_5fe74553424d4c7d9cb9a6598f0b8156.jpg"
+    },
+    {
+     "title": "Recruitment Film - Part 1",
+     "caption": "As part of the campaign, two cinematic films titled ‘Assemble’ were made to act as ‘recruitment’ films for the VR experience. In the films, the likes of Lionel Messi, Eddie Lacy, John John Florence, Fabian Cancellara, and two superfans all receive mysterious suitcases that match them to an Avenger and send them to a secret hideout. There, they train to become the heroes with the help of the Galaxy S6 and Gear VR headset.\n\nDirected by Mark Webb",
+     "type": "video",
+     "src": "assets/vid/ff06b4_822a3416015046018e991479d0ea4923.mp4",
+     "poster": "assets/vid/ff06b4_822a3416015046018e991479d0ea4923.jpg"
+    },
+    {
+     "title": "Recruitment Film - Part 2",
+     "caption": "The mission eventually broadens out to the wider audience of Avengers fans and they are then invited to take part in the 360° viewing experience through the Gear VR headset via an app available in the Oculus VR store.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_411dc154f6bb44c189866cd96f63fd5b.mp4",
+     "poster": "assets/vid/ff06b4_411dc154f6bb44c189866cd96f63fd5b.jpg"
+    },
+    {
+     "title": "Making it real",
+     "caption": "Samsung also rolled out a series of activities for retail, online and digital channels, as well as a special promotion where 1000 super fans were sent the briefcases seen in the films, containing an S6 preloaded with the 360-degree experience",
+     "type": "image",
+     "src": "assets/img/ff06b4_f38d080007c640f0be8b6e3bcb08a1f5-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "In-Theater TVCs",
+     "caption": "Promoting Samsung’s Galaxy phones in theaters alongside Marvel Studios’ release of “Avengers: Age of Ultron,” the 60-second spot transitions between detailed close-ups of Captain America’s shield, Thor’s hammer, Iron Man’s gauntlet, and Samsung phones",
+     "type": "video",
+     "src": "assets/vid/ff06b4_796080393d934bd7ad1749dc492a53ac.mp4",
+     "poster": "assets/vid/ff06b4_796080393d934bd7ad1749dc492a53ac.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "airheads-alvin-kamara",
+   "title": "Airheads + Alvin Kamara",
+   "summary": "Airheads launched a video series giving fans a peek behind the plays that make Alvin the most exciting offensive superhero in football.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Airheads (click to see case)"
+    },
+    {
+     "label": "Type",
+     "text": "Social, Influencer Campaign"
+    },
+    {
+     "label": "Output",
+     "text": "Episodic Content Series, Organic and Paid Social"
+    },
+    {
+     "label": "Industry",
+     "text": "Candy!"
+    },
+    {
+     "label": "Agency",
+     "text": "Huge"
+    }
+   ],
+   "cover": "assets/img/ff06b4_f14791606f09425783776d41f263f457-mv2.jpg",
+   "items": [
+    {
+     "title": "Play-By-Play Series",
+     "caption": "“I’d like to thank Airheads, God and my family.”\n\n- Alvin Kamara, Post-Game Interview \n\nWhether he’s leaping over a fortress of defensive backs or effortlessly oozing his way through a sea of defenders, Alvin somehow makes it seem all too easy.\n\nAnd for the first time ever, Airheads launched a video series giving fans a peek behind the plays that make Alvin the most exciting offensive superhero in football.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_af8db5109ede4907bdb1ed3d7e285975.mp4",
+     "poster": "assets/vid/ff06b4_af8db5109ede4907bdb1ed3d7e285975.jpg"
+    },
+    {
+     "title": "How it all started",
+     "caption": "A forward pass, caught.\n\nThe announcers caught Alvin passing out his favorite candy to his teammates. \n\nAirheads didn't know about this love until late October 2017, when the rookie sensation randomly mentioned Airheads in a tweet. By allowing word of Kamara's love for Airheads to grow organically, the love affair between Kamara and Airheads took on a life of its own.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_eab23d178ad544239a9b5af677926aec.mp4",
+     "poster": "assets/vid/ff06b4_eab23d178ad544239a9b5af677926aec.jpg"
+    },
+    {
+     "title": "A Partnership Born",
+     "caption": "Airheads tweeted at Kamara asking if he wanted a care package. He somehow missed it, but responded in Oct. A week later, Kamara showed off his fresh haul of the candy.",
+     "type": "image",
+     "src": "assets/img/ff06b4_eecd2d2feaac41d782a9ac7d88a68aab-mv2.jpg",
+     "w": 589,
+     "h": 502
+    },
+    {
+     "title": "Enter Play-by-Play w/ Alvin Kamara",
+     "caption": "We created an episodic content series called 'Play by Play', with four hero spots and a variety of GIFs featuring Kamara's most iconic plays, depicting his uncanny athleticism. The content was served in real-time during the current season's NFL games.",
+     "type": "image",
+     "src": "assets/img/ff06b4_037e758989f140a6befecbad5bb840b1-mv2.jpg",
+     "w": 2000,
+     "h": 3000
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_0cd7acebc8ea409c8e76bd893c7d2c78.mp4",
+     "poster": "assets/vid/ff06b4_0cd7acebc8ea409c8e76bd893c7d2c78.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_add8ea042e3d45378302cc30a5bf85aa.mp4",
+     "poster": "assets/vid/ff06b4_add8ea042e3d45378302cc30a5bf85aa.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_69b268a87eb343b7bf55481da2ce84c4.mp4",
+     "poster": "assets/vid/ff06b4_69b268a87eb343b7bf55481da2ce84c4.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_f389112a2641427aaaaa55cb472089a1.mp4",
+     "poster": "assets/vid/ff06b4_f389112a2641427aaaaa55cb472089a1.jpg"
+    },
+    {
+     "title": "",
+     "caption": "The bust of Alvin made out of Airheads still haunts me to this day. He loved it.",
+     "type": "image",
+     "src": "assets/img/ff06b4_268ab72266224e558476d0836a50da8c-mv2.jpg",
+     "w": 595,
+     "h": 648
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_ddefe0ff1b2c4453a4cb8a8f30041115-mv2.jpg",
+     "w": 1536,
+     "h": 2048
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_5574c904083b4535b58eb43bee729148-mv2.jpg",
+     "w": 2000,
+     "h": 3000
+    }
+   ]
+  },
+  {
+   "slug": "converse",
+   "title": "Converse",
+   "summary": "Four years shaping stories for one of the world’s most iconic canvases, a brand built on self-expression and the power of creativity to change the world.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Project type",
+     "text": "Marketing, Brand Building"
+    },
+    {
+     "label": "Agency",
+     "text": "Anomaly NYC"
+    }
+   ],
+   "cover": "assets/img/ff06b4_3f786b19f594432f83965267dceddfb4-mv2.jpg",
+   "items": [
+    {
+     "title": "History Made & In the Making",
+     "caption": "Over four years with Converse, I touched nearly every corner of the brand, from creating music videos and launching a Brooklyn music studio to amplifying emerging voices across sport, comic books, music, and art. The volume of work was immense, but the mission was simple: to keep Converse a living symbol of self-expression. It was a brand I loved working on every minute, a playground where craft met culture and creativity never stood still.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.mp4",
+     "poster": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "airbnb",
+   "title": "Airbnb",
+   "summary": "Travel has become about going and looking and watching and waiting and following and that needs to stop. Airbnb let's you live, not travel, like a local.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Airbnb (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "Global Campaign"
+    },
+    {
+     "label": "Output",
+     "text": "TVC, digital, OOH, print, social activations"
+    },
+    {
+     "label": "Industry",
+     "text": "Tourism, Hotel & Resort"
+    },
+    {
+     "label": "Agency",
+     "text": "TBWA Chiat Day"
+    },
+    {
+     "label": "Awards",
+     "text": "Webby Awards - Nominee: Advertising, Media & PR, Video Ad Longform"
+    }
+   ],
+   "cover": "assets/img/ff06b4_1693bf573af647d2bbfe4594fd4b5c2f-mv2.jpg",
+   "items": [
+    {
+     "title": "Live There",
+     "caption": "When you stay in an Airbnb you feel like you live there. And not just in the house. In that neighborhood. In that town. That cool coffee shop on the corner is YOUR cool coffee shop. That neighbor is your neighbor. Staying in an Airbnb doesn't feel like staying. It feels like living. \n\nAt a global launch event, Airbnb’s uncompromising CEO Brian Chesky championed ‘Live There’ as a tenet of the brand’s future.",
+     "type": "image",
+     "src": "assets/img/ff06b4_dddaf4f732d7496f926ec50ebccbd040-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "Objective",
+     "caption": "Airbnb, the global online marketplace for lodging and travel experiences, aimed to redefine travel and encourage users to experience destinations like a local. The #LiveThere campaign sought to promote the idea of authentic and unique travel experiences facilitated by Airbnb, emphasizing a departure from traditional tourist experiences.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_89c1818e9cd54235a633ccc4e8b7148a.mp4",
+     "poster": "assets/vid/ff06b4_89c1818e9cd54235a633ccc4e8b7148a.jpg"
+    },
+    {
+     "title": "Reinforced Brand Positioning",
+     "caption": "The global campaign features :15, :30 and :60 second TV spots, as well as digital, out-of-home, and print. Additionally, disruptive, bespoke social activations drive added engagement on Pinterest, Facebook, Twitter and Snapchat.",
+     "type": "image",
+     "src": "assets/img/ff06b4_5035b37d938b4032980f961293d8e954-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "Results",
+     "caption": "Faced with wining over the cool kids with declining awareness growth, Airbnb had to reach beyond its millennial core to a broader audience. By directly challenging how they were traveling, Dont Go There. Live There became the most successful campaign in Airbnbs history",
+     "type": "image",
+     "src": "assets/img/ff06b4_d73b4f08eb2d4f3b82ca2f018ff7fa39-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "Love This? Live there.",
+     "caption": "As a sister promo, we told travelers if they can dream it. They can live it.\n\n\n\n45 million international tourists chose a travel destination just because they saw a movie or TV show that was filmed there. And who can blame them? With castles and cabins, treehouses and private islands, you really can live in the movies you love with Airbnb.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_0c966cfffe4744e4983581c283368bfb.mp4",
+     "poster": "assets/vid/ff06b4_0c966cfffe4744e4983581c283368bfb.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.mp4",
+     "poster": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "high-desert-cactus-vodka",
+   "title": "High Desert Cactus Vodka",
+   "summary": "High Desert is a Austin based vodka brand that was created authentically from the ground up. Everything about the story is true and accurate by design. No part of it was manufactured or staged, keeping it simple, iconic, honest, and most of all, competitive.",
+   "categories": [
+    "brand"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "High Desert (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "Branding, Marketing"
+    },
+    {
+     "label": "Output",
+     "text": "Documentary, Design Systems, Social, Experiential"
+    },
+    {
+     "label": "Industry",
+     "text": "Spirits"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/ff06b4_32d8862ab533487e888d07adf65167a6-mv2.jpg",
+   "items": [
+    {
+     "title": "In the Making",
+     "caption": "Inspired by the beauty and bounty of the Southwest, founders Logan Sligar and Ryan Springer wanted to make a spirit out of the prickly pear cactus fruit. A new kind of vodka brand was born.\n\nCreating a new brand of vodka presents a myriad challenges For one thing, High Desert was based in Austin where both Titos and Deep Eddy’s had carved out strong allegiances with customers and distributors.\n\nHowever High Desert had a handful of key advantages that set them apart. For one thing, as the new flavor on the block they were fresh, different, a new jolt to the vodka space. For another the cactus element gave them a unique aspect that allowed them to straddle both the vodka and tequila markets. For another the prickly pear, and the method of farming they employed, proved to be highly sustainable so their story included the angle of a renewable resource.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_95ea2beb7a734e5fbe6a0106b84c389a.mp4",
+     "poster": "assets/vid/ff06b4_95ea2beb7a734e5fbe6a0106b84c389a.jpg"
+    },
+    {
+     "title": "The Ask",
+     "caption": "Build the High Desert brand from the ground up in a way that celebrates the product's heritage and hand-made spirit and differentiates it from everything else on the shelf.\n\nSo we took a trip to the source: San Luis Potosi, Mexico",
+     "type": "image",
+     "src": "assets/img/ff06b4_d2681c84bfd64ef4a37f92a990e0087a-mv2.jpg",
+     "w": 1766,
+     "h": 974
+    },
+    {
+     "title": "Vision and Voice",
+     "caption": "Our trip to the source provided a wealth of assets for our campaign.",
+     "type": "image",
+     "src": "assets/img/ff06b4_1fd94e7bed3e466ebda039c2bf998d6d-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_59976755f714404dacf1a499df25db93-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "In the Making",
+     "caption": "We even hand carved a cactus for the bottle label keeping in line the \"In the Making\" brand positioning.",
+     "type": "image",
+     "src": "assets/img/ff06b4_cebe4952a71c4950b2fba482f038abd3-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "Design with Spirit",
+     "caption": "Even the label alluded the mountain vistas of San Luis Potosi, with the hand torn front and back label to create depth.",
+     "type": "image",
+     "src": "assets/img/ff06b4_98c9c0f00a564ec7a93adc277a6a1121-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_a2b463615da44c49880da8ec656829d6-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_b3f2a4061ccf4f6ab9e92e2b53b96273-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_5f1925da049e4c288d6e46e52269b669-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    }
+   ]
+  },
+  {
+   "slug": "rheem-water-heaters",
+   "title": "Rheem Water Heaters",
+   "summary": "Everyone in the industry already knew that Rheem had been a trusted leader in the water heating space for nearly 100 years. They thought it was time the public knew it, too.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Rheem (click to see case)"
+    },
+    {
+     "label": "Type",
+     "text": "Consumer Advertising Campaign"
+    },
+    {
+     "label": "Output",
+     "text": "Broadcast TVC, Streaming Pre-Roll, Social, Digital, Landing Page refresh"
+    },
+    {
+     "label": "Industry",
+     "text": "Consumer Products"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/ff06b4_983fc9e4de87458891f5d408e0f1265c-mv2.jpg",
+   "items": [
+    {
+     "title": "Comfort Since 1925 and Counting",
+     "caption": "Rheem is a company that has been a leader in the water heating and air conditioning business for more than 100 years. And while most consumers may not be familiar with the name, contractors, plumbers, and others players in the trade were well aware that Rheem was one of the top go to brands in the space.\n\nIn a post COVID world, hot water usage was going up and emerging companies like GE and LG saw an opportunity to seriously compete in the water heater market. Both brands were already household names to consumers, unlike Rheem.\n\nSo Rheem decided it was time to turn up the heat, so to speak, and came and was looking to create their first consumer facing ad campaign in more than 50 years.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_dd7cf6818de04fe395a2a3ea514e94c9.mp4",
+     "poster": "assets/vid/ff06b4_dd7cf6818de04fe395a2a3ea514e94c9.jpg"
+    },
+    {
+     "title": "Meet the Robinsons",
+     "caption": "We wanted to create a scenario where Rheem became a comforting presence in a family’s life, where family life and culture could be the hero. Almost like the water heater was a character in their story, even a member of their family.\n\nWe borrowed from popular shows like Modern Family and the office which use humorous, one-on-one, documentary style filmmaking. “The Robinson Family” became a consistent narrative device and ambassador for the brand. It’s our Progressive Insurance’s “Flo” or “Jake” from State Farm.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_082c320c1bfb45bea5f17dc40df59ec7.mp4",
+     "poster": "assets/vid/ff06b4_082c320c1bfb45bea5f17dc40df59ec7.jpg"
+    },
+    {
+     "title": "Family Tie-Ins",
+     "caption": "The benefits of creating a family tie in were abundant. Because each video focused primarily on one member of the Robinsons, it gave us five very different interesting character paths to explore, all with their own evolving lives and personalities, that were rich for social media content. You could follow the daughter’s ever changing passions for years to come.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_f8cd6a97e54f44ffa56473eab93fdab4.mp4",
+     "poster": "assets/vid/ff06b4_f8cd6a97e54f44ffa56473eab93fdab4.jpg"
+    },
+    {
+     "title": "Living the Stream",
+     "caption": "The ads ran on streaming channels including Hulu, Roku, Sling TV, and others, as well as on the streaming feed of “This Old House,” and on the web feeds of networks like AMC, CBS, NBC, Bravo, and USA, among others. Additionally, digital display ads, including GIF banners, and social media platforms run on YouTube, Facebook, Twitter and Instagram.\n\nFor this reason we made sure that the spots we created echoed, and were relevant to, the content on the channels they lived on.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_b8afac2402854620bf7bca0ac283269c.mp4",
+     "poster": "assets/vid/ff06b4_b8afac2402854620bf7bca0ac283269c.jpg"
+    },
+    {
+     "title": "Campaign with Character",
+     "caption": "The episodic nature of the spots also allowed us an element of longevity and durability. If we were asked to do another campaign, we could always check in with the Robinsons to see how they were getting on in life. After all, no matter how old you are, you always need a dependable water heater.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_a93abd0bbd2246648ad94c6d3d31f46f.mp4",
+     "poster": "assets/vid/ff06b4_a93abd0bbd2246648ad94c6d3d31f46f.jpg"
+    },
+    {
+     "title": "A Home In-House",
+     "caption": "We wrote, shot, directed, photographed, and produced all in house. The  episodic, sitcom style campaign featuring the Robinsons, allowed us to also share snippets of relatable everyday experiences and how differently they used hot water.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_e1f0806ec0f7464c8afa28a1f90809dd.mp4",
+     "poster": "assets/vid/ff06b4_e1f0806ec0f7464c8afa28a1f90809dd.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_b03b2c59176e442fbe2e506a924fac4b-mv2.jpg",
+     "w": 2375,
+     "h": 1929
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_5d265dbec04444c7acb528b5b9d93f13-mv2.jpg",
+     "w": 2375,
+     "h": 1929
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_43b7e56fb79c4ce998783e432a411a47-mv2.jpg",
+     "w": 2375,
+     "h": 1929
+    },
+    {
+     "title": "Rheem, Behind the Steam",
+     "caption": "We had such great character actors, we decided to get some extra social content in between takes. We set up a Rheem branded red seamless for behind the scene interviews with our family. This allowed a deeper connection to the characters, but also relatable family anecdotes and banter with the water heater central to a comfortable family life.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_d1ca6de39b814c62acb505deabe96b62.mp4",
+     "poster": "assets/vid/ff06b4_d1ca6de39b814c62acb505deabe96b62.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_1e1f767d35294127a9d95aae7e5b1652-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    }
+   ]
+  },
+  {
+   "slug": "we-are-living-in-a-stimulation",
+   "title": "We Are Living in a Stimulation - Author/Book",
+   "summary": "A book written to understand why some people don’t choose creativity, they’re pulled into it, again and again.",
+   "categories": [
+    "nobrief"
+   ],
+   "details": [
+    {
+     "label": "Project type",
+     "text": "Published Book"
+    }
+   ],
+   "cover": "assets/img/ff06b4_7f735be59d8b4c68b0647f940b9e4316-mv2.jpg",
+   "items": [
+    {
+     "title": "Close Up.png",
+     "caption": "I’ve spent most of my career inside creative systems, agencies, music, technology, and I kept noticing the same thing.\n\nFor some people, creativity isn’t inspiration.\nIt’s compulsion.\n\nThis book isn’t about productivity or finding your muse. It’s an attempt to name the pattern behind creative compulsion, the cycle many of us live inside without realizing it.\n\nI wrote it mostly to understand myself.\nIf it helps someone else feel a little less alone in the process, that’s enough.",
+     "type": "image",
+     "src": "assets/img/ff06b4_361c860cbf414ba5a5d8651009fbe561-mv2.jpg",
+     "w": 1024,
+     "h": 1536
+    }
+   ]
+  },
+  {
+   "slug": "cart-com",
+   "title": "Cart.com",
+   "summary": "Cart.com wanted to work with companies they thought were cool and progressive, so we captured a voice that would tap into the language of modern culture to appeal to these types of brands",
+   "categories": [
+    "brand"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Cart.com (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "B2B, Brand Stories & Systems"
+    },
+    {
+     "label": "Output",
+     "text": "OOH, Design, Direct Mail"
+    },
+    {
+     "label": "Industry",
+     "text": "Technology, E-Commerce"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/ff06b4_6b14b2c7fd504ae2ae636cbfbd701123-mv2.jpg",
+   "items": [
+    {
+     "title": "Challenge",
+     "caption": "Cart.com is a new digital marketing platform making a big noise in the ecommerce world. To help them build awareness, we created the “Dearest” campaign, an affectionate — some might even say obsessive — expression of love that puts the “court order” back into “courtship.”",
+     "type": "image",
+     "src": "assets/img/ff06b4_09bf0f2f3769486bb01fd2b94a894ff5-mv2.jpg",
+     "w": 3456,
+     "h": 1600
+    },
+    {
+     "title": "Courting brands",
+     "caption": "Our concept of publicly posting love letters to the company’s favorite brands pairs old-school signage with the stopping power of a public social post. The campaign is called “Dearest” and it turns B2B marketing on its head. We likened it to serenading a sweetheart beneath a bedroom window – but with an edge.\n\nThe poster-sized love letters are visible in major cities like LA, San Francisco, Austin, and Atlanta, and include 36 different brands, such as Liquid Death, BeautyCounter, and Toms. The passionate side of our brand voice describes the lengths that Cart.com will go to help a brand – if they commit to a relationship.\nTargeted brands also receive a care package that keeps the love alive and carries the same brand voice throughout.",
+     "type": "image",
+     "src": "assets/img/ff06b4_99415ecfefa645a88a3dee76dbefb4e4-mv2.jpg",
+     "w": 800,
+     "h": 800
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_0c03108b5c4a43998e2ae76b7e8c2a20-mv2.jpg",
+     "w": 1314,
+     "h": 1746
+    },
+    {
+     "title": "Case Study",
+     "caption": "Employing a barrage of (very) personally targeted, fun, irreverent, and tongue-in-cheek love letters, we helped Cart.com fervently express the depths and breadths of its affection and commitment. Cart then printed each letter as oversized posters and placed them, guerilla style, in heavily trafficked areas of Austin, Los Angeles, and around the country for the world to bear witness to Cart’s undying devotion.\n\nAnd because Cart wanted everyone to know how excited they were about their crushes, the team posted about our love letters on LinkedIn (#dearest) so the whole world could know. After all, the Cart wants what the Cart wants.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.mp4",
+     "poster": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "heavily-vs-ryan-whitby",
+   "title": "Heavily vs Ryan Whitby",
+   "summary": "Music + Code Project",
+   "categories": [
+    "music",
+    "nobrief"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Personal Project"
+    },
+    {
+     "label": "Output",
+     "text": "Music Composition & Code"
+    },
+    {
+     "label": "Media",
+     "text": "Spotify & Youtube"
+    }
+   ],
+   "cover": "assets/img/ff06b4_19607be9c4b541bfa69641a459a2cdb1-mv2.jpg",
+   "items": [
+    {
+     "title": "Off-Scripted",
+     "caption": "Heavily is a music project by Jason Nitti. \n\nThe world of Heavily is not just sonic, but highly visual, making it vital for Nitti to integrate artistic elements by showcasing visual artists to help bring the album to life.\n\nNitti collaborated with artist/designer Ryan Whitby, who created these animations with code inside the visual development platform Touchdesigner.  By scripting behaviors rather than keyframes the pieces naturally respond to the music of Heavily in an almost sentient manner.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_e645d01f85f1497a8fade484116e60cc.mp4",
+     "poster": "assets/vid/ff06b4_e645d01f85f1497a8fade484116e60cc.jpg"
+    },
+    {
+     "title": "In Ryan's Words...",
+     "caption": "\"The animated artwork for Heavily was born from a daily meditative practice during the New York lockdown in 2020.  The animations are largely inspired by the incessant passage of time and the void in which our memories live.  They are the imperfect recollections of a world outside, behind, and yet to come. Platonic shapes, lunar images, point cloud scans of renaissance statues, and AI-generated video of fictional landscapes, are used as varied source material for each animation to be distorted and reconstructed as a sampling of the fevered dream of reality.\"",
+     "type": "video",
+     "src": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.mp4",
+     "poster": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "time-hopper",
+   "title": "Time Hopper",
+   "summary": "There are travel influencers, and then there’s the first time-traveling one, born from the unapologetic power of A.I.",
+   "categories": [
+    "nobrief"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Influencer, Social"
+    },
+    {
+     "label": "Output",
+     "text": "Social, Content Partnerships, Influencer, A.I."
+    },
+    {
+     "label": "Industry",
+     "text": "Travel & Tourism"
+    },
+    {
+     "label": "Agency",
+     "text": "Sparkloft Media"
+    }
+   ],
+   "cover": "assets/img/ff06b4_d0e0f101559543268d35093e4dbc584f-mv2.jpg",
+   "items": [
+    {
+     "title": "Meet Time Hopper",
+     "caption": "Time Hopper is Sparkloft Media’s unapologetically A.I. travel influencer. A time-hopping rabbit who explores the past and future to make history trend again. Instead of blurring the line between human and synthetic, Hopper embraces his artificial identity to show how destinations can use A.I. responsibly, creatively, and transparently. Blending humor, cultural insight, and historical storytelling, the project redefines influencer marketing for the post-human era, a proof-of-concept where technology becomes a collaborator, not an impostor, and authenticity comes from intention, not illusion.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.mp4",
+     "poster": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "coming-soon",
+   "title": "Coming Soon",
+   "summary": "Click for Creative Reel",
+   "categories": [
+    "nobrief"
+   ],
+   "details": [],
+   "cover": "assets/img/ff06b4_6c7eac8e0a6a40c5993bb6f40c769c83-mv2.jpg",
+   "items": [
+    {
+     "title": "Creative Reel",
+     "caption": "More cases to come from Converse, Diageo, Dunkin, Hulu, Airheads, Ecolab, Wells Fargo, JPMorgan and more",
+     "type": "video",
+     "src": "assets/vid/ff06b4_2e3d0a6d17e6444a804f9dce7d89fd77.mp4",
+     "poster": "assets/vid/ff06b4_2e3d0a6d17e6444a804f9dce7d89fd77.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "dunkin",
+   "title": "Dunkin'",
+   "summary": "Crafting the Dunkin sound with their new agency, Artist Equity",
+   "categories": [
+    "campaign",
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Dunkin' (Click thumbnails for case study)"
+    },
+    {
+     "label": "Type",
+     "text": "Campaign"
+    },
+    {
+     "label": "Output",
+     "text": "Music composition and production"
+    },
+    {
+     "label": "Agency",
+     "text": "Artist Equity"
+    }
+   ],
+   "cover": "assets/img/ff06b4_f5e27066e65244aeb46a80fff655e5f0-mv2.jpg",
+   "items": [
+    {
+     "title": "DunKings",
+     "caption": "This campaign debuted during the 2024 Grammy Awards and continued with a Super Bowl ad. It featured Ben Affleck and Matt Damon as members of the fictional band \"The DunKings,\" with cameos from celebrities like Tom Brady, Jennifer Lopez, and Jack Harlow. This campaign set a humorous tone, blending pop culture with Dunkin's brand identity\n\nTrack by Jason Nitti",
+     "type": "video",
+     "src": "assets/vid/ff06b4_898329a98e1c413abe67c3960dd96dd9.mp4",
+     "poster": "assets/vid/ff06b4_898329a98e1c413abe67c3960dd96dd9.jpg"
+    },
+    {
+     "title": "\"Ben got them beats\"",
+     "caption": "In the DunKings campaign, Ben Affleck humorously takes on the role of an aspiring pop star, playing himself with big dreams of breaking into the music industry. His backstory in the campaign is that he’s determined to make it as a singer. I had the pleasure of making Ben a library of beats to help kick off his career.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_fef7ead0b1c449c1a43d338615ee65e5.mp4",
+     "poster": "assets/vid/ff06b4_fef7ead0b1c449c1a43d338615ee65e5.jpg"
+    },
+    {
+     "title": "Dunkin'Terns - Summer",
+     "caption": "The Dunkin’ Iced EP, featuring Joey Fatone and A.J. McLean as the Iced Boys, was launched as part of Dunkin’s summer Dunkin’Terns campaign. This five-track EP, available on Spotify, is inspired by Dunkin's iced beverage lineup, with each song celebrating different iced drinks like the Dunkin' Iced Coffee, Refreshers, and SPARKD’ Energy. \n\nMusic by Jason Nitti",
+     "type": "video",
+     "src": "assets/vid/ff06b4_9f7821375dff49ecab67ef5aa7e289d9.mp4",
+     "poster": "assets/vid/ff06b4_9f7821375dff49ecab67ef5aa7e289d9.jpg"
+    },
+    {
+     "title": "Dunkalatte - Fall",
+     "caption": "In the fall of 2024, Dunkin’ introduced the Dunkalatte, a new beverage inspired by Rhode Island’s coffee milk. The campaign stars Kristen Wiig, who brings her comedic flair to a series of ads that highlight the unique flavor of this limited-time drink. Check out the delicious sax.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_ed69f5b5754f4725850f902ae08f0764.mp4",
+     "poster": "assets/vid/ff06b4_ed69f5b5754f4725850f902ae08f0764.jpg"
+    },
+    {
+     "title": "Dunkalatte - Product",
+     "caption": "Music by Jason Nitti",
+     "type": "video",
+     "src": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.mp4",
+     "poster": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "rheem-key-bass",
+   "title": "Rheem Key Bass - Behind the Series",
+   "summary": "As a unique tribute to Rheem’s history of innovation in engineering, the series features music crafted on a vintage Rheem Key bass synthesizer.",
+   "categories": [
+    "campaign",
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Rheem (click thumbnails for case study)"
+    },
+    {
+     "label": "Type",
+     "text": "Promotional Content, Music Composition"
+    },
+    {
+     "label": "Output",
+     "text": "Documentary Film, Original Song, Episodic Content Series"
+    },
+    {
+     "label": "Industry",
+     "text": "Home Improvement"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/ff06b4_1f55172c15314c40adee2e2ba9ad0da5-mv2.jpg",
+   "items": [
+    {
+     "title": "EQUIP starring Mike Henry",
+     "caption": "Rheem aims to equip plumbers with the knowledge and confidence they need to advocate for and install the latest in water heating tech. In order to help position plumbers as informed experts in a growing market, we created EQUIP, a video series designed to empower plumbers with with the latest insights on water heaters.",
+     "type": "image",
+     "src": "assets/img/ff06b4_1f55172c15314c40adee2e2ba9ad0da5-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "A Musical Twist",
+     "caption": "While filming the EQUIP series, I discovered that Rheem had a quirky piece of history—they once made synthesizers like the vintage Key Bass. So why not create the series' music using a vintage Rheem Key bass synthesizer, as a unique tribute to Rheem’s history of innovation in engineering?",
+     "type": "image",
+     "src": "assets/img/ff06b4_cb4e1920a4bb4095aed54d357d92c8ca-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "Vintage Test Drive",
+     "caption": "I searched and got my hands on an original Key Bass. Here I am giving it a test drive.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_6bf3b54bc458420da1862391c2952dbc.mp4",
+     "poster": "assets/vid/ff06b4_6bf3b54bc458420da1862391c2952dbc.jpg"
+    },
+    {
+     "title": "The Composer",
+     "caption": "When it came to composing the music for the EQUIP series, we wanted the best. So we commissed a living musical prodigy: Adam Jaffe\n\nClassically trained pianist\n\nwent to Carnegie Mellon\n\nFulbright scholar in Paris\n\nProfessional harpsichordist in The Netherlands\n\nSpeaks 3 languages fluently\n\ncan recite the entire periodic table of elements in record time. Did so on NPR one time.\n\nKnows every lyric to every Metallica song",
+     "type": "image",
+     "src": "assets/img/ff06b4_c0435afef86545edb4e0d9df67dec103-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "The Doc",
+     "caption": "We wanted to tell the story of the music behind the series. We made a documentary through the \"ears\" of our composer, Adam Jaffe",
+     "type": "video",
+     "src": "assets/vid/ff06b4_5568b62ca5844003be349394826d10c8.mp4",
+     "poster": "assets/vid/ff06b4_5568b62ca5844003be349394826d10c8.jpg"
+    },
+    {
+     "title": "Bringing it all together",
+     "caption": "So kick back and enjoy episode 1 of the EQUIP series with music powered by Rheem.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_cf543d08bb9f41f790e322ab6c93ec2c.mp4",
+     "poster": "assets/vid/ff06b4_cf543d08bb9f41f790e322ab6c93ec2c.jpg"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About — Jason Nitti</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    document.documentElement.dataset.theme =
+      localStorage.getItem("theme") ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  </script>
+</head>
+<body>
+
+  <header class="site">
+    <div class="wrap site-bar">
+      <a class="brand" href="index.html">JASON_NITTI <span class="dim">// PORTFOLIO_INDEX</span></a>
+      <nav class="main">
+        <a href="index.html">Index</a>
+        <a href="about.html" class="active">About</a>
+        <button id="themeToggle" title="Toggle light/dark">◐ theme</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap about">
+    <h1>About</h1>
+    <p>Jason Nitti’s career began in early 2000 as a music producer in the Atlanta scene. His avant garde approach to music and marketing attracted attention from such industry greats as Dr. Dre, Jimmy Iovine and Timbaland. But Jason found he could offer more than just beats to local music acts. He saw the opportunity for branding in a crowded local hip hop scene. Jason’s aptitude for marketing and design would later land him in the New York City advertising world. He naturally gravitated towards brands looking to leverage non-traditional approaches to advertising. This meant staying on top of the latest technological and digital innovations in a landscape vying for cultural relevancy.</p>
+    <p>Jason is an award-winning creative where he’s managed and led multi-disciplined creative departments at agencies like Anomaly, 72&amp;Sunny, KidinaKorner and Huge. He recently developed the story practice at Atlanta’s Goods &amp; Services where he helped evolve it into a full service creative shop.</p>
+    <p>From creating a first ever Oculus VR collaboration between industry giants, Marvel and Samsung to collaborating with IBM’s Watson and Alex Da Kid to help make a hit song, Jason is always welcome to new challenges and landscapes. He’s led fully integrated projects spanning traditional media, experience design, TV, social and experiential for many of the world’s forward-thinking brands.</p>
+    <div class="links">
+      <a href="https://www.linkedin.com/in/jason-nitti-b01b1b7/" target="_blank" rel="noopener">LinkedIn ↗</a>
+      <a href="index.html">Browse the work →</a>
+    </div>
+  </main>
+
+  <footer class="site wrap">
+    <span>© <span id="yr"></span> Jason Nitti</span>
+    <span>hand-built, hosted on GitHub</span>
+  </footer>
+
+  <script>
+    document.getElementById("yr").textContent = new Date().getFullYear();
+    document.getElementById("themeToggle").addEventListener("click", () => {
+      const t = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+      document.documentElement.dataset.theme = t;
+      localStorage.setItem("theme", t);
+    });
+  </script>
+</body>
+</html>

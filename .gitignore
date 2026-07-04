@@ -1,0 +1,5 @@
+# Raw Wix archive stays local — too big for GitHub, and it's your backup
+wix-backup/
+
+.DS_Store
+.claude/

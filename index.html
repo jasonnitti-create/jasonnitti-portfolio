@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jason Nitti — Portfolio Index</title>
+  <meta name="description" content="Jason Nitti — award-winning creative director. Marketing, campaign, brand, design and music work.">
+  <link rel="stylesheet" href="css/style.css">
+  <script>
+    // set theme before paint to avoid flash
+    document.documentElement.dataset.theme =
+      localStorage.getItem("theme") ||
+      (matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  </script>
+</head>
+<body>
+
+  <header class="site">
+    <div class="wrap site-bar">
+      <a class="brand" href="index.html">JASON_NITTI <span class="dim">// PORTFOLIO_INDEX</span></a>
+      <nav class="main">
+        <a href="index.html" class="active">Index</a>
+        <a href="about.html">About</a>
+        <button id="themeToggle" title="Toggle light/dark">◐ theme</button>
+      </nav>
+    </div>
+  </header>
+
+  <section class="masthead">
+    <video src="assets/masthead.mp4" autoplay muted loop playsinline></video>
+    <div class="scrim wrap">
+      <h1>Jason Nitti</h1>
+      <div class="sub">Creative Direction · Story · Brand · Music</div>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <div class="filters" id="filters">
+      <span class="label">Filter //</span>
+      <!-- category buttons injected by js -->
+      <div class="searchbox">
+        <span class="label">Search //</span>
+        <input id="search" type="search" placeholder="client, title, keyword…" autocomplete="off">
+      </div>
+    </div>
+    <div class="count-line" id="countLine"></div>
+    <div class="grid" id="grid"></div>
+  </main>
+
+  <footer class="site wrap">
+    <span>© <span id="yr"></span> Jason Nitti</span>
+    <span>
+      <a href="https://www.linkedin.com/in/jason-nitti-b01b1b7/" target="_blank" rel="noopener">LinkedIn</a>
+      &nbsp;·&nbsp; hand-built, hosted on GitHub
+    </span>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
