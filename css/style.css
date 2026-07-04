@@ -171,6 +171,9 @@ nav.main a:hover, nav.main a.active { color: var(--ink); }
     overflow-y: auto;
   }
 }
+/* keyframe without copy: media takes the full width, panel disappears */
+.story-grid.nocap { grid-template-columns: 1fr; }
+.story-grid.nocap .caption { display: none; }
 .stage {
   position: relative; border: 1px solid var(--line); background: #000;
   min-width: 0;

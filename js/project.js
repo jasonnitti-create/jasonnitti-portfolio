@@ -106,6 +106,9 @@
              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
              allowfullscreen></iframe>`
         : `<img src="${it.src}" alt="${esc(it.title || P.title)}">`;
+    // keyframes with no copy get the full stage width — no empty panel
+    const hasCopy = !!((it.title || "").trim() || (it.caption || "").trim());
+    document.querySelector(".story-grid").classList.toggle("nocap", !hasCopy);
     document.getElementById("capTitle").textContent = it.title || "";
     document.getElementById("capText").textContent = it.caption || "";
     const cNow = document.getElementById("cNow");
