@@ -586,6 +586,48 @@
    ]
   },
   {
+   "slug": "converse-im-a-goner",
+   "title": "Converse — I'm a Goner",
+   "summary": "Part of Converse's “Three Artists, One Song” series: an unlikely collaboration between Matt & Kim, Soulja Boy and Andrew W.K., released as a free download with a blood-soaked morgue dance party of a music video that premiered on MTV2.",
+   "categories": [
+    "campaign",
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Converse"
+    },
+    {
+     "label": "Type",
+     "text": "Music Campaign, Branded Content"
+    },
+    {
+     "label": "Output",
+     "text": "Original song, Music video, Free download release"
+    },
+    {
+     "label": "Industry",
+     "text": "Footwear, Apparel"
+    },
+    {
+     "label": "Agency",
+     "text": "Anomaly"
+    }
+   ],
+   "cover": "assets/vid/converse-im-a-goner-01.jpg",
+   "items": [
+    {
+     "title": "I'm a Goner",
+     "caption": "Matt & Kim, Soulja Boy and Andrew W.K. rise from the dead to throw a raging dance party in a morgue. Premiered on MTV2’s “Converse Band of Ballers”; the track was released as a free download on converse.com/music.",
+     "type": "video",
+     "src": "assets/vid/converse-im-a-goner-01.mp4",
+     "poster": "assets/vid/converse-im-a-goner-01.jpg"
+    }
+   ]
+  },
+  {
    "slug": "airbnb",
    "title": "Airbnb",
    "summary": "Travel has become about going and looking and watching and waiting and following and that needs to stop. Airbnb let's you live, not travel, like a local.",
@@ -1132,6 +1174,48 @@
      "type": "video",
      "src": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.mp4",
      "poster": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "good-will-dunkin",
+   "title": "Good Will Dunkin'",
+   "summary": "For Super Bowl LX, Dunkin' reimagined its iced coffee origin story as a lost 1995 sitcom pilot: Ben Affleck stars with Jennifer Aniston, Matt LeBlanc, Jason Alexander, Ted Danson, Alfonso Ribeiro, Jaleel White and Jasmine Guy — plus a Tom Brady cameo. Theme music composed by Jason Nitti in authentic 90s sitcom style.",
+   "categories": [
+    "campaign",
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Dunkin'"
+    },
+    {
+     "label": "Type",
+     "text": "Big Game Commercial, Celebrity Ensemble"
+    },
+    {
+     "label": "Output",
+     "text": "Super Bowl LX spot “The Pilot”, Original 90s sitcom theme music"
+    },
+    {
+     "label": "Industry",
+     "text": "Food & Beverage"
+    },
+    {
+     "label": "Agency",
+     "text": "Artists Equity"
+    }
+   ],
+   "cover": "assets/vid/good-will-dunkin-01.jpg",
+   "items": [
+    {
+     "title": "The Pilot",
+     "caption": "A lost 1995 sitcom set at a Cambridge Dunkin' — equations scrawled on the shop windows, donut holes arranged in mathematical sequences, and something extraordinary hiding in plain sight. Period-correct sitcom theme song by Jason Nitti.",
+     "type": "video",
+     "src": "assets/vid/good-will-dunkin-01.mp4",
+     "poster": "assets/vid/good-will-dunkin-01.jpg"
     }
    ]
   },
