@@ -815,6 +815,79 @@
    ]
   },
   {
+   "slug": "softshox",
+   "title": "SoftShox",
+   "summary": "SoftShox builds soft helmet technology — Stanford bioengineering designed to absorb the impacts hard shells can’t. Founded by former athletes who turned their own concussions into the mission, they needed what every product company wants: their swoosh.\n\nThe answer was already in the name. Double the S, flip it, and let the negative space between the two do the work — a symbol of flow, for a product whose whole idea is absorbing motion instead of fighting it.",
+   "categories": [
+    "brand"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "SoftShox (Savior Brain)"
+    },
+    {
+     "label": "Type",
+     "text": "Brand Identity, Logo Design"
+    },
+    {
+     "label": "Output",
+     "text": "Logo mark, wordmark lockups, color system, product & apparel applications"
+    },
+    {
+     "label": "Industry",
+     "text": "Sports Tech, Bioengineering"
+    },
+    {
+     "label": "Role",
+     "text": "Design & Creative Direction"
+    }
+   ],
+   "cover": "assets/img/softshox-001.jpg",
+   "items": [
+    {
+     "title": "The Mark",
+     "caption": "One gesture, two S’s, no box. Bold enough to read at chin-strap size, simple enough to emboss or stitch. Protection, fluidity, precision — the brand’s ethos in a single shape.",
+     "type": "image",
+     "src": "assets/img/softshox-001.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "Flow",
+     "caption": "The build: take the S, duplicate it, flip it. Where the two forms meet, the negative space draws a symbol of flow. The old boxed wordmark retires; the new mark carries the name silently — a double S with no letters set.",
+     "type": "image",
+     "src": "assets/img/softshox-009.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "The System",
+     "caption": "Lockups and inversions: black, white, and the electric blue accent. SOFTSHOX sets in quiet spaced caps beneath the icon — restrained type, so the mark does the talking.",
+     "type": "image",
+     "src": "assets/img/softshox-006.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "In the Wild",
+     "caption": "The scalability test a mark either passes or doesn’t: embossed into the soft shell, printed on product, anchoring the corner of a founder interview.",
+     "type": "image",
+     "src": "assets/img/softshox-010.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "On Body",
+     "caption": "The merch test — cap, hoodie, tee. If people would wear it without knowing what the company does, it’s a logo. If it still reads as flow from ten feet, it’s a brand.",
+     "type": "image",
+     "src": "assets/img/softshox-008.jpg",
+     "w": 1600,
+     "h": 900
+    }
+   ]
+  },
+  {
    "slug": "rheem-water-heaters",
    "title": "Rheem Water Heaters",
    "summary": "Everyone in the industry already knew that Rheem had been a trusted leader in the water heating space for nearly 100 years. They thought it was time the public knew it, too.",
