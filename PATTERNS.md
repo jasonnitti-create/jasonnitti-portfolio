@@ -101,5 +101,22 @@ explicitly wants a fast/manual pass.
    correctly, captions render, no console errors.
 3. Show Jason a screenshot or the rendered page before committing — he
    reviews before push, not after.
-4. Commit with a clear message; only push to `main` when Jason says publish
-   (pushing to `main` is what makes it live on GitHub Pages).
+
+## The push rule (live since launch)
+
+The site is published — `main` on GitHub is Jason's durable archive of the
+whole project (code + content), not just a deploy trigger. Once he approves
+a change:
+
+- **Commit and push it the same turn.** Don't leave finished work sitting
+  only on his laptop "for later" — that's the one way this archive rule
+  breaks.
+- Say **"committed and pushed"** explicitly when done, not just "saved" or
+  "done" — that phrase is the signal the change actually landed on GitHub,
+  not only in the local working copy.
+- If a change is genuinely half-done or experimental and shouldn't go live
+  yet, say so plainly before starting, and confirm with Jason before
+  pushing anything mid-stream.
+- Quick sanity check anytime: `git status --short` (should be empty) and
+  `git log --oneline -1` vs. `git log --oneline -1 origin/main` (should
+  match). If they don't, something didn't get pushed — fix that first.
