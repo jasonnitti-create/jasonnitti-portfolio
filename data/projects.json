@@ -954,22 +954,15 @@
      "text": "The Echo Cycle: ⌁ Breach ⇌ Glitch ↻ Drift ⇒ Unleash"
     }
    ],
-   "cover": "assets/img/ff06b4_7f735be59d8b4c68b0647f940b9e4316-mv2.jpg",
+   "cover": "assets/img/walias-book-hero.jpg",
    "items": [
     {
      "title": "The Book",
      "caption": "One part memoir, one part reframe. Not a book about finding your muse — a field guide for the people who don’t get inspired so much as infected: the bridge that cracks your ribs, the stranger’s laugh that becomes a protagonist, the lights still on at 2:17 AM. It names the pattern so the compulsion stops looking like chaos.",
      "type": "image",
-     "src": "assets/img/ff06b4_7f735be59d8b4c68b0647f940b9e4316-mv2.jpg",
-     "w": 2076,
-     "h": 1536
-    },
-    {
-     "title": "Transmission",
-     "caption": "The book trailer — an excerpt from the chapter of the same name. Cut to transmit the book’s worldview rather than summarize it. Sound on.",
-     "type": "video",
-     "src": "assets/vid/walias-trailer.mp4",
-     "poster": "assets/vid/walias-trailer.jpg"
+     "src": "assets/img/walias-book-hero.jpg",
+     "w": 3166,
+     "h": 2336
     },
     {
      "title": "The Type System",
@@ -986,6 +979,13 @@
      "src": "assets/img/walias-echo-cycle.jpg",
      "w": 1400,
      "h": 2064
+    },
+    {
+     "title": "Transmission",
+     "caption": "The book trailer — an excerpt from the chapter of the same name. Cut to transmit the book’s worldview rather than summarize it. Sound on.",
+     "type": "video",
+     "src": "assets/vid/walias-trailer.mp4",
+     "poster": "assets/vid/walias-trailer.jpg"
     }
    ],
    "links": [
