@@ -1137,25 +1137,6 @@
    ]
   },
   {
-   "slug": "coming-soon",
-   "title": "Coming Soon",
-   "summary": "Click for Creative Reel",
-   "categories": [
-    "nobrief"
-   ],
-   "details": [],
-   "cover": "assets/img/ff06b4_6c7eac8e0a6a40c5993bb6f40c769c83-mv2.jpg",
-   "items": [
-    {
-     "title": "Creative Reel",
-     "caption": "More cases to come from Converse, Diageo, Dunkin, Hulu, Airheads, Ecolab, Wells Fargo, JPMorgan and more",
-     "type": "video",
-     "src": "assets/vid/ff06b4_2e3d0a6d17e6444a804f9dce7d89fd77.mp4",
-     "poster": "assets/vid/ff06b4_2e3d0a6d17e6444a804f9dce7d89fd77.jpg"
-    }
-   ]
-  },
-  {
    "slug": "dunkin",
    "title": "Dunkin'",
    "summary": "Crafting the Dunkin sound with their new agency, Artist Equity",

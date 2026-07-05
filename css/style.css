@@ -236,7 +236,11 @@ nav.main a:hover, nav.main a.active { color: var(--ink); }
 .proj-footer a:hover { color: var(--ink); }
 
 /* ---------- about ---------- */
-.about { max-width: 780px; padding: 40px 0 80px; }
+.about { max-width: 1080px; padding: 40px 0 80px; }
+.about-grid { display: grid; grid-template-columns: 1fr; gap: 32px; }
+@media (min-width: 820px) { .about-grid { grid-template-columns: 360px 1fr; gap: 48px; } }
+.about .portrait img { width: 100%; border: 1px solid var(--line); }
+.about .bio { max-width: 640px; }
 .about h1 { font-size: clamp(24px, 4vw, 36px); margin: 0 0 24px; }
 .about p { font-size: 15px; line-height: 1.8; margin: 0 0 20px; }
 .about .links { margin-top: 30px; display: flex; gap: 14px; font-size: 12px; text-transform: uppercase; }
