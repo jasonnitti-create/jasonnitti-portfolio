@@ -12,7 +12,8 @@
   const slug = new URLSearchParams(location.search).get("p");
   let DATA, P, i = 0;
 
-  fetch("data/projects.json")
+  // cache-buster: always load the latest content after edits
+  fetch("data/projects.json?v=" + Date.now())
     .then((r) => r.json())
     .then((d) => {
       DATA = d;

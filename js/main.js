@@ -17,7 +17,8 @@
   let activeCat = "all";
   let query = "";
 
-  fetch("data/projects.json")
+  // cache-buster: always load the latest content after edits
+  fetch("data/projects.json?v=" + Date.now())
     .then((r) => r.json())
     .then((d) => {
       DATA = d;

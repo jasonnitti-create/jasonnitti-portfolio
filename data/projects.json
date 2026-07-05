@@ -930,26 +930,62 @@
   },
   {
    "slug": "we-are-living-in-a-stimulation",
-   "title": "We Are Living in a Stimulation - Author/Book",
-   "summary": "A book written to understand why some people don’t choose creativity, they’re pulled into it, again and again.",
+   "title": "We Are Living in a Stimulation",
+   "summary": "I’ve spent most of my career inside creative systems — agencies, music, technology — and I kept noticing the same thing.\n\nFor some people, creativity isn’t inspiration. It’s compulsion.\n\nThis book isn’t about productivity or finding your muse. It’s an attempt to name the pattern behind creative compulsion, the cycle many of us live inside without realizing it.\n\nI wrote it mostly to understand myself. If it helps someone else feel a little less alone in the process, that’s enough.",
    "categories": [
-    "nobrief"
+    "nobrief",
+    "brand"
    ],
    "details": [
     {
      "label": "Project type",
-     "text": "Published Book"
+     "text": "Published Book — Kool Hand Press, Atlanta"
+    },
+    {
+     "label": "Role",
+     "text": "Author, Cover & Interior Design"
+    },
+    {
+     "label": "Typography",
+     "text": "OCR-B (system voice) + Freight Text Pro (testimony)"
+    },
+    {
+     "label": "Framework",
+     "text": "The Echo Cycle: ⌁ Breach ⇌ Glitch ↻ Drift ⇒ Unleash"
     }
    ],
    "cover": "assets/img/ff06b4_7f735be59d8b4c68b0647f940b9e4316-mv2.jpg",
    "items": [
     {
-     "title": "Close Up.png",
-     "caption": "I’ve spent most of my career inside creative systems, agencies, music, technology, and I kept noticing the same thing.\n\nFor some people, creativity isn’t inspiration.\nIt’s compulsion.\n\nThis book isn’t about productivity or finding your muse. It’s an attempt to name the pattern behind creative compulsion, the cycle many of us live inside without realizing it.\n\nI wrote it mostly to understand myself.\nIf it helps someone else feel a little less alone in the process, that’s enough.",
+     "title": "The Book",
+     "caption": "One part memoir, one part reframe. Not a book about finding your muse — a field guide for the people who don’t get inspired so much as infected: the bridge that cracks your ribs, the stranger’s laugh that becomes a protagonist, the lights still on at 2:17 AM. It names the pattern so the compulsion stops looking like chaos.",
      "type": "image",
      "src": "assets/img/ff06b4_361c860cbf414ba5a5d8651009fbe561-mv2.jpg",
      "w": 1024,
      "h": 1536
+    },
+    {
+     "title": "Transmission",
+     "caption": "The book trailer — an excerpt from the chapter of the same name. Cut to transmit the book’s worldview rather than summarize it. Sound on.",
+     "type": "video",
+     "src": "assets/vid/walias-trailer.mp4",
+     "poster": "assets/vid/walias-trailer.jpg"
+    },
+    {
+     "title": "The Type System",
+     "caption": "Two voices, two typefaces. OCR-B — drawn in 1968 for machines to read — speaks as the Stimulation: chapter marks, diagnostics, the system addressing you. Freight Text Pro carries the human testimony underneath it. No ornament, no pull-quote theatrics; the argument is the tension between the two, set in type and left alone.",
+     "type": "image",
+     "src": "assets/img/walias-design-montage.jpg",
+     "w": 1920,
+     "h": 936
+    },
+    {
+     "title": "The Echo Cycle",
+     "caption": "The book’s core model, drawn as signal: ⌁ Breach, ⇌ Glitch, ↻ Drift, ⇒ Unleash. Each phase owns a glyph, and the glyphs recur through the interior as wayfinding — a notation system the reader learns the same way the author did: by repetition.",
+     "type": "image",
+     "src": "assets/img/walias-echo-cycle.jpg",
+     "w": 1400,
+     "h": 2064
     }
    ]
   },
