@@ -817,7 +817,7 @@
   {
    "slug": "softshox",
    "title": "SoftShox",
-   "summary": "SoftShox builds soft helmet technology — Stanford bioengineering designed to absorb the impacts hard shells can’t. Founded by former athletes who turned their own concussions into the mission, they needed what every product company wants: their swoosh.\n\nThe answer was already in the name. Double the S, flip it, and let the negative space between the two do the work — a symbol of flow, for a product whose whole idea is absorbing motion instead of fighting it.",
+   "summary": "SoftShox builds soft helmet technology — Stanford bioengineering designed to absorb the impacts hard shells can’t. Founded by former athletes who turned their own concussions into the mission, they needed what every product company wants: their swoosh.\n\nThe answer was already in their old wordmark. Duplicate the S, flip it, and the overlap draws a single S in the negative space — SoftShox spelled in one gesture instead of ten letters. The two abstract forms do double duty: they’re also a pair of shock absorbers, which is the whole point of what the company engineers.",
    "categories": [
     "brand"
    ],
@@ -843,19 +843,19 @@
      "text": "Design & Creative Direction"
     }
    ],
-   "cover": "assets/img/softshox-001.jpg",
+   "cover": "assets/img/softshox-hero.jpg",
    "items": [
     {
      "title": "The Mark",
-     "caption": "One gesture, two S’s, no box. Bold enough to read at chin-strap size, simple enough to emboss or stitch. Protection, fluidity, precision — the brand’s ethos in a single shape.",
+     "caption": "The reveal. One mark, two S’s, no box — bold enough to read at chin-strap size, quiet enough to sit on black. Protection, fluidity, precision, in a single shape.",
      "type": "image",
-     "src": "assets/img/softshox-001.jpg",
+     "src": "assets/img/softshox-hero.jpg",
      "w": 1600,
      "h": 900
     },
     {
-     "title": "Flow",
-     "caption": "The build: take the S, duplicate it, flip it. Where the two forms meet, the negative space draws a symbol of flow. The old boxed wordmark retires; the new mark carries the name silently — a double S with no letters set.",
+     "title": "From the Old Mark",
+     "caption": "We started with what they had: a boxed wordmark, SOFT stacked over SHOX — safe, forgettable, no mark to speak of. Duplicate the S, flip it, and let the two overlap. Where they cross, the negative space draws a single S — SoftShox said in one gesture instead of two words. The pair of forms is also a small piece of engineering logic: two abstract shocks, absorbing side by side, exactly like the product.",
      "type": "image",
      "src": "assets/img/softshox-009.jpg",
      "w": 1600,
@@ -870,10 +870,18 @@
      "h": 900
     },
     {
-     "title": "In the Wild",
-     "caption": "The scalability test a mark either passes or doesn’t: embossed into the soft shell, printed on product, anchoring the corner of a founder interview.",
+     "title": "Engineered In",
+     "caption": "The mark isn’t bolted onto the product after the fact — it’s drafted into the shell itself. Set inside the actual CAD model, the S sits where the engineering lives, proof the identity and the bioengineering share one language.",
      "type": "image",
-     "src": "assets/img/softshox-010.jpg",
+     "src": "assets/img/softshox-cad.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "Embossed",
+     "caption": "Inside the helmet, not on it. Debossed into the padding the mark works in the one place a swoosh usually doesn’t bother going — where the product actually meets the head.",
+     "type": "image",
+     "src": "assets/img/softshox-embossed.jpg",
      "w": 1600,
      "h": 900
     },
