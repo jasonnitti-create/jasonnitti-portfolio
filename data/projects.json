@@ -38,6 +38,73 @@
  ],
  "projects": [
   {
+   "slug": "we-are-living-in-a-stimulation",
+   "title": "We Are Living in a Stimulation",
+   "summary": "I’ve spent most of my career inside creative systems — agencies, music, technology — and I kept noticing the same thing.\n\nFor some people, creativity isn’t inspiration. It’s compulsion.\n\nThis book isn’t about productivity or finding your muse. It’s an attempt to name the pattern behind creative compulsion, the cycle many of us live inside without realizing it.\n\nI wrote it mostly to understand myself. If it helps someone else feel a little less alone in the process, that’s enough.",
+   "categories": [
+    "nobrief",
+    "brand"
+   ],
+   "details": [
+    {
+     "label": "Project type",
+     "text": "Published Book — Kool Head Press, Atlanta"
+    },
+    {
+     "label": "Role",
+     "text": "Author, Cover & Interior Design"
+    },
+    {
+     "label": "Typography",
+     "text": "OCR-B (system voice) + Freight Text Pro (testimony)"
+    },
+    {
+     "label": "Framework",
+     "text": "The Echo Cycle: ⌁ Breach ⇌ Glitch ↻ Drift ⇒ Unleash"
+    }
+   ],
+   "cover": "assets/img/walias-book-hero.jpg",
+   "items": [
+    {
+     "title": "The Book",
+     "caption": "One part memoir, one part reframe. Not a book about finding your muse — a field guide for the people who don’t get inspired so much as infected: the bridge that cracks your ribs, the stranger’s laugh that becomes a protagonist, the lights still on at 2:17 AM. It names the pattern so the compulsion stops looking like chaos.",
+     "type": "image",
+     "src": "assets/img/walias-book-hero.jpg",
+     "w": 3166,
+     "h": 2336
+    },
+    {
+     "title": "The Type System",
+     "caption": "Two voices, two typefaces. OCR-B — drawn in 1968 for machines to read — speaks as the Stimulation: chapter marks, diagnostics, the system addressing you. Freight Text Pro carries the human testimony underneath it. No ornament, no pull-quote theatrics; the argument is the tension between the two, set in type and left alone.",
+     "type": "image",
+     "src": "assets/img/walias-design-montage.jpg",
+     "w": 1920,
+     "h": 936
+    },
+    {
+     "title": "The Echo Cycle",
+     "caption": "The book’s core model, drawn as signal: ⌁ Breach, ⇌ Glitch, ↻ Drift, ⇒ Unleash. Each phase owns a glyph, and the glyphs recur through the interior as wayfinding — a notation system the reader learns the same way the author did: by repetition.",
+     "type": "image",
+     "src": "assets/img/walias-echo-cycle.jpg",
+     "w": 1400,
+     "h": 2064
+    },
+    {
+     "title": "Transmission",
+     "caption": "The book trailer — an excerpt from the chapter of the same name. Cut to transmit the book’s worldview rather than summarize it. Sound on.",
+     "type": "video",
+     "src": "assets/vid/walias-trailer.mp4",
+     "poster": "assets/vid/walias-trailer.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Get the book on Amazon ↗",
+     "url": "https://www.amazon.com/We-are-Living-Stimulation-Compulsion/dp/B0GFXFN7GN/"
+    }
+   ]
+  },
+  {
    "slug": "ibm-watson-alex-da-kid",
    "title": "IBM Watson + Alex Da Kid",
    "summary": "Demonstrating the possibilities of IBM Watson in creative industries, like music, allowed IBM’s core business audience and tech-minded millennials to imagine what IBM could do for their business.",
@@ -109,6 +176,179 @@
      "src": "assets/img/ff06b4_e2f7f6c35cd34c38ac8ef230f4e35b2d-mv2.jpg",
      "w": 2880,
      "h": 1800
+    }
+   ]
+  },
+  {
+   "slug": "ibm-watson-phase-2",
+   "title": "Phase 2 - IBM Watson + Alex Da Kid",
+   "summary": "Keeping up with the thousands of new songs uploaded to the internet daily was impossible for music producer, Alex da Kid. So IBM helped him reinvent the process.",
+   "categories": [
+    "campaign",
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Direct, B2B, Influencer"
+    },
+    {
+     "label": "Output",
+     "text": "Online videos, content partnerships, social, influencer launch event, album artwork, radio idents, media tour."
+    },
+    {
+     "label": "Industry",
+     "text": "Music, Technology, A.I."
+    },
+    {
+     "label": "Agency",
+     "text": "KidInAKorner, WPP"
+    }
+   ],
+   "cover": "assets/img/bd6ef591-f603-4025-9abc-ad0b73e2151b.jpg",
+   "items": [
+    {
+     "title": "Case Study",
+     "caption": "In our second phase of the IBM Watson x Alex Da Kid partnership, IBM Developer, Joshua Carr, worked closely with ADK to gain insight into his vision and sensibility to drive discovery. Carr created a custom Watson solution to aid Alex’s search. A technology and entertainment industry first, Watson learned the language of music from the producer’s natural speech.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.mp4",
+     "poster": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.jpg"
+    },
+    {
+     "title": "Short Film",
+     "caption": "The creation of “Go” set a new standard for the music industry at large. To identify the perfect artist for his collaboration—rather than employ century-old A&R methods or spend countless hours casing the internet for new voices—Alex enlisted the help of IBM Watson. The technology allowed Alex to work smarter and more efficiently to uncover talent, changing the concept of A&R forever.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_1a2d99b47e9b497e883b7c6049f0c0f4.mp4",
+     "poster": "assets/vid/ff06b4_1a2d99b47e9b497e883b7c6049f0c0f4.jpg"
+    },
+    {
+     "title": "The Song - Alex Da Kid - Go ft. H.E.R., Rapsody",
+     "caption": "“Go” is said to be the first of many “game-changing moments” and singles that are birthed from using the Watson Artist Discovery Tool.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_95e31bf9733e4f68a3a4c06bb7e8eda7.mp4",
+     "poster": "assets/vid/ff06b4_95e31bf9733e4f68a3a4c06bb7e8eda7.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_469fa7bda65542c1b3bb210e6dc03822.mp4",
+     "poster": "assets/vid/ff06b4_469fa7bda65542c1b3bb210e6dc03822.jpg"
+    },
+    {
+     "title": "Go - Album Art",
+     "caption": "Concepted, designed, and produced the official album artwork for the release of the track.",
+     "type": "image",
+     "src": "assets/img/ff06b4_c9576787d36c4110a2da9dee173534a8-mv2.jpg",
+     "w": 640,
+     "h": 640
+    }
+   ]
+  },
+  {
+   "slug": "good-will-dunkin",
+   "title": "Good Will Dunkin'",
+   "summary": "For Super Bowl LX, Dunkin' reimagined its iced coffee origin story as a lost 1995 sitcom pilot: Ben Affleck stars with Jennifer Aniston, Matt LeBlanc, Jason Alexander, Ted Danson, Alfonso Ribeiro, Jaleel White and Jasmine Guy — plus a Tom Brady cameo. Theme music composed by Jason Nitti in authentic 90s sitcom style.",
+   "categories": [
+    "campaign",
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Dunkin'"
+    },
+    {
+     "label": "Type",
+     "text": "Big Game Commercial, Celebrity Ensemble"
+    },
+    {
+     "label": "Output",
+     "text": "Super Bowl LX spot “The Pilot”, Original 90s sitcom theme music"
+    },
+    {
+     "label": "Industry",
+     "text": "Food & Beverage"
+    },
+    {
+     "label": "Agency",
+     "text": "Artists Equity"
+    }
+   ],
+   "cover": "assets/img/good-will-dunkin-cover.jpg",
+   "items": [
+    {
+     "title": "The Pilot",
+     "caption": "A lost 1995 sitcom set at a Cambridge Dunkin' — equations scrawled on the shop windows, donut holes arranged in mathematical sequences, and something extraordinary hiding in plain sight. Period-correct sitcom theme song by Jason Nitti.",
+     "type": "video",
+     "src": "assets/vid/good-will-dunkin-01.mp4",
+     "poster": "assets/img/good-will-dunkin-cover.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "dunkin",
+   "title": "Dunkin'",
+   "summary": "Crafting the Dunkin sound with their new agency, Artist Equity",
+   "categories": [
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Dunkin' (Click thumbnails for case study)"
+    },
+    {
+     "label": "Type",
+     "text": "Campaign"
+    },
+    {
+     "label": "Output",
+     "text": "Music composition and production"
+    },
+    {
+     "label": "Agency",
+     "text": "Artist Equity"
+    }
+   ],
+   "cover": "assets/img/ff06b4_f5e27066e65244aeb46a80fff655e5f0-mv2.jpg",
+   "items": [
+    {
+     "title": "DunKings",
+     "caption": "This campaign debuted during the 2024 Grammy Awards and continued with a Super Bowl ad. It featured Ben Affleck and Matt Damon as members of the fictional band \"The DunKings,\" with cameos from celebrities like Tom Brady, Jennifer Lopez, and Jack Harlow. This campaign set a humorous tone, blending pop culture with Dunkin's brand identity\n\nTrack by Jason Nitti",
+     "type": "video",
+     "src": "assets/vid/ff06b4_898329a98e1c413abe67c3960dd96dd9.mp4",
+     "poster": "assets/vid/ff06b4_898329a98e1c413abe67c3960dd96dd9.jpg"
+    },
+    {
+     "title": "\"Ben got them beats\"",
+     "caption": "In the DunKings campaign, Ben Affleck humorously takes on the role of an aspiring pop star, playing himself with big dreams of breaking into the music industry. His backstory in the campaign is that he’s determined to make it as a singer. I had the pleasure of making Ben a library of beats to help kick off his career.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_fef7ead0b1c449c1a43d338615ee65e5.mp4",
+     "poster": "assets/vid/ff06b4_fef7ead0b1c449c1a43d338615ee65e5.jpg"
+    },
+    {
+     "title": "Dunkin'Terns - Summer",
+     "caption": "The Dunkin’ Iced EP, featuring Joey Fatone and A.J. McLean as the Iced Boys, was launched as part of Dunkin’s summer Dunkin’Terns campaign. This five-track EP, available on Spotify, is inspired by Dunkin's iced beverage lineup, with each song celebrating different iced drinks like the Dunkin' Iced Coffee, Refreshers, and SPARKD’ Energy. \n\nMusic by Jason Nitti",
+     "type": "video",
+     "src": "assets/vid/ff06b4_9f7821375dff49ecab67ef5aa7e289d9.mp4",
+     "poster": "assets/vid/ff06b4_9f7821375dff49ecab67ef5aa7e289d9.jpg"
+    },
+    {
+     "title": "Dunkalatte - Fall",
+     "caption": "In the fall of 2024, Dunkin’ introduced the Dunkalatte, a new beverage inspired by Rhode Island’s coffee milk. The campaign stars Kristen Wiig, who brings her comedic flair to a series of ads that highlight the unique flavor of this limited-time drink. Check out the delicious sax.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_ed69f5b5754f4725850f902ae08f0764.mp4",
+     "poster": "assets/vid/ff06b4_ed69f5b5754f4725850f902ae08f0764.jpg"
+    },
+    {
+     "title": "Dunkalatte - Product",
+     "caption": "Music by Jason Nitti",
+     "type": "video",
+     "src": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.mp4",
+     "poster": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.jpg"
     }
    ]
   },
@@ -190,189 +430,6 @@
    ]
   },
   {
-   "slug": "stereo-melon-studios",
-   "title": "Stereo Melon Studios",
-   "summary": "The birth of my daughter inspired a wealth of new stories to tell.",
-   "categories": [
-    "nobrief"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Personal, Stereo Melon Studios"
-    },
-    {
-     "label": "Type",
-     "text": "Video Content, Music, A.I."
-    },
-    {
-     "label": "Output",
-     "text": "Original Children's stories, Music Composition, Creative Direction & Design"
-    },
-    {
-     "label": "Industry",
-     "text": "Entertainment"
-    },
-    {
-     "label": "Agency",
-     "text": "Me"
-    }
-   ],
-   "cover": "assets/img/ff06b4_c7820117d816471abada91a3ef819831-mv2.jpg",
-   "items": [
-    {
-     "title": "What is Stereo Melon?",
-     "caption": "Stereo Melon was born from hanging out with my newborn daughter, Sloane. Telling her stories I made up on the go unleashed a wave of creativity and motivation to bring these stories to life.\n\nStereo Melon has become a growing collection of vibrant characters, magical landscapes, and endless adventures. \n\nThe music is also composed by me, carefully crafted with soothing solfeggio frequencies tuned to promote relaxation, healing, and overall well-being.\n\nContinue to watch some stories!",
-     "type": "video",
-     "src": "assets/vid/ff06b4_1275293ca7034ac6948dc018313e40e4.mp4",
-     "poster": "assets/vid/ff06b4_1275293ca7034ac6948dc018313e40e4.jpg"
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "embed",
-     "src": "https://www.youtube-nocookie.com/embed/p76rvG_JZPk",
-     "poster": "https://i.ytimg.com/vi/p76rvG_JZPk/hqdefault.jpg"
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "embed",
-     "src": "https://www.youtube-nocookie.com/embed/i4nJTkXYKrI",
-     "poster": "https://i.ytimg.com/vi/i4nJTkXYKrI/hqdefault.jpg"
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "embed",
-     "src": "https://www.youtube-nocookie.com/embed/Ta_jFuQXC4A",
-     "poster": "https://i.ytimg.com/vi/Ta_jFuQXC4A/hqdefault.jpg"
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "embed",
-     "src": "https://www.youtube-nocookie.com/embed/W_6X_StUTGQ",
-     "poster": "https://i.ytimg.com/vi/W_6X_StUTGQ/hqdefault.jpg"
-    },
-    {
-     "title": "A.I. Assisted Content",
-     "caption": "A.I. is a thing right now, and I fully embrace its potential to help bring ideas to life while streamlining the process. I’ve found there's a perfect mixture of right and left brain thinking when it comes to prompting and execution with A.I. I’ve captured my creative process along the way and plan on sharing all the quirks, pivots, adaptation and happy accidents along the way.",
-     "type": "image",
-     "src": "assets/img/ff06b4_12988fba4d954a0198bbcd6529e41ac9-mv2.jpg",
-     "w": 1577,
-     "h": 936
-    }
-   ]
-  },
-  {
-   "slug": "ecolab-x-prostart",
-   "title": "Ecolab x Prostart",
-   "summary": "Ecolab set out to make a bold statement at the NRA Show and their signature Sunday Spotlight event, choosing to honor the next generation of culinary leaders.",
-   "categories": [
-    "campaign"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Ecolab"
-    },
-    {
-     "label": "Type",
-     "text": "Partnership, Event"
-    },
-    {
-     "label": "Output",
-     "text": "Documentary Film"
-    },
-    {
-     "label": "Industry",
-     "text": "Sanitation Solutions"
-    },
-    {
-     "label": "Agency",
-     "text": "Goods & Services"
-    }
-   ],
-   "cover": "assets/img/9e127d64-b59d-4c4a-8982-601a61ff1ea2.jpg",
-   "items": [
-    {
-     "title": "Ecolab x ProStart",
-     "caption": "Ecolab, a global leader in water, hygiene, and energy technologies, is committed to creating a cleaner, safer, and healthier world. Their partnership with ProStart showcases this mission by empowering the next generation of culinary talent.\n\nEcolab set out to make a bold statement at the NRA Show and their signature Sunday Spotlight event, choosing to honor the next generation of culinary leaders. This documentary follows the journey of ProStart students from Badger High as they compete in national culinary and management challenges, bringing their passion and diverse cultural flavors to life. The film debuted at an unforgettable gala, where guests experienced the students' winning dishes firsthand at a pop-up restaurant designed and curated entirely by the students—an inspiring blend of mentorship, tradition, and innovation.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.mp4",
-     "poster": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "ibm-watson-phase-2",
-   "title": "Phase 2 - IBM Watson + Alex Da Kid",
-   "summary": "Keeping up with the thousands of new songs uploaded to the internet daily was impossible for music producer, Alex da Kid. So IBM helped him reinvent the process.",
-   "categories": [
-    "campaign",
-    "music",
-    "influencer"
-   ],
-   "details": [
-    {
-     "label": "Type",
-     "text": "Direct, B2B, Influencer"
-    },
-    {
-     "label": "Output",
-     "text": "Online videos, content partnerships, social, influencer launch event, album artwork, radio idents, media tour."
-    },
-    {
-     "label": "Industry",
-     "text": "Music, Technology, A.I."
-    },
-    {
-     "label": "Agency",
-     "text": "KidInAKorner, WPP"
-    }
-   ],
-   "cover": "assets/img/bd6ef591-f603-4025-9abc-ad0b73e2151b.jpg",
-   "items": [
-    {
-     "title": "Case Study",
-     "caption": "In our second phase of the IBM Watson x Alex Da Kid partnership, IBM Developer, Joshua Carr, worked closely with ADK to gain insight into his vision and sensibility to drive discovery. Carr created a custom Watson solution to aid Alex’s search. A technology and entertainment industry first, Watson learned the language of music from the producer’s natural speech.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.mp4",
-     "poster": "assets/vid/ff06b4_515638eef80c457e95237dfb13d63c43.jpg"
-    },
-    {
-     "title": "Short Film",
-     "caption": "The creation of “Go” set a new standard for the music industry at large. To identify the perfect artist for his collaboration—rather than employ century-old A&R methods or spend countless hours casing the internet for new voices—Alex enlisted the help of IBM Watson. The technology allowed Alex to work smarter and more efficiently to uncover talent, changing the concept of A&R forever.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_1a2d99b47e9b497e883b7c6049f0c0f4.mp4",
-     "poster": "assets/vid/ff06b4_1a2d99b47e9b497e883b7c6049f0c0f4.jpg"
-    },
-    {
-     "title": "The Song - Alex Da Kid - Go ft. H.E.R., Rapsody",
-     "caption": "“Go” is said to be the first of many “game-changing moments” and singles that are birthed from using the Watson Artist Discovery Tool.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_95e31bf9733e4f68a3a4c06bb7e8eda7.mp4",
-     "poster": "assets/vid/ff06b4_95e31bf9733e4f68a3a4c06bb7e8eda7.jpg"
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "video",
-     "src": "assets/vid/ff06b4_469fa7bda65542c1b3bb210e6dc03822.mp4",
-     "poster": "assets/vid/ff06b4_469fa7bda65542c1b3bb210e6dc03822.jpg"
-    },
-    {
-     "title": "Go - Album Art",
-     "caption": "Concepted, designed, and produced the official album artwork for the release of the track.",
-     "type": "image",
-     "src": "assets/img/ff06b4_c9576787d36c4110a2da9dee173534a8-mv2.jpg",
-     "w": 640,
-     "h": 640
-    }
-   ]
-  },
-  {
    "slug": "samsung-marvel",
    "title": "Samsung + Marvel",
    "summary": "Our mission: Activate a true global partnership between the biggest brand in technology and the biggest name in entertainment . Or was it, have as much fun as possible?",
@@ -438,6 +495,263 @@
      "type": "video",
      "src": "assets/vid/ff06b4_796080393d934bd7ad1749dc492a53ac.mp4",
      "poster": "assets/vid/ff06b4_796080393d934bd7ad1749dc492a53ac.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "converse",
+   "title": "Converse",
+   "summary": "Four years shaping stories for one of the world’s most iconic canvases, a brand built on self-expression and the power of creativity to change the world.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Project type",
+     "text": "Marketing, Brand Building"
+    },
+    {
+     "label": "Agency",
+     "text": "Anomaly NYC"
+    }
+   ],
+   "cover": "assets/img/ff06b4_3f786b19f594432f83965267dceddfb4-mv2.jpg",
+   "items": [
+    {
+     "title": "History Made & In the Making",
+     "caption": "Over four years with Converse, I touched nearly every corner of the brand, from creating music videos and launching a Brooklyn music studio to amplifying emerging voices across sport, comic books, music, and art. The volume of work was immense, but the mission was simple: to keep Converse a living symbol of self-expression. It was a brand I loved working on every minute, a playground where craft met culture and creativity never stood still.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.mp4",
+     "poster": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "converse-im-a-goner",
+   "title": "Converse — I'm a Goner",
+   "summary": "Part of Converse's “Three Artists, One Song” series: an unlikely collaboration between Matt & Kim, Soulja Boy and Andrew W.K., released as a free download with a blood-soaked morgue dance party of a music video that premiered on MTV2.",
+   "categories": [
+    "campaign",
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Converse"
+    },
+    {
+     "label": "Type",
+     "text": "Music Campaign, Branded Content"
+    },
+    {
+     "label": "Output",
+     "text": "Original song, Music video, Free download release"
+    },
+    {
+     "label": "Industry",
+     "text": "Footwear, Apparel"
+    },
+    {
+     "label": "Agency",
+     "text": "Anomaly"
+    }
+   ],
+   "cover": "assets/img/converse-im-a-goner-cover.jpg",
+   "items": [
+    {
+     "title": "I'm a Goner",
+     "caption": "Matt & Kim, Soulja Boy and Andrew W.K. rise from the dead to throw a raging dance party in a morgue. Premiered on MTV2’s “Converse Band of Ballers”; the track was released as a free download on converse.com/music.",
+     "type": "video",
+     "src": "assets/vid/converse-im-a-goner-01.mp4",
+     "poster": "assets/vid/converse-im-a-goner-01.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "high-desert-cactus-vodka",
+   "title": "High Desert Cactus Vodka",
+   "summary": "High Desert is a Austin based vodka brand that was created authentically from the ground up. Everything about the story is true and accurate by design. No part of it was manufactured or staged, keeping it simple, iconic, honest, and most of all, competitive.",
+   "categories": [
+    "campaign",
+    "brand"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "High Desert (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "Branding, Marketing"
+    },
+    {
+     "label": "Output",
+     "text": "Documentary, Design Systems, Social, Experiential"
+    },
+    {
+     "label": "Industry",
+     "text": "Spirits"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/ff06b4_32d8862ab533487e888d07adf65167a6-mv2.jpg",
+   "items": [
+    {
+     "title": "In the Making",
+     "caption": "Inspired by the beauty and bounty of the Southwest, founders Logan Sligar and Ryan Springer wanted to make a spirit out of the prickly pear cactus fruit. A new kind of vodka brand was born.\n\nCreating a new brand of vodka presents a myriad challenges For one thing, High Desert was based in Austin where both Titos and Deep Eddy’s had carved out strong allegiances with customers and distributors.\n\nHowever High Desert had a handful of key advantages that set them apart. For one thing, as the new flavor on the block they were fresh, different, a new jolt to the vodka space. For another the cactus element gave them a unique aspect that allowed them to straddle both the vodka and tequila markets. For another the prickly pear, and the method of farming they employed, proved to be highly sustainable so their story included the angle of a renewable resource.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_95ea2beb7a734e5fbe6a0106b84c389a.mp4",
+     "poster": "assets/vid/ff06b4_95ea2beb7a734e5fbe6a0106b84c389a.jpg"
+    },
+    {
+     "title": "The Ask",
+     "caption": "Build the High Desert brand from the ground up in a way that celebrates the product's heritage and hand-made spirit and differentiates it from everything else on the shelf.\n\nSo we took a trip to the source: San Luis Potosi, Mexico",
+     "type": "image",
+     "src": "assets/img/ff06b4_d2681c84bfd64ef4a37f92a990e0087a-mv2.jpg",
+     "w": 1766,
+     "h": 974
+    },
+    {
+     "title": "Vision and Voice",
+     "caption": "Our trip to the source provided a wealth of assets for our campaign.",
+     "type": "image",
+     "src": "assets/img/ff06b4_1fd94e7bed3e466ebda039c2bf998d6d-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_59976755f714404dacf1a499df25db93-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "In the Making",
+     "caption": "We even hand carved a cactus for the bottle label keeping in line the \"In the Making\" brand positioning.",
+     "type": "image",
+     "src": "assets/img/ff06b4_cebe4952a71c4950b2fba482f038abd3-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "Design with Spirit",
+     "caption": "Even the label alluded the mountain vistas of San Luis Potosi, with the hand torn front and back label to create depth.",
+     "type": "image",
+     "src": "assets/img/ff06b4_98c9c0f00a564ec7a93adc277a6a1121-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_a2b463615da44c49880da8ec656829d6-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_b3f2a4061ccf4f6ab9e92e2b53b96273-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_5f1925da049e4c288d6e46e52269b669-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    }
+   ]
+  },
+  {
+   "slug": "airbnb",
+   "title": "Airbnb",
+   "summary": "Travel has become about going and looking and watching and waiting and following and that needs to stop. Airbnb let's you live, not travel, like a local.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Airbnb (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "Global Campaign"
+    },
+    {
+     "label": "Output",
+     "text": "TVC, digital, OOH, print, social activations"
+    },
+    {
+     "label": "Industry",
+     "text": "Tourism, Hotel & Resort"
+    },
+    {
+     "label": "Agency",
+     "text": "TBWA Chiat Day"
+    },
+    {
+     "label": "Awards",
+     "text": "Webby Awards - Nominee: Advertising, Media & PR, Video Ad Longform"
+    }
+   ],
+   "cover": "assets/img/ff06b4_1693bf573af647d2bbfe4594fd4b5c2f-mv2.jpg",
+   "items": [
+    {
+     "title": "Live There",
+     "caption": "When you stay in an Airbnb you feel like you live there. And not just in the house. In that neighborhood. In that town. That cool coffee shop on the corner is YOUR cool coffee shop. That neighbor is your neighbor. Staying in an Airbnb doesn't feel like staying. It feels like living. \n\nAt a global launch event, Airbnb’s uncompromising CEO Brian Chesky championed ‘Live There’ as a tenet of the brand’s future.",
+     "type": "image",
+     "src": "assets/img/ff06b4_dddaf4f732d7496f926ec50ebccbd040-mv2.jpg",
+     "w": 1920,
+     "h": 1080
+    },
+    {
+     "title": "Objective",
+     "caption": "Airbnb, the global online marketplace for lodging and travel experiences, aimed to redefine travel and encourage users to experience destinations like a local. The #LiveThere campaign sought to promote the idea of authentic and unique travel experiences facilitated by Airbnb, emphasizing a departure from traditional tourist experiences.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_89c1818e9cd54235a633ccc4e8b7148a.mp4",
+     "poster": "assets/vid/ff06b4_89c1818e9cd54235a633ccc4e8b7148a.jpg"
+    },
+    {
+     "title": "Reinforced Brand Positioning",
+     "caption": "The global campaign features :15, :30 and :60 second TV spots, as well as digital, out-of-home, and print. Additionally, disruptive, bespoke social activations drive added engagement on Pinterest, Facebook, Twitter and Snapchat.",
+     "type": "image",
+     "src": "assets/img/ff06b4_5035b37d938b4032980f961293d8e954-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "Results",
+     "caption": "Faced with wining over the cool kids with declining awareness growth, Airbnb had to reach beyond its millennial core to a broader audience. By directly challenging how they were traveling, Dont Go There. Live There became the most successful campaign in Airbnbs history",
+     "type": "image",
+     "src": "assets/img/ff06b4_d73b4f08eb2d4f3b82ca2f018ff7fa39-mv2.jpg",
+     "w": 6000,
+     "h": 3375
+    },
+    {
+     "title": "Love This? Live there.",
+     "caption": "As a sister promo, we told travelers if they can dream it. They can live it.\n\n\n\n45 million international tourists chose a travel destination just because they saw a movie or TV show that was filmed there. And who can blame them? With castles and cabins, treehouses and private islands, you really can live in the movies you love with Airbnb.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_0c966cfffe4744e4983581c283368bfb.mp4",
+     "poster": "assets/vid/ff06b4_0c966cfffe4744e4983581c283368bfb.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "video",
+     "src": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.mp4",
+     "poster": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.jpg"
     }
    ]
   },
@@ -558,344 +872,6 @@
    ]
   },
   {
-   "slug": "converse",
-   "title": "Converse",
-   "summary": "Four years shaping stories for one of the world’s most iconic canvases, a brand built on self-expression and the power of creativity to change the world.",
-   "categories": [
-    "campaign"
-   ],
-   "details": [
-    {
-     "label": "Project type",
-     "text": "Marketing, Brand Building"
-    },
-    {
-     "label": "Agency",
-     "text": "Anomaly NYC"
-    }
-   ],
-   "cover": "assets/img/ff06b4_3f786b19f594432f83965267dceddfb4-mv2.jpg",
-   "items": [
-    {
-     "title": "History Made & In the Making",
-     "caption": "Over four years with Converse, I touched nearly every corner of the brand, from creating music videos and launching a Brooklyn music studio to amplifying emerging voices across sport, comic books, music, and art. The volume of work was immense, but the mission was simple: to keep Converse a living symbol of self-expression. It was a brand I loved working on every minute, a playground where craft met culture and creativity never stood still.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.mp4",
-     "poster": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "converse-im-a-goner",
-   "title": "Converse — I'm a Goner",
-   "summary": "Part of Converse's “Three Artists, One Song” series: an unlikely collaboration between Matt & Kim, Soulja Boy and Andrew W.K., released as a free download with a blood-soaked morgue dance party of a music video that premiered on MTV2.",
-   "categories": [
-    "campaign",
-    "music",
-    "influencer"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Converse"
-    },
-    {
-     "label": "Type",
-     "text": "Music Campaign, Branded Content"
-    },
-    {
-     "label": "Output",
-     "text": "Original song, Music video, Free download release"
-    },
-    {
-     "label": "Industry",
-     "text": "Footwear, Apparel"
-    },
-    {
-     "label": "Agency",
-     "text": "Anomaly"
-    }
-   ],
-   "cover": "assets/img/converse-im-a-goner-cover.jpg",
-   "items": [
-    {
-     "title": "I'm a Goner",
-     "caption": "Matt & Kim, Soulja Boy and Andrew W.K. rise from the dead to throw a raging dance party in a morgue. Premiered on MTV2’s “Converse Band of Ballers”; the track was released as a free download on converse.com/music.",
-     "type": "video",
-     "src": "assets/vid/converse-im-a-goner-01.mp4",
-     "poster": "assets/vid/converse-im-a-goner-01.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "airbnb",
-   "title": "Airbnb",
-   "summary": "Travel has become about going and looking and watching and waiting and following and that needs to stop. Airbnb let's you live, not travel, like a local.",
-   "categories": [
-    "campaign"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Airbnb (click thumbnails for details)"
-    },
-    {
-     "label": "Type",
-     "text": "Global Campaign"
-    },
-    {
-     "label": "Output",
-     "text": "TVC, digital, OOH, print, social activations"
-    },
-    {
-     "label": "Industry",
-     "text": "Tourism, Hotel & Resort"
-    },
-    {
-     "label": "Agency",
-     "text": "TBWA Chiat Day"
-    },
-    {
-     "label": "Awards",
-     "text": "Webby Awards - Nominee: Advertising, Media & PR, Video Ad Longform"
-    }
-   ],
-   "cover": "assets/img/ff06b4_1693bf573af647d2bbfe4594fd4b5c2f-mv2.jpg",
-   "items": [
-    {
-     "title": "Live There",
-     "caption": "When you stay in an Airbnb you feel like you live there. And not just in the house. In that neighborhood. In that town. That cool coffee shop on the corner is YOUR cool coffee shop. That neighbor is your neighbor. Staying in an Airbnb doesn't feel like staying. It feels like living. \n\nAt a global launch event, Airbnb’s uncompromising CEO Brian Chesky championed ‘Live There’ as a tenet of the brand’s future.",
-     "type": "image",
-     "src": "assets/img/ff06b4_dddaf4f732d7496f926ec50ebccbd040-mv2.jpg",
-     "w": 1920,
-     "h": 1080
-    },
-    {
-     "title": "Objective",
-     "caption": "Airbnb, the global online marketplace for lodging and travel experiences, aimed to redefine travel and encourage users to experience destinations like a local. The #LiveThere campaign sought to promote the idea of authentic and unique travel experiences facilitated by Airbnb, emphasizing a departure from traditional tourist experiences.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_89c1818e9cd54235a633ccc4e8b7148a.mp4",
-     "poster": "assets/vid/ff06b4_89c1818e9cd54235a633ccc4e8b7148a.jpg"
-    },
-    {
-     "title": "Reinforced Brand Positioning",
-     "caption": "The global campaign features :15, :30 and :60 second TV spots, as well as digital, out-of-home, and print. Additionally, disruptive, bespoke social activations drive added engagement on Pinterest, Facebook, Twitter and Snapchat.",
-     "type": "image",
-     "src": "assets/img/ff06b4_5035b37d938b4032980f961293d8e954-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    },
-    {
-     "title": "Results",
-     "caption": "Faced with wining over the cool kids with declining awareness growth, Airbnb had to reach beyond its millennial core to a broader audience. By directly challenging how they were traveling, Dont Go There. Live There became the most successful campaign in Airbnbs history",
-     "type": "image",
-     "src": "assets/img/ff06b4_d73b4f08eb2d4f3b82ca2f018ff7fa39-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    },
-    {
-     "title": "Love This? Live there.",
-     "caption": "As a sister promo, we told travelers if they can dream it. They can live it.\n\n\n\n45 million international tourists chose a travel destination just because they saw a movie or TV show that was filmed there. And who can blame them? With castles and cabins, treehouses and private islands, you really can live in the movies you love with Airbnb.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_0c966cfffe4744e4983581c283368bfb.mp4",
-     "poster": "assets/vid/ff06b4_0c966cfffe4744e4983581c283368bfb.jpg"
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "video",
-     "src": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.mp4",
-     "poster": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "high-desert-cactus-vodka",
-   "title": "High Desert Cactus Vodka",
-   "summary": "High Desert is a Austin based vodka brand that was created authentically from the ground up. Everything about the story is true and accurate by design. No part of it was manufactured or staged, keeping it simple, iconic, honest, and most of all, competitive.",
-   "categories": [
-    "campaign",
-    "brand"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "High Desert (click thumbnails for details)"
-    },
-    {
-     "label": "Type",
-     "text": "Branding, Marketing"
-    },
-    {
-     "label": "Output",
-     "text": "Documentary, Design Systems, Social, Experiential"
-    },
-    {
-     "label": "Industry",
-     "text": "Spirits"
-    },
-    {
-     "label": "Agency",
-     "text": "Goods & Services"
-    }
-   ],
-   "cover": "assets/img/ff06b4_32d8862ab533487e888d07adf65167a6-mv2.jpg",
-   "items": [
-    {
-     "title": "In the Making",
-     "caption": "Inspired by the beauty and bounty of the Southwest, founders Logan Sligar and Ryan Springer wanted to make a spirit out of the prickly pear cactus fruit. A new kind of vodka brand was born.\n\nCreating a new brand of vodka presents a myriad challenges For one thing, High Desert was based in Austin where both Titos and Deep Eddy’s had carved out strong allegiances with customers and distributors.\n\nHowever High Desert had a handful of key advantages that set them apart. For one thing, as the new flavor on the block they were fresh, different, a new jolt to the vodka space. For another the cactus element gave them a unique aspect that allowed them to straddle both the vodka and tequila markets. For another the prickly pear, and the method of farming they employed, proved to be highly sustainable so their story included the angle of a renewable resource.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_95ea2beb7a734e5fbe6a0106b84c389a.mp4",
-     "poster": "assets/vid/ff06b4_95ea2beb7a734e5fbe6a0106b84c389a.jpg"
-    },
-    {
-     "title": "The Ask",
-     "caption": "Build the High Desert brand from the ground up in a way that celebrates the product's heritage and hand-made spirit and differentiates it from everything else on the shelf.\n\nSo we took a trip to the source: San Luis Potosi, Mexico",
-     "type": "image",
-     "src": "assets/img/ff06b4_d2681c84bfd64ef4a37f92a990e0087a-mv2.jpg",
-     "w": 1766,
-     "h": 974
-    },
-    {
-     "title": "Vision and Voice",
-     "caption": "Our trip to the source provided a wealth of assets for our campaign.",
-     "type": "image",
-     "src": "assets/img/ff06b4_1fd94e7bed3e466ebda039c2bf998d6d-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "image",
-     "src": "assets/img/ff06b4_59976755f714404dacf1a499df25db93-mv2.jpg",
-     "w": 1920,
-     "h": 1080
-    },
-    {
-     "title": "In the Making",
-     "caption": "We even hand carved a cactus for the bottle label keeping in line the \"In the Making\" brand positioning.",
-     "type": "image",
-     "src": "assets/img/ff06b4_cebe4952a71c4950b2fba482f038abd3-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    },
-    {
-     "title": "Design with Spirit",
-     "caption": "Even the label alluded the mountain vistas of San Luis Potosi, with the hand torn front and back label to create depth.",
-     "type": "image",
-     "src": "assets/img/ff06b4_98c9c0f00a564ec7a93adc277a6a1121-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "image",
-     "src": "assets/img/ff06b4_a2b463615da44c49880da8ec656829d6-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "image",
-     "src": "assets/img/ff06b4_b3f2a4061ccf4f6ab9e92e2b53b96273-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "image",
-     "src": "assets/img/ff06b4_5f1925da049e4c288d6e46e52269b669-mv2.jpg",
-     "w": 6000,
-     "h": 3375
-    }
-   ]
-  },
-  {
-   "slug": "softshox",
-   "title": "SoftShox",
-   "summary": "SoftShox builds soft helmet technology — Stanford bioengineering designed to absorb the impacts hard shells can’t. Founded by former athletes who turned their own concussions into the mission, they needed what every product company wants: their swoosh.\n\nThe answer was already in their old wordmark. Duplicate the S, flip it, and the overlap draws a single S in the negative space — SoftShox spelled in one gesture instead of ten letters. The two abstract forms do double duty: they’re also a pair of shock absorbers, which is the whole point of what the company engineers.",
-   "categories": [
-    "brand"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "SoftShox (Savior Brain)"
-    },
-    {
-     "label": "Type",
-     "text": "Brand Identity, Logo Design"
-    },
-    {
-     "label": "Output",
-     "text": "Logo mark, wordmark lockups, color system, product & apparel applications"
-    },
-    {
-     "label": "Industry",
-     "text": "Sports Tech, Bioengineering"
-    },
-    {
-     "label": "Role",
-     "text": "Design & Creative Direction"
-    }
-   ],
-   "cover": "assets/img/softshox-hero.jpg",
-   "items": [
-    {
-     "title": "The Mark",
-     "caption": "The reveal. One mark, two S’s, no box — bold enough to read at chin-strap size, quiet enough to sit on black. Protection, fluidity, precision, in a single shape.",
-     "type": "image",
-     "src": "assets/img/softshox-hero.jpg",
-     "w": 1600,
-     "h": 900
-    },
-    {
-     "title": "From the Old Mark",
-     "caption": "We started with what they had: a boxed wordmark, SOFT stacked over SHOX — safe, forgettable, no mark to speak of. Duplicate the S, flip it, and let the two overlap. Where they cross, the negative space draws a single S — SoftShox said in one gesture instead of two words. The pair of forms is also a small piece of engineering logic: two abstract shocks, absorbing side by side, exactly like the product.",
-     "type": "image",
-     "src": "assets/img/softshox-009.jpg",
-     "w": 1600,
-     "h": 900
-    },
-    {
-     "title": "The System",
-     "caption": "Lockups and inversions: black, white, and the electric blue accent. SOFTSHOX sets in quiet spaced caps beneath the icon — restrained type, so the mark does the talking.",
-     "type": "image",
-     "src": "assets/img/softshox-006.jpg",
-     "w": 1600,
-     "h": 900
-    },
-    {
-     "title": "Engineered In",
-     "caption": "The mark isn’t bolted onto the product after the fact — it’s drafted into the shell itself. Set inside the actual CAD model, the S sits where the engineering lives, proof the identity and the bioengineering share one language.",
-     "type": "image",
-     "src": "assets/img/softshox-cad.jpg",
-     "w": 1600,
-     "h": 900
-    },
-    {
-     "title": "Embossed",
-     "caption": "Inside the helmet, not on it. Debossed into the padding the mark works in the one place a swoosh usually doesn’t bother going — where the product actually meets the head.",
-     "type": "image",
-     "src": "assets/img/softshox-embossed.jpg",
-     "w": 1600,
-     "h": 900
-    },
-    {
-     "title": "On Body",
-     "caption": "The merch test — cap, hoodie, tee. If people would wear it without knowing what the company does, it’s a logo. If it still reads as flow from ten feet, it’s a brand.",
-     "type": "image",
-     "src": "assets/img/softshox-008.jpg",
-     "w": 1600,
-     "h": 900
-    }
-   ]
-  },
-  {
    "slug": "rheem-water-heaters",
    "title": "Rheem Water Heaters",
    "summary": "Everyone in the industry already knew that Rheem had been a trusted leader in the water heating space for nearly 100 years. They thought it was time the public knew it, too.",
@@ -1010,365 +986,6 @@
    ]
   },
   {
-   "slug": "we-are-living-in-a-stimulation",
-   "title": "We Are Living in a Stimulation",
-   "summary": "I’ve spent most of my career inside creative systems — agencies, music, technology — and I kept noticing the same thing.\n\nFor some people, creativity isn’t inspiration. It’s compulsion.\n\nThis book isn’t about productivity or finding your muse. It’s an attempt to name the pattern behind creative compulsion, the cycle many of us live inside without realizing it.\n\nI wrote it mostly to understand myself. If it helps someone else feel a little less alone in the process, that’s enough.",
-   "categories": [
-    "nobrief",
-    "brand"
-   ],
-   "details": [
-    {
-     "label": "Project type",
-     "text": "Published Book — Kool Head Press, Atlanta"
-    },
-    {
-     "label": "Role",
-     "text": "Author, Cover & Interior Design"
-    },
-    {
-     "label": "Typography",
-     "text": "OCR-B (system voice) + Freight Text Pro (testimony)"
-    },
-    {
-     "label": "Framework",
-     "text": "The Echo Cycle: ⌁ Breach ⇌ Glitch ↻ Drift ⇒ Unleash"
-    }
-   ],
-   "cover": "assets/img/walias-book-hero.jpg",
-   "items": [
-    {
-     "title": "The Book",
-     "caption": "One part memoir, one part reframe. Not a book about finding your muse — a field guide for the people who don’t get inspired so much as infected: the bridge that cracks your ribs, the stranger’s laugh that becomes a protagonist, the lights still on at 2:17 AM. It names the pattern so the compulsion stops looking like chaos.",
-     "type": "image",
-     "src": "assets/img/walias-book-hero.jpg",
-     "w": 3166,
-     "h": 2336
-    },
-    {
-     "title": "The Type System",
-     "caption": "Two voices, two typefaces. OCR-B — drawn in 1968 for machines to read — speaks as the Stimulation: chapter marks, diagnostics, the system addressing you. Freight Text Pro carries the human testimony underneath it. No ornament, no pull-quote theatrics; the argument is the tension between the two, set in type and left alone.",
-     "type": "image",
-     "src": "assets/img/walias-design-montage.jpg",
-     "w": 1920,
-     "h": 936
-    },
-    {
-     "title": "The Echo Cycle",
-     "caption": "The book’s core model, drawn as signal: ⌁ Breach, ⇌ Glitch, ↻ Drift, ⇒ Unleash. Each phase owns a glyph, and the glyphs recur through the interior as wayfinding — a notation system the reader learns the same way the author did: by repetition.",
-     "type": "image",
-     "src": "assets/img/walias-echo-cycle.jpg",
-     "w": 1400,
-     "h": 2064
-    },
-    {
-     "title": "Transmission",
-     "caption": "The book trailer — an excerpt from the chapter of the same name. Cut to transmit the book’s worldview rather than summarize it. Sound on.",
-     "type": "video",
-     "src": "assets/vid/walias-trailer.mp4",
-     "poster": "assets/vid/walias-trailer.jpg"
-    }
-   ],
-   "links": [
-    {
-     "label": "Get the book on Amazon ↗",
-     "url": "https://www.amazon.com/We-are-Living-Stimulation-Compulsion/dp/B0GFXFN7GN/"
-    }
-   ]
-  },
-  {
-   "slug": "cart-com",
-   "title": "Cart.com",
-   "summary": "Cart.com wanted to work with companies they thought were cool and progressive, so we captured a voice that would tap into the language of modern culture to appeal to these types of brands",
-   "categories": [
-    "campaign"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Cart.com (click thumbnails for details)"
-    },
-    {
-     "label": "Type",
-     "text": "B2B, Brand Stories & Systems"
-    },
-    {
-     "label": "Output",
-     "text": "OOH, Design, Direct Mail"
-    },
-    {
-     "label": "Industry",
-     "text": "Technology, E-Commerce"
-    },
-    {
-     "label": "Agency",
-     "text": "Goods & Services"
-    }
-   ],
-   "cover": "assets/img/ff06b4_6b14b2c7fd504ae2ae636cbfbd701123-mv2.jpg",
-   "items": [
-    {
-     "title": "Challenge",
-     "caption": "Cart.com is a new digital marketing platform making a big noise in the ecommerce world. To help them build awareness, we created the “Dearest” campaign, an affectionate — some might even say obsessive — expression of love that puts the “court order” back into “courtship.”",
-     "type": "image",
-     "src": "assets/img/ff06b4_09bf0f2f3769486bb01fd2b94a894ff5-mv2.jpg",
-     "w": 3456,
-     "h": 1600
-    },
-    {
-     "title": "Courting brands",
-     "caption": "Our concept of publicly posting love letters to the company’s favorite brands pairs old-school signage with the stopping power of a public social post. The campaign is called “Dearest” and it turns B2B marketing on its head. We likened it to serenading a sweetheart beneath a bedroom window – but with an edge.\n\nThe poster-sized love letters are visible in major cities like LA, San Francisco, Austin, and Atlanta, and include 36 different brands, such as Liquid Death, BeautyCounter, and Toms. The passionate side of our brand voice describes the lengths that Cart.com will go to help a brand – if they commit to a relationship.\nTargeted brands also receive a care package that keeps the love alive and carries the same brand voice throughout.",
-     "type": "image",
-     "src": "assets/img/ff06b4_99415ecfefa645a88a3dee76dbefb4e4-mv2.jpg",
-     "w": 800,
-     "h": 800
-    },
-    {
-     "title": "",
-     "caption": "",
-     "type": "image",
-     "src": "assets/img/ff06b4_0c03108b5c4a43998e2ae76b7e8c2a20-mv2.jpg",
-     "w": 1314,
-     "h": 1746
-    },
-    {
-     "title": "Case Study",
-     "caption": "Employing a barrage of (very) personally targeted, fun, irreverent, and tongue-in-cheek love letters, we helped Cart.com fervently express the depths and breadths of its affection and commitment. Cart then printed each letter as oversized posters and placed them, guerilla style, in heavily trafficked areas of Austin, Los Angeles, and around the country for the world to bear witness to Cart’s undying devotion.\n\nAnd because Cart wanted everyone to know how excited they were about their crushes, the team posted about our love letters on LinkedIn (#dearest) so the whole world could know. After all, the Cart wants what the Cart wants.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.mp4",
-     "poster": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "heavily-vs-ryan-whitby",
-   "title": "Heavily vs Ryan Whitby",
-   "summary": "Music + Code Project",
-   "categories": [
-    "nobrief",
-    "music"
-   ],
-   "details": [
-    {
-     "label": "Type",
-     "text": "Personal Project"
-    },
-    {
-     "label": "Output",
-     "text": "Music Composition & Code"
-    },
-    {
-     "label": "Media",
-     "text": "Spotify & Youtube"
-    }
-   ],
-   "cover": "assets/img/ff06b4_19607be9c4b541bfa69641a459a2cdb1-mv2.jpg",
-   "items": [
-    {
-     "title": "Off-Scripted",
-     "caption": "Heavily is a music project by Jason Nitti. \n\nThe world of Heavily is not just sonic, but highly visual, making it vital for Nitti to integrate artistic elements by showcasing visual artists to help bring the album to life.\n\nNitti collaborated with artist/designer Ryan Whitby, who created these animations with code inside the visual development platform Touchdesigner.  By scripting behaviors rather than keyframes the pieces naturally respond to the music of Heavily in an almost sentient manner.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_e645d01f85f1497a8fade484116e60cc.mp4",
-     "poster": "assets/vid/ff06b4_e645d01f85f1497a8fade484116e60cc.jpg"
-    },
-    {
-     "title": "In Ryan's Words...",
-     "caption": "\"The animated artwork for Heavily was born from a daily meditative practice during the New York lockdown in 2020.  The animations are largely inspired by the incessant passage of time and the void in which our memories live.  They are the imperfect recollections of a world outside, behind, and yet to come. Platonic shapes, lunar images, point cloud scans of renaissance statues, and AI-generated video of fictional landscapes, are used as varied source material for each animation to be distorted and reconstructed as a sampling of the fevered dream of reality.\"",
-     "type": "video",
-     "src": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.mp4",
-     "poster": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "time-hopper",
-   "title": "Time Hopper",
-   "summary": "There are travel influencers, and then there’s the first time-traveling one, born from the unapologetic power of A.I.",
-   "categories": [
-    "campaign",
-    "influencer"
-   ],
-   "details": [
-    {
-     "label": "Type",
-     "text": "Influencer, Social"
-    },
-    {
-     "label": "Output",
-     "text": "Social, Content Partnerships, Influencer, A.I."
-    },
-    {
-     "label": "Industry",
-     "text": "Travel & Tourism"
-    },
-    {
-     "label": "Agency",
-     "text": "Sparkloft Media"
-    }
-   ],
-   "cover": "assets/img/ff06b4_d0e0f101559543268d35093e4dbc584f-mv2.jpg",
-   "items": [
-    {
-     "title": "Meet Time Hopper",
-     "caption": "Time Hopper is Sparkloft Media’s unapologetically A.I. travel influencer. A time-hopping rabbit who explores the past and future to make history trend again. Instead of blurring the line between human and synthetic, Hopper embraces his artificial identity to show how destinations can use A.I. responsibly, creatively, and transparently. Blending humor, cultural insight, and historical storytelling, the project redefines influencer marketing for the post-human era, a proof-of-concept where technology becomes a collaborator, not an impostor, and authenticity comes from intention, not illusion.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.mp4",
-     "poster": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "dunkin",
-   "title": "Dunkin'",
-   "summary": "Crafting the Dunkin sound with their new agency, Artist Equity",
-   "categories": [
-    "music"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Dunkin' (Click thumbnails for case study)"
-    },
-    {
-     "label": "Type",
-     "text": "Campaign"
-    },
-    {
-     "label": "Output",
-     "text": "Music composition and production"
-    },
-    {
-     "label": "Agency",
-     "text": "Artist Equity"
-    }
-   ],
-   "cover": "assets/img/ff06b4_f5e27066e65244aeb46a80fff655e5f0-mv2.jpg",
-   "items": [
-    {
-     "title": "DunKings",
-     "caption": "This campaign debuted during the 2024 Grammy Awards and continued with a Super Bowl ad. It featured Ben Affleck and Matt Damon as members of the fictional band \"The DunKings,\" with cameos from celebrities like Tom Brady, Jennifer Lopez, and Jack Harlow. This campaign set a humorous tone, blending pop culture with Dunkin's brand identity\n\nTrack by Jason Nitti",
-     "type": "video",
-     "src": "assets/vid/ff06b4_898329a98e1c413abe67c3960dd96dd9.mp4",
-     "poster": "assets/vid/ff06b4_898329a98e1c413abe67c3960dd96dd9.jpg"
-    },
-    {
-     "title": "\"Ben got them beats\"",
-     "caption": "In the DunKings campaign, Ben Affleck humorously takes on the role of an aspiring pop star, playing himself with big dreams of breaking into the music industry. His backstory in the campaign is that he’s determined to make it as a singer. I had the pleasure of making Ben a library of beats to help kick off his career.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_fef7ead0b1c449c1a43d338615ee65e5.mp4",
-     "poster": "assets/vid/ff06b4_fef7ead0b1c449c1a43d338615ee65e5.jpg"
-    },
-    {
-     "title": "Dunkin'Terns - Summer",
-     "caption": "The Dunkin’ Iced EP, featuring Joey Fatone and A.J. McLean as the Iced Boys, was launched as part of Dunkin’s summer Dunkin’Terns campaign. This five-track EP, available on Spotify, is inspired by Dunkin's iced beverage lineup, with each song celebrating different iced drinks like the Dunkin' Iced Coffee, Refreshers, and SPARKD’ Energy. \n\nMusic by Jason Nitti",
-     "type": "video",
-     "src": "assets/vid/ff06b4_9f7821375dff49ecab67ef5aa7e289d9.mp4",
-     "poster": "assets/vid/ff06b4_9f7821375dff49ecab67ef5aa7e289d9.jpg"
-    },
-    {
-     "title": "Dunkalatte - Fall",
-     "caption": "In the fall of 2024, Dunkin’ introduced the Dunkalatte, a new beverage inspired by Rhode Island’s coffee milk. The campaign stars Kristen Wiig, who brings her comedic flair to a series of ads that highlight the unique flavor of this limited-time drink. Check out the delicious sax.",
-     "type": "video",
-     "src": "assets/vid/ff06b4_ed69f5b5754f4725850f902ae08f0764.mp4",
-     "poster": "assets/vid/ff06b4_ed69f5b5754f4725850f902ae08f0764.jpg"
-    },
-    {
-     "title": "Dunkalatte - Product",
-     "caption": "Music by Jason Nitti",
-     "type": "video",
-     "src": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.mp4",
-     "poster": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "good-will-dunkin",
-   "title": "Good Will Dunkin'",
-   "summary": "For Super Bowl LX, Dunkin' reimagined its iced coffee origin story as a lost 1995 sitcom pilot: Ben Affleck stars with Jennifer Aniston, Matt LeBlanc, Jason Alexander, Ted Danson, Alfonso Ribeiro, Jaleel White and Jasmine Guy — plus a Tom Brady cameo. Theme music composed by Jason Nitti in authentic 90s sitcom style.",
-   "categories": [
-    "campaign",
-    "music",
-    "influencer"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Dunkin'"
-    },
-    {
-     "label": "Type",
-     "text": "Big Game Commercial, Celebrity Ensemble"
-    },
-    {
-     "label": "Output",
-     "text": "Super Bowl LX spot “The Pilot”, Original 90s sitcom theme music"
-    },
-    {
-     "label": "Industry",
-     "text": "Food & Beverage"
-    },
-    {
-     "label": "Agency",
-     "text": "Artists Equity"
-    }
-   ],
-   "cover": "assets/img/good-will-dunkin-cover.jpg",
-   "items": [
-    {
-     "title": "The Pilot",
-     "caption": "A lost 1995 sitcom set at a Cambridge Dunkin' — equations scrawled on the shop windows, donut holes arranged in mathematical sequences, and something extraordinary hiding in plain sight. Period-correct sitcom theme song by Jason Nitti.",
-     "type": "video",
-     "src": "assets/vid/good-will-dunkin-01.mp4",
-     "poster": "assets/img/good-will-dunkin-cover.jpg"
-    }
-   ]
-  },
-  {
-   "slug": "hulu-craig-robinson",
-   "title": "Hulu + Craig Robinson",
-   "summary": "Craig Robinson closed out Hulu’s Black History Month docuseries Your Attention Please with a three-track EP, It’s Time to Get Black, Y’all — released in March, on purpose, because February is the shortest month of the year.\n\nI composed “BHM Jam Pt. 3 (28 Days Ain’t Enough)”, the EP’s closing argument.",
-   "categories": [
-    "music",
-    "influencer"
-   ],
-   "details": [
-    {
-     "label": "Client",
-     "text": "Hulu"
-    },
-    {
-     "label": "Type",
-     "text": "Branded Entertainment, Music"
-    },
-    {
-     "label": "Output",
-     "text": "Original song “BHM Jam Pt. 3 (28 Days Ain’t Enough)” — from the EP It’s Time to Get Black, Y’all (Hollywood Records)"
-    },
-    {
-     "label": "Talent",
-     "text": "Craig Robinson"
-    },
-    {
-     "label": "Industry",
-     "text": "Streaming, Entertainment"
-    },
-    {
-     "label": "Role",
-     "text": "Music Composition & Production"
-    }
-   ],
-   "cover": "assets/vid/hulu-bhm-jam-3.jpg",
-   "items": [
-    {
-     "title": "BHM Jam Pt. 3 (28 Days Ain’t Enough)",
-     "caption": "The EP’s closer makes the whole argument in one hook: Black History Month deserves more than the shortest month on the calendar. Composed and produced for Craig Robinson’s send-off to Your Attention Please.",
-     "type": "video",
-     "src": "assets/vid/hulu-bhm-jam-3.mp4",
-     "poster": "assets/vid/hulu-bhm-jam-3.jpg"
-    }
-   ]
-  },
-  {
    "slug": "rheem-key-bass",
    "title": "Rheem Key Bass - Behind the Series",
    "summary": "As a unique tribute to Rheem’s history of innovation in engineering, the series features music crafted on a vintage Rheem Key bass synthesizer.",
@@ -1445,6 +1062,389 @@
      "type": "video",
      "src": "assets/vid/ff06b4_cf543d08bb9f41f790e322ab6c93ec2c.mp4",
      "poster": "assets/vid/ff06b4_cf543d08bb9f41f790e322ab6c93ec2c.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "hulu-craig-robinson",
+   "title": "Hulu + Craig Robinson",
+   "summary": "Craig Robinson closed out Hulu’s Black History Month docuseries Your Attention Please with a three-track EP, It’s Time to Get Black, Y’all — released in March, on purpose, because February is the shortest month of the year.\n\nI composed “BHM Jam Pt. 3 (28 Days Ain’t Enough)”, the EP’s closing argument.",
+   "categories": [
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Hulu"
+    },
+    {
+     "label": "Type",
+     "text": "Branded Entertainment, Music"
+    },
+    {
+     "label": "Output",
+     "text": "Original song “BHM Jam Pt. 3 (28 Days Ain’t Enough)” — from the EP It’s Time to Get Black, Y’all (Hollywood Records)"
+    },
+    {
+     "label": "Talent",
+     "text": "Craig Robinson"
+    },
+    {
+     "label": "Industry",
+     "text": "Streaming, Entertainment"
+    },
+    {
+     "label": "Role",
+     "text": "Music Composition & Production"
+    }
+   ],
+   "cover": "assets/vid/hulu-bhm-jam-3.jpg",
+   "items": [
+    {
+     "title": "BHM Jam Pt. 3 (28 Days Ain’t Enough)",
+     "caption": "The EP’s closer makes the whole argument in one hook: Black History Month deserves more than the shortest month on the calendar. Composed and produced for Craig Robinson’s send-off to Your Attention Please.",
+     "type": "video",
+     "src": "assets/vid/hulu-bhm-jam-3.mp4",
+     "poster": "assets/vid/hulu-bhm-jam-3.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "softshox",
+   "title": "SoftShox",
+   "summary": "SoftShox builds soft helmet technology — Stanford bioengineering designed to absorb the impacts hard shells can’t. Founded by former athletes who turned their own concussions into the mission, they needed what every product company wants: their swoosh.\n\nThe answer was already in their old wordmark. Duplicate the S, flip it, and the overlap draws a single S in the negative space — SoftShox spelled in one gesture instead of ten letters. The two abstract forms do double duty: they’re also a pair of shock absorbers, which is the whole point of what the company engineers.",
+   "categories": [
+    "brand"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "SoftShox (Savior Brain)"
+    },
+    {
+     "label": "Type",
+     "text": "Brand Identity, Logo Design"
+    },
+    {
+     "label": "Output",
+     "text": "Logo mark, wordmark lockups, color system, product & apparel applications"
+    },
+    {
+     "label": "Industry",
+     "text": "Sports Tech, Bioengineering"
+    },
+    {
+     "label": "Role",
+     "text": "Design & Creative Direction"
+    }
+   ],
+   "cover": "assets/img/softshox-hero.jpg",
+   "items": [
+    {
+     "title": "The Mark",
+     "caption": "The reveal. One mark, two S’s, no box — bold enough to read at chin-strap size, quiet enough to sit on black. Protection, fluidity, precision, in a single shape.",
+     "type": "image",
+     "src": "assets/img/softshox-hero.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "From the Old Mark",
+     "caption": "I started with what they had: a boxed wordmark, SOFT stacked over SHOX — safe, forgettable, no mark to speak of. Duplicate the S, flip it, and let the two overlap. Where they cross, the negative space draws a single S — SoftShox said in one gesture instead of two words. The pair of forms is also a small piece of engineering logic: two abstract shocks, absorbing side by side, exactly like the product.",
+     "type": "image",
+     "src": "assets/img/softshox-009.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "The System",
+     "caption": "Lockups and inversions: black, white, and the electric blue accent. SOFTSHOX sets in quiet spaced caps beneath the icon — restrained type, so the mark does the talking.",
+     "type": "image",
+     "src": "assets/img/softshox-006.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "Engineered In",
+     "caption": "The mark isn’t bolted onto the product after the fact — it’s drafted into the shell itself. Set inside the actual CAD model, the S sits where the engineering lives, proof the identity and the bioengineering share one language.",
+     "type": "image",
+     "src": "assets/img/softshox-cad.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "Embossed",
+     "caption": "Inside the helmet, not on it. Debossed into the padding the mark works in the one place a swoosh usually doesn’t bother going — where the product actually meets the head.",
+     "type": "image",
+     "src": "assets/img/softshox-embossed.jpg",
+     "w": 1600,
+     "h": 900
+    },
+    {
+     "title": "On Body",
+     "caption": "The merch test — cap, hoodie, tee. If people would wear it without knowing what the company does, it’s a logo. If it still reads as flow from ten feet, it’s a brand.",
+     "type": "image",
+     "src": "assets/img/softshox-008.jpg",
+     "w": 1600,
+     "h": 900
+    }
+   ]
+  },
+  {
+   "slug": "ecolab-x-prostart",
+   "title": "Ecolab x Prostart",
+   "summary": "Ecolab set out to make a bold statement at the NRA Show and their signature Sunday Spotlight event, choosing to honor the next generation of culinary leaders.",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Ecolab"
+    },
+    {
+     "label": "Type",
+     "text": "Partnership, Event"
+    },
+    {
+     "label": "Output",
+     "text": "Documentary Film"
+    },
+    {
+     "label": "Industry",
+     "text": "Sanitation Solutions"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/9e127d64-b59d-4c4a-8982-601a61ff1ea2.jpg",
+   "items": [
+    {
+     "title": "Ecolab x ProStart",
+     "caption": "Ecolab, a global leader in water, hygiene, and energy technologies, is committed to creating a cleaner, safer, and healthier world. Their partnership with ProStart showcases this mission by empowering the next generation of culinary talent.\n\nEcolab set out to make a bold statement at the NRA Show and their signature Sunday Spotlight event, choosing to honor the next generation of culinary leaders. This documentary follows the journey of ProStart students from Badger High as they compete in national culinary and management challenges, bringing their passion and diverse cultural flavors to life. The film debuted at an unforgettable gala, where guests experienced the students' winning dishes firsthand at a pop-up restaurant designed and curated entirely by the students—an inspiring blend of mentorship, tradition, and innovation.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.mp4",
+     "poster": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "cart-com",
+   "title": "Cart.com",
+   "summary": "Cart.com wanted to work with companies they thought were cool and progressive, so we captured a voice that would tap into the language of modern culture to appeal to these types of brands",
+   "categories": [
+    "campaign"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Cart.com (click thumbnails for details)"
+    },
+    {
+     "label": "Type",
+     "text": "B2B, Brand Stories & Systems"
+    },
+    {
+     "label": "Output",
+     "text": "OOH, Design, Direct Mail"
+    },
+    {
+     "label": "Industry",
+     "text": "Technology, E-Commerce"
+    },
+    {
+     "label": "Agency",
+     "text": "Goods & Services"
+    }
+   ],
+   "cover": "assets/img/ff06b4_6b14b2c7fd504ae2ae636cbfbd701123-mv2.jpg",
+   "items": [
+    {
+     "title": "Challenge",
+     "caption": "Cart.com is a new digital marketing platform making a big noise in the ecommerce world. To help them build awareness, we created the “Dearest” campaign, an affectionate — some might even say obsessive — expression of love that puts the “court order” back into “courtship.”",
+     "type": "image",
+     "src": "assets/img/ff06b4_09bf0f2f3769486bb01fd2b94a894ff5-mv2.jpg",
+     "w": 3456,
+     "h": 1600
+    },
+    {
+     "title": "Courting brands",
+     "caption": "Our concept of publicly posting love letters to the company’s favorite brands pairs old-school signage with the stopping power of a public social post. The campaign is called “Dearest” and it turns B2B marketing on its head. We likened it to serenading a sweetheart beneath a bedroom window – but with an edge.\n\nThe poster-sized love letters are visible in major cities like LA, San Francisco, Austin, and Atlanta, and include 36 different brands, such as Liquid Death, BeautyCounter, and Toms. The passionate side of our brand voice describes the lengths that Cart.com will go to help a brand – if they commit to a relationship.\nTargeted brands also receive a care package that keeps the love alive and carries the same brand voice throughout.",
+     "type": "image",
+     "src": "assets/img/ff06b4_99415ecfefa645a88a3dee76dbefb4e4-mv2.jpg",
+     "w": 800,
+     "h": 800
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "image",
+     "src": "assets/img/ff06b4_0c03108b5c4a43998e2ae76b7e8c2a20-mv2.jpg",
+     "w": 1314,
+     "h": 1746
+    },
+    {
+     "title": "Case Study",
+     "caption": "Employing a barrage of (very) personally targeted, fun, irreverent, and tongue-in-cheek love letters, we helped Cart.com fervently express the depths and breadths of its affection and commitment. Cart then printed each letter as oversized posters and placed them, guerilla style, in heavily trafficked areas of Austin, Los Angeles, and around the country for the world to bear witness to Cart’s undying devotion.\n\nAnd because Cart wanted everyone to know how excited they were about their crushes, the team posted about our love letters on LinkedIn (#dearest) so the whole world could know. After all, the Cart wants what the Cart wants.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.mp4",
+     "poster": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "time-hopper",
+   "title": "Time Hopper",
+   "summary": "There are travel influencers, and then there’s the first time-traveling one, born from the unapologetic power of A.I.",
+   "categories": [
+    "campaign",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Influencer, Social"
+    },
+    {
+     "label": "Output",
+     "text": "Social, Content Partnerships, Influencer, A.I."
+    },
+    {
+     "label": "Industry",
+     "text": "Travel & Tourism"
+    },
+    {
+     "label": "Agency",
+     "text": "Sparkloft Media"
+    }
+   ],
+   "cover": "assets/img/ff06b4_d0e0f101559543268d35093e4dbc584f-mv2.jpg",
+   "items": [
+    {
+     "title": "Meet Time Hopper",
+     "caption": "Time Hopper is Sparkloft Media’s unapologetically A.I. travel influencer. A time-hopping rabbit who explores the past and future to make history trend again. Instead of blurring the line between human and synthetic, Hopper embraces his artificial identity to show how destinations can use A.I. responsibly, creatively, and transparently. Blending humor, cultural insight, and historical storytelling, the project redefines influencer marketing for the post-human era, a proof-of-concept where technology becomes a collaborator, not an impostor, and authenticity comes from intention, not illusion.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.mp4",
+     "poster": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "heavily-vs-ryan-whitby",
+   "title": "Heavily vs Ryan Whitby",
+   "summary": "Music + Code Project",
+   "categories": [
+    "nobrief",
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Personal Project"
+    },
+    {
+     "label": "Output",
+     "text": "Music Composition & Code"
+    },
+    {
+     "label": "Media",
+     "text": "Spotify & Youtube"
+    }
+   ],
+   "cover": "assets/img/ff06b4_19607be9c4b541bfa69641a459a2cdb1-mv2.jpg",
+   "items": [
+    {
+     "title": "Off-Scripted",
+     "caption": "Heavily is a music project by Jason Nitti. \n\nThe world of Heavily is not just sonic, but highly visual, making it vital for Nitti to integrate artistic elements by showcasing visual artists to help bring the album to life.\n\nNitti collaborated with artist/designer Ryan Whitby, who created these animations with code inside the visual development platform Touchdesigner.  By scripting behaviors rather than keyframes the pieces naturally respond to the music of Heavily in an almost sentient manner.",
+     "type": "video",
+     "src": "assets/vid/ff06b4_e645d01f85f1497a8fade484116e60cc.mp4",
+     "poster": "assets/vid/ff06b4_e645d01f85f1497a8fade484116e60cc.jpg"
+    },
+    {
+     "title": "In Ryan's Words...",
+     "caption": "\"The animated artwork for Heavily was born from a daily meditative practice during the New York lockdown in 2020.  The animations are largely inspired by the incessant passage of time and the void in which our memories live.  They are the imperfect recollections of a world outside, behind, and yet to come. Platonic shapes, lunar images, point cloud scans of renaissance statues, and AI-generated video of fictional landscapes, are used as varied source material for each animation to be distorted and reconstructed as a sampling of the fevered dream of reality.\"",
+     "type": "video",
+     "src": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.mp4",
+     "poster": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "stereo-melon-studios",
+   "title": "Stereo Melon Studios",
+   "summary": "The birth of my daughter inspired a wealth of new stories to tell.",
+   "categories": [
+    "nobrief"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Personal, Stereo Melon Studios"
+    },
+    {
+     "label": "Type",
+     "text": "Video Content, Music, A.I."
+    },
+    {
+     "label": "Output",
+     "text": "Original Children's stories, Music Composition, Creative Direction & Design"
+    },
+    {
+     "label": "Industry",
+     "text": "Entertainment"
+    },
+    {
+     "label": "Agency",
+     "text": "Me"
+    }
+   ],
+   "cover": "assets/img/ff06b4_c7820117d816471abada91a3ef819831-mv2.jpg",
+   "items": [
+    {
+     "title": "What is Stereo Melon?",
+     "caption": "Stereo Melon was born from hanging out with my newborn daughter, Sloane. Telling her stories I made up on the go unleashed a wave of creativity and motivation to bring these stories to life.\n\nStereo Melon has become a growing collection of vibrant characters, magical landscapes, and endless adventures. \n\nThe music is also composed by me, carefully crafted with soothing solfeggio frequencies tuned to promote relaxation, healing, and overall well-being.\n\nContinue to watch some stories!",
+     "type": "video",
+     "src": "assets/vid/ff06b4_1275293ca7034ac6948dc018313e40e4.mp4",
+     "poster": "assets/vid/ff06b4_1275293ca7034ac6948dc018313e40e4.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/p76rvG_JZPk",
+     "poster": "https://i.ytimg.com/vi/p76rvG_JZPk/hqdefault.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/i4nJTkXYKrI",
+     "poster": "https://i.ytimg.com/vi/i4nJTkXYKrI/hqdefault.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/Ta_jFuQXC4A",
+     "poster": "https://i.ytimg.com/vi/Ta_jFuQXC4A/hqdefault.jpg"
+    },
+    {
+     "title": "",
+     "caption": "",
+     "type": "embed",
+     "src": "https://www.youtube-nocookie.com/embed/W_6X_StUTGQ",
+     "poster": "https://i.ytimg.com/vi/W_6X_StUTGQ/hqdefault.jpg"
+    },
+    {
+     "title": "A.I. Assisted Content",
+     "caption": "A.I. is a thing right now, and I fully embrace its potential to help bring ideas to life while streamlining the process. I’ve found there's a perfect mixture of right and left brain thinking when it comes to prompting and execution with A.I. I’ve captured my creative process along the way and plan on sharing all the quirks, pivots, adaptation and happy accidents along the way.",
+     "type": "image",
+     "src": "assets/img/ff06b4_12988fba4d954a0198bbcd6529e41ac9-mv2.jpg",
+     "w": 1577,
+     "h": 936
     }
    ]
   }
