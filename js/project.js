@@ -42,7 +42,10 @@
       <div class="proj-head">
         <h1>${esc(P.title)}</h1>
         <div class="tags">${P.categories.map((c) => `<span class="tag accent">${esc(catLabel(c))}</span>`).join("")}</div>
-        <p class="summary">${esc(P.summary)}</p>
+        <div class="summary">${esc(P.summary).split(/\n\s*\n/).map((par) =>
+          `<p>${par}</p>`).join("")}</div>
+        ${(P.links || []).length ? `<div class="proj-links">${P.links.map((l) =>
+          `<a href="${l.url}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join("")}</div>` : ""}
       </div>
 
       ${P.details.length ? `<div class="details">${P.details.map((d) =>
