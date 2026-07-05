@@ -1243,6 +1243,51 @@
    ]
   },
   {
+   "slug": "hulu-craig-robinson",
+   "title": "Hulu + Craig Robinson",
+   "summary": "Craig Robinson closed out Hulu’s Black History Month docuseries Your Attention Please with a three-track EP, It’s Time to Get Black, Y’all — released in March, on purpose, because February is the shortest month of the year.\n\nI composed “BHM Jam Pt. 3 (28 Days Ain’t Enough)”, the EP’s closing argument.",
+   "categories": [
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Hulu"
+    },
+    {
+     "label": "Type",
+     "text": "Branded Entertainment, Music"
+    },
+    {
+     "label": "Output",
+     "text": "Original song “BHM Jam Pt. 3 (28 Days Ain’t Enough)” — from the EP It’s Time to Get Black, Y’all (Hollywood Records)"
+    },
+    {
+     "label": "Talent",
+     "text": "Craig Robinson"
+    },
+    {
+     "label": "Industry",
+     "text": "Streaming, Entertainment"
+    },
+    {
+     "label": "Role",
+     "text": "Music Composition & Production"
+    }
+   ],
+   "cover": "assets/vid/hulu-bhm-jam-3.jpg",
+   "items": [
+    {
+     "title": "BHM Jam Pt. 3 (28 Days Ain’t Enough)",
+     "caption": "The EP’s closer makes the whole argument in one hook: Black History Month deserves more than the shortest month on the calendar. Composed and produced for Craig Robinson’s send-off to Your Attention Please.",
+     "type": "video",
+     "src": "assets/vid/hulu-bhm-jam-3.mp4",
+     "poster": "assets/vid/hulu-bhm-jam-3.jpg"
+    }
+   ]
+  },
+  {
    "slug": "rheem-key-bass",
    "title": "Rheem Key Bass - Behind the Series",
    "summary": "As a unique tribute to Rheem’s history of innovation in engineering, the series features music crafted on a vintage Rheem Key bass synthesizer.",
