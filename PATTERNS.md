@@ -46,9 +46,12 @@ Every project object:
 - `details` fields are freeform label/text pairs — Client, Type, Output,
   Industry, Agency, Role, Talent, Awards, Framework, Typography — use
   whichever apply, skip the rest. Don't force all of them.
-- **Categories can combine.** Music + Influencer + Campaign is normal for a
-  branded-entertainment/celebrity piece. `nobrief` = personal/self-initiated
-  work (the book, Stereo Melon, Time Hopper). `brand` = identity/logo work.
+- **Categories can combine.** Music + Influencer + Advertising (key:
+  `campaign`) is normal for a branded-entertainment/celebrity piece.
+  `nobrief` = personal/self-initiated work (the book, Stereo Melon, Time
+  Hopper). `brand` displays as "Design" — identity/logo work. Keys stay
+  fixed (`campaign`, `brand`, `music`, `influencer`, `nobrief`); only their
+  display labels live in `data.categories` — relabel there, not in code.
 - **Beat count is not fixed.** One-keyframe cases (Converse, Time Hopper)
   get no arrows/thumbs/counter automatically — that's a UI rule in
   `js/project.js`, not something to work around. Multi-beat cases run

@@ -17,11 +17,11 @@
   },
   {
    "key": "campaign",
-   "label": "Marketing / Campaign"
+   "label": "Advertising"
   },
   {
    "key": "brand",
-   "label": "Design / Brand"
+   "label": "Design"
   },
   {
    "key": "music",
@@ -874,7 +874,7 @@
   {
    "slug": "airheads-bigger-air-bigger-games",
    "title": "Airheads — Bigger Air. Bigger Games.",
-   "summary": "In 2020, Airheads wanted to revamp what the brand stood for: to inspire the world to play more by gamifying everyday moments. I brought this playful mission to life with the campaign “Bigger Air. Bigger Games,” which demonstrates what happens to a dull moment when Airheads comes into play — the more you eat, the bigger and more intense the game gets.\n\nDirected by Terri Timely (Park Pictures), the three spots push the joke past the backyard and into the sky: life-size games escalate into giant-headed, cloud-floating absurdity, the same oversized logic Airheads candy runs on.",
+   "summary": "Airheads wanted to revamp what the brand stood for: to inspire the world to play more by gamifying everyday moments. We brought this playful mission to life with the campaign “Bigger Air. Bigger Games,” which demonstrates what happens to a dull moment when Airheads comes into play — the more you eat, the bigger and more intense the game gets.\n\nDirected by Terri Timely (Park Pictures), the three spots push the joke past the backyard and into the sky: life-size games escalate into giant-headed, cloud-floating absurdity, the same oversized logic Airheads candy runs on.",
    "categories": [
     "campaign"
    ],
@@ -908,16 +908,8 @@
      "text": "Park Pictures"
     }
    ],
-   "cover": "assets/vid/airheads-tvc-ding-dong-dash.jpg",
+   "cover": "assets/vid/airheads-tvc-hero.jpg",
    "items": [
-    {
-     "title": "The Campaign",
-     "caption": "In 2020, Airheads wanted to revamp what the brand stood for: to inspire the world to play more by gamifying everyday moments. “Bigger Air. Bigger Games.” demonstrates what happens to a dull moment when Airheads comes into play — the more you eat, the bigger and more intense the game gets.",
-     "type": "image",
-     "src": "assets/img/airheads-tvc-summary.jpg",
-     "w": 1600,
-     "h": 1200
-    },
     {
      "title": "Ding Dong Dash",
      "caption": "A backyard prank escalates past the porch, past the treeline, past the clouds — the game only gets bigger from here.",
