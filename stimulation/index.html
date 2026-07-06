@@ -34,7 +34,11 @@
 
 <!-- Top bar -->
 <header class="topbar">
-  <a class="topbar-name" href="https://jasonnitti.com/">JASON NITTI</a>
+  <div class="topbar-left">
+    <a class="topbar-name" href="https://jasonnitti.com/">JASON NITTI</a>
+    <span class="topbar-divider" aria-hidden="true">|</span>
+    <button class="decode-toggle" type="button" aria-pressed="false" title="See the code underneath"><span class="bracket">[</span> DECODE <span class="bracket">]</span></button>
+  </div>
   <nav class="topbar-nav" aria-label="Page">
     <a href="#trailer">TRAILER</a>
     <a href="#cycle">THE CYCLE</a>
@@ -221,6 +225,14 @@
   <a class="btn btn-signal btn-small" href="https://www.amazon.com/We-are-Living-Stimulation-Compulsion/dp/B0GFXFN7GN/" target="_blank" rel="noopener">BUY</a>
 </div>
 
+<!-- DECODE mode ambient loop — started/stopped in js/decode.js. Opus first
+     (smaller, better quality/byte on Chrome/Firefox), AAC as the Safari fallback. -->
+<audio id="decodeAmbient" loop preload="none">
+  <source src="assets/audio/decode-ambient.opus" type="audio/ogg; codecs=opus">
+  <source src="assets/audio/decode-ambient.m4a" type="audio/mp4">
+</audio>
+
 <script src="js/main.js"></script>
+<script src="js/decode.js"></script>
 </body>
 </html>

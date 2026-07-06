@@ -406,3 +406,164 @@ h1, h2, h3, p, ul, blockquote, figure { margin: 0; }
   .topbar { padding: 14px 18px; }
   .cycle-grid { grid-template-columns: 1fr 1fr; gap: 18px; }
 }
+
+/* ================================================================
+   DECODE MODE — easter-egg "see the code underneath". Toggled by
+   .decode-toggle (js/decode.js), which also generates the ASCII.
+   ================================================================ */
+.topbar-left { display: flex; align-items: center; gap: 18px; }
+.topbar-divider { color: var(--line); font-size: 12px; }
+.decode-toggle {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: normal; /* brackets in a mono face already read wide; extra tracking fights the name */
+  color: var(--ink-2);
+  background: transparent;
+  border: none;
+  padding: 4px 2px;
+  cursor: pointer;
+  transition: color .2s ease, background .2s ease;
+}
+.decode-toggle .bracket { color: var(--line); }
+.decode-toggle:hover { color: var(--signal); }
+.decode-toggle:hover .bracket { color: var(--signal); }
+
+.ascii-art { display: none; }
+
+/* --- the flip --- */
+body.decoded { background: #060606; color: #ff3fab; }
+body.decoded, body.decoded * { font-family: var(--font-mono) !important; }
+
+/* Exit affordance must never be ambiguous: once inside, RESTORE becomes a
+   solid chip (matches the original high-contrast treatment), not quiet text. */
+body.decoded .decode-toggle {
+  color: #060606 !important;
+  background: var(--signal) !important;
+  padding: 6px 12px !important;
+  font-weight: 600;
+}
+body.decoded .decode-toggle .bracket { display: none; }
+
+/* recolor the readout: dim magenta for body, bright for the "system" lines */
+body.decoded .body-serif,
+body.decoded .body-serif p,
+body.decoded .who-list li,
+body.decoded .cycle-cell p,
+body.decoded .col p,
+body.decoded .intro-serif,
+body.decoded .hero-sub,
+body.decoded .caption-serif,
+body.decoded .label,
+body.decoded .hero-proof,
+body.decoded .review-line,
+body.decoded .footer,
+body.decoded .footer p { color: #b83d80 !important; }
+
+body.decoded .head-serif,
+body.decoded .head-mono,
+body.decoded .hero-title,
+body.decoded .hero-line,
+body.decoded .close-line,
+body.decoded .col h3,
+body.decoded .cycle-cell h3,
+body.decoded .review-stars {
+  color: #ff5cbf !important;
+  font-style: normal !important;
+  text-shadow: 0 0 6px rgba(255, 46, 166, .35);
+}
+
+body.decoded .btn {
+  background: transparent !important;
+  border-color: var(--signal) !important;
+  color: var(--signal) !important;
+}
+body.decoded .plate {
+  background: #060606 !important;
+  border-color: #3a0a24 !important;
+}
+body.decoded .topbar,
+body.decoded .section + .section,
+body.decoded .who-list li,
+body.decoded .cycle-cell,
+body.decoded .video-frame,
+body.decoded .footer,
+body.decoded .glitch-panel .glitch-vid { border-color: #3a0a24 !important; }
+body.decoded .topbar { background: rgba(6, 6, 6, .85); }
+body.decoded .sticky-cta { background: rgba(6, 6, 6, .95); border-color: #3a0a24; }
+
+/* media -> ASCII: keep the box, hide the pixels, overlay the transcode */
+body.decoded .hero-media,
+body.decoded figure,
+body.decoded .author-photo,
+body.decoded .video-frame,
+body.decoded .glitch-panel { position: relative; }
+
+body.decoded .hero-media img,
+body.decoded .plate img,
+body.decoded .g-wide img,
+body.decoded .g-pair img,
+body.decoded .author-photo img,
+body.decoded .video-frame video,
+body.decoded .glitch-vid { opacity: 0; }
+
+body.decoded .ascii-art {
+  display: block;
+  position: absolute;
+  margin: 0;
+  z-index: 2;
+  white-space: pre;
+  overflow: hidden;
+  pointer-events: none;
+  color: #ff3fab;
+  letter-spacing: 0;
+  text-shadow: 0 0 4px rgba(255, 46, 166, .3);
+}
+
+/* warp lens — a filtered clone of the ASCII under the pointer, revealed only
+   in a soft circle that follows the cursor/finger. Decode mode only. */
+body.decoded .warp-clone {
+  position: absolute;
+  margin: 0;
+  white-space: pre;
+  overflow: hidden;
+  z-index: 3;
+  pointer-events: none;
+  color: #ff6cc6;
+  letter-spacing: 0;
+  filter: url(#decode-warp);
+  -webkit-mask: radial-gradient(circle 165px at var(--mx, -999px) var(--my, -999px), #000 0%, rgba(0,0,0,.75) 35%, rgba(0,0,0,.3) 65%, transparent 100%);
+  mask: radial-gradient(circle 165px at var(--mx, -999px) var(--my, -999px), #000 0%, rgba(0,0,0,.75) 35%, rgba(0,0,0,.3) 65%, transparent 100%);
+}
+
+/* live-video ASCII is clickable (play/pause); show a cue when paused */
+body.decoded .ascii-video { pointer-events: auto; cursor: pointer; }
+body.decoded .ascii-video.paused::after {
+  content: '\25B6'; /* ▶ */
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  font-family: var(--font-mono);
+  font-size: 2.4rem;
+  color: var(--signal);
+  text-shadow: 0 0 10px rgba(255, 46, 166, .55);
+}
+
+/* CRT scanlines over the whole thing */
+body.decoded::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 70;
+  background: repeating-linear-gradient(rgba(0, 0, 0, 0) 0 2px, rgba(0, 0, 0, .28) 2px 3px);
+  mix-blend-mode: multiply;
+  animation: scanline-drift 6s linear infinite;
+}
+@keyframes scanline-drift {
+  to { background-position: 0 60px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.decoded::after { display: none; }
+}
