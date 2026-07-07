@@ -16,6 +16,9 @@ js/project.js       case-study page logic (story carousel)
 assets/img/         optimized images
 assets/vid/         optimized videos + poster frames
 assets/masthead.mp4 the looping homepage video
+stimulation/        standalone book microsite → jasonnitti.com/stimulation
+ghostwriterinthemachine/  standalone essay-series microsite (scroller)
+                    → jasonnitti.com/ghostwriterinthemachine
 wix-backup/         RAW originals downloaded from Wix — kept local,
                     NOT published (see .gitignore). This is your archive.
 ```

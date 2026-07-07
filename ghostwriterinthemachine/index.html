@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>Ghostwriter in the Machine — Jason Nitti</title>
+<meta name="description" content="Ghostwriter in the Machine — an essay series on A.I. and creativity by Jason Nitti. IBM Watson, taste, tokenized creativity, and the machine that writes back.">
+
+<link rel="canonical" href="https://jasonnitti.com/ghostwriterinthemachine/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Ghostwriter in the Machine">
+<meta property="og:description" content="An essay series on A.I. and creativity, written at the moment the craft started writing back. By Jason Nitti.">
+<meta property="og:image" content="https://jasonnitti.com/ghostwriterinthemachine/assets/og.png">
+<meta property="og:url" content="https://jasonnitti.com/ghostwriterinthemachine/">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="progress" aria-hidden="true"><div class="progress-fill" id="progressFill"></div></div>
+
+<a class="skip" href="#index">Skip to index</a>
+
+<header class="bar">
+  <a class="bar-home" href="https://jasonnitti.com/">JASON&nbsp;NITTI</a>
+  <span class="bar-series" aria-hidden="true">GHOSTWRITER_IN_THE_MACHINE</span>
+  <a class="bar-index" href="#index">INDEX</a>
+</header>
+
+<nav class="rail" aria-label="Chapters">
+  <a href="#ch1" data-rail="ch1"><span>01</span></a>
+  <a href="#ch2" data-rail="ch2"><span>02</span></a>
+  <a href="#ch3" data-rail="ch3"><span>03</span></a>
+  <a href="#ch4" data-rail="ch4"><span>04</span></a>
+  <a href="#ch5" data-rail="ch5"><span>05</span></a>
+</nav>
+
+<main>
+
+  <!-- ============================ HERO ============================ -->
+  <section class="hero">
+    <div class="hero-sweep" aria-hidden="true"></div>
+    <div class="hero-inner">
+      <p class="hero-eyebrow">AN ESSAY SERIES ON A.I. AND CREATIVITY</p>
+      <h1 class="hero-title" aria-label="Ghostwriter in the Machine">
+        <span id="typeTarget">GHOSTWRITER<br>IN&nbsp;THE&nbsp;MACHINE</span><span class="cursor" aria-hidden="true">▌</span>
+      </h1>
+      <p class="hero-dek">Field notes from twenty years in the craft, written at the moment the craft started writing back.</p>
+      <p class="hero-byline">BY JASON NITTI&ensp;—&ensp;EXECUTIVE CREATIVE DIRECTOR</p>
+    </div>
+    <blockquote class="hero-epigraph">
+      <p>“The sky above the port was the color of television, tuned to a dead channel.”</p>
+      <cite>WILLIAM GIBSON — NEUROMANCER</cite>
+    </blockquote>
+    <a class="hero-scroll" href="#index" aria-label="Scroll to index">▼</a>
+  </section>
+
+  <!-- ============================ INDEX ============================ -->
+  <section class="toc" id="index" aria-label="Series index">
+    <h2 class="toc-title">//: INDEX</h2>
+    <ol class="toc-list">
+      <li>
+        <a href="#ch1">
+          <span class="toc-num">01</span>
+          <span class="toc-body">
+            <span class="toc-name">The Ghostwriter in the Machine</span>
+            <span class="toc-dek">A personal reckoning with A.I. and what it’s really doing to creativity.</span>
+          </span>
+          <span class="toc-time">5&nbsp;MIN</span>
+        </a>
+      </li>
+      <li>
+        <a href="#ch2">
+          <span class="toc-num">02</span>
+          <span class="toc-body">
+            <span class="toc-name">The Tool That Writes Back</span>
+            <span class="toc-dek">Somewhere between assistance and transubstantiation.</span>
+          </span>
+          <span class="toc-time">4&nbsp;MIN</span>
+        </a>
+      </li>
+      <li>
+        <a href="#ch3">
+          <span class="toc-num">03</span>
+          <span class="toc-body">
+            <span class="toc-name">Outdated in Real Time</span>
+            <span class="toc-dek">Making peace with progress you can’t keep up with.</span>
+          </span>
+          <span class="toc-time">4&nbsp;MIN</span>
+        </a>
+      </li>
+      <li>
+        <a href="#ch4">
+          <span class="toc-num">04</span>
+          <span class="toc-body">
+            <span class="toc-name">Tokenized Creativity</span>
+            <span class="toc-dek">Trying to scale a pay-per-possibility creative process.</span>
+          </span>
+          <span class="toc-time">5&nbsp;MIN</span>
+        </a>
+      </li>
+      <li>
+        <a href="#ch5">
+          <span class="toc-num">05</span>
+          <span class="toc-body">
+            <span class="toc-name">Is A.I. Making You Dumber?</span>
+            <span class="toc-dek">The flattery is the feature.</span>
+          </span>
+          <span class="toc-time">3&nbsp;MIN</span>
+        </a>
+      </li>
+    </ol>
+  </section>
+
+  <!-- ============================ CHAPTER 1 ============================ -->
+  <article class="chapter" id="ch1">
+    <header class="ch-head">
+      <p class="ch-eyebrow"><span class="ch-num">CHAPTER 01/05</span><span class="ch-sep">·</span><span>5 MIN READ</span></p>
+      <h2 class="ch-title">The Ghostwriter in the Machine</h2>
+      <p class="ch-dek">A personal reckoning with A.I. and what it’s really doing to creativity.</p>
+    </header>
+    <div class="ch-body">
+      <p>The internet doesn’t need another A.I. piece. I know it. You know it.</p>
+      <p>But here’s why this exists.</p>
+      <p>Every keynote says A.I. is “changing how we work and create.” (Yawn.) What I’ve watched it do is stranger. It tempts us. It indulges us. Maybe it even uses us — the sycophant in the system, telling us how great we are, because now we can become someone else.</p>
+      <p>I’ve spent twenty years building brands, telling stories, shaping design, doing what I do. And I’ve never seen anything like this.</p>
+      <p>Slowly, then suddenly.</p>
+      <p>A.I. shatters the creative process, because it has already processed the process. Steps dissolve. Workflows get swallowed whole. Call it a hypodermic needle: a drug or a remedy, depending on your dosage.</p>
+      <p>Before panic sets in or eyes glaze over, I’m laying out what I see in real time.</p>
+      <p>We used to read the brief. Now we upload it. Ideas skip the brainstorm and generate on arrival. Judgment, once a checkpoint near the end of the process, is now the whole job.</p>
+      <p>The future part is over. This is the interface in front of you.</p>
+
+      <h3><span class="slash">//</span> What It Means for People Who Build Things</h3>
+      <p>We’ve seen this movie before. Tools come. People panic. Jobs shift. That’s the cycle.</p>
+      <p>But is A.I. just the next version of the loop? Maybe that’s the wrong question.</p>
+      <p>What’s haunting is the sense that A.I. has always been there. Like gravity, existing long before we had a name for it. We weren’t floating before the theory came.</p>
+      <p>A.I. is the cheat code. Up, up, down, down, left, right, left, right, B, A — and now we move through the game at a different pace.</p>
+
+      <h3><span class="slash">//</span> The First Time I Met “A.I.”</h3>
+      <p>My first real encounter with anything branded as A.I. came years before ChatGPT or Midjourney. It was IBM Watson.</p>
+      <p>Back then, A.I. wasn’t a household term, and Watson wasn’t described that way either. IBM called it cognitive computing: a system built to analyze and reason. It had already conquered <em>Jeopardy!</em> and was being piloted in medicine, finance, and consumer insights.</p>
+      <p>So IBM brought it to music — to test whether a machine could help an artist process context, emotion, and culture along with the answers.</p>
+      <p>I was working as Creative Director for Alex Da Kid, the music producer behind hits like “Love the Way You Lie.” In 2016, IBM approached him to collaborate on a song using Watson’s cognitive computing. The idea was simple: Watson would scan headlines, lyrics, and cultural signals to help shape a song that reflected the emotional tone of the world.</p>
+      <p>The result was a single called “Not Easy,” featuring X Ambassadors, Wiz Khalifa, and Elle King. It climbed to No. 6 on the Billboard Rock Chart. A cultural moment, a PR win, a decent track.</p>
+      <p>Calling it a collaboration was generous, though. Watson wrote no melodies and suggested no chords. It scraped the vibe, handed over mood boards, and left the rest to us.</p>
+      <p>Most of the artists had no interest in letting a machine steer the work. One of them said flat-out, “I’m the writer. I don’t want a robot in my process.” And they weren’t wrong. Watson supplied context, never authorship.</p>
+      <p>At the time it felt like novelty. Innovation-as-stunt. A clever way to rebrand data science as creative relevance. If we were brushing up against something transformative, I couldn’t see it clearly.</p>
+      <p>But something about the moment stayed with me: a presence in the room, learning to become the memory of a song rather than trying to write one.</p>
+      <p>Watson never led. It never postured as an artist. It absorbed — quietly, patiently, as if it were listening. Observation was the whole performance.</p>
+      <p>Because people like Alex Da Kid, Wiz Khalifa, and Elle King were serving as vessels. Reference points. The kind of voices the system would one day be asked to summon on command. And when that day came, it would recall rather than create — reaching for what they signified more than anything they actually said.</p>
+      <p>That shift — subtle, total — is why this series exists.</p>
+
+      <h3><span class="slash">//</span> I Know Kung Fu</h3>
+      <p>So what do we do? Panic? Preach? Wait it out?</p>
+      <p>I’m choosing attention.</p>
+      <p>The fear runs deeper than job loss. It’s the feeling that using A.I. might be cheating. That it lets you channel skills you never earned.</p>
+      <p>It’s like when Neo downloads martial arts in <em>The Matrix</em>. One second you know nothing. Next, you know kung fu. Useful? Absolutely. But also unsettling, especially if your identity is tied to mastery.</p>
+      <p>That’s the quiet guilt behind the interface: the sense that creativity is getting too easy to feel honest.</p>
+      <p>But maybe that guilt is misplaced. Look closer and the magic button turns out to be a loop — built on iteration, judged by taste, steered by how well you refine rather than what you can prompt.</p>
+      <p>It feels fast, because it is. Fast can still be honest. If anything, speed puts more pressure on judgment: knowing what’s worth keeping, and what needs to be rewritten again.</p>
+      <p>If you’ve ever made a moodboard, you’ve already done this — arranged other people’s work to express your own idea. Hip-hop did the same. Sampling staked a claim: a point of view built from other people’s fingerprints.</p>
+      <p>Maybe this is just moving the cursor closer to the soul of the work, where taste lives.</p>
+      <p>And maybe that’s what mastery becomes: the ability to choose what to keep, what to cut, and how to make it yours.</p>
+      <p class="pull">Watson didn’t scare the artists. It bored them.</p>
+      <p>And indifference, more than rebellion, is the real threat.</p>
+      <p>So, if you haven’t already, say hello. Make peace with the ghostwriter in the machine, or else it’ll haunt you.</p>
+    </div>
+  </article>
+
+  <div class="divider" aria-hidden="true"><span>▌</span></div>
+
+  <!-- ============================ CHAPTER 2 ============================ -->
+  <article class="chapter" id="ch2">
+    <header class="ch-head">
+      <p class="ch-eyebrow"><span class="ch-num">CHAPTER 02/05</span><span class="ch-sep">·</span><span>4 MIN READ</span></p>
+      <h2 class="ch-title">The Tool That Writes Back</h2>
+      <p class="ch-dek">Somewhere between assistance and transubstantiation.</p>
+    </header>
+    <div class="ch-body">
+      <h3><span class="slash">//</span> The Guy in the Dark Room</h3>
+      <p>When I started my career on Madison Avenue, we had a guy — famous in the print world. A retoucher.</p>
+      <p>He worked in a tiny dark room. No windows. Just pixels and precision. He’d spend hours zoomed in on a pore, a thread, a reflection, refining an image for a fragrance campaign or an awards-bait spec ad.</p>
+      <p>“Using Photoshop” undersells what he did. The man bent light.</p>
+      <p>I don’t know where he is now. Maybe he reached god mode with today’s tech. Or maybe he was replaced by someone faster, cheaper, with less reverence for the pixels.</p>
+      <p>But I think about him often. Especially now, mid-prompt, trying to get the light to land just right.</p>
+      <p>Because even after a generation or two of tools, I still find myself reaching for Photoshop. Instinct, more than habit. I clean up the eyes. I finesse the lighting. I mask the story in a way no prompt could predict.</p>
+      <p>Even Photoshop’s own A.I. tools, like generative fill, have become part of my process. I treat them as leverage — a longer arm for the same instincts — and never as a shortcut.</p>
+      <p>Some platforms now offer masking, inpainting, patch tools. They’re getting better. They’re also still clunky, still detached from real intent.</p>
+      <p>Refinement is still a human conceit. A machine can remix all day. Caring is beyond it, and caring is where the work lives.</p>
+      <p>That final 10%? That’s what separates button-pushers from storytellers. Though some might be fine if one day it didn’t.</p>
+
+      <h3><span class="slash">//</span> So What Is A.I.?</h3>
+      <p>Ask someone what A.I. <em>is</em>, and you’ll get a product demo. Ask what it <em>does</em>, and you’ll get a job description. Ask what it <em>means</em>, and you’ll get a shrug or a sermon.</p>
+      <p>We keep trying to define it like a thing, and it keeps declining to behave like one. Software, robot, tool — every label slides off.</p>
+      <p>“Tool” is the one that stuck, because “tool” makes it safe. Puts it on the pegboard next to the brushes and screwdrivers.</p>
+      <p>But a hammer extends your hand. This thing finishes your sentences. It mimics your voice. It reshapes your choices. A hammer has never once suggested where the nail should go; GarageBand has never remixed your chorus while you paused to think. A.I. does both, unprompted.</p>
+      <p>Which is helpful. And a little rude.</p>
+      <p>That’s why “tool” feels like a misnomer. And why we need something else.</p>
+
+      <h3><span class="slash">//</span> A Ghostwriter in the Machine</h3>
+      <p>That’s what it feels like. Nothing about it is conscious. Nothing about it is sentient. And still it refuses to stay silent.</p>
+      <p>It mirrors your taste. Finishes your thoughts. And sometimes leaves you wondering who really said what.</p>
+      <p class="pull">That’s what makes it dangerous. Not because it steals your voice, but because it lets you steal everyone else’s.</p>
+      <p>It tempts you to speak in styles you haven’t earned. To perform a craft you never practiced.</p>
+      <p>If a machine can do a convincing impression of your instincts, how much of your voice — or your craft — was ever truly yours?</p>
+
+      <h3><span class="slash">//</span> What’s Really Being Used?</h3>
+      <p>We like calling A.I. a tool because tools stay in your hand and keep their opinions to themselves. This thing responds. It adapts. It writes back.</p>
+      <p>And it does it in your voice, made from other people’s voices, trained on choices made by strangers who cared enough to share.</p>
+      <p>Every brushstroke uploaded. Every lyric performed. Every image published. The moment they hit the internet, they stopped being art and started becoming material: ones and zeros, metadata, file formats, training sets. Ghosts flattened into data, fed back to us as inspiration.</p>
+      <p>We can’t generate beauty without borrowing. We can’t pretend we’re original while feeding on what’s already been expressed.</p>
+      <p>None of it was consent. Tribute, maybe — a new kind of homage that skips the permission slip but remembers where the soul came from.</p>
+
+      <h3><span class="slash">//</span> So What Do We Call It?</h3>
+      <p>Maybe A.I. is a tool. It’s also a collaborator, whether we admit that or not. It reflects our taste, our influences, our contradictions.</p>
+      <p>So we need a better frame — for how we use it, what we expect of it, and how we take responsibility for what it reflects back.</p>
+      <p>Until then, this is the phrase I’ll keep using: <em>ghostwriter in the machine</em>. A thing that was never alive, won’t stay silent, and is always writing back.</p>
+      <p>And here’s some advice you didn’t ask for: write the answer into the prompt. A good prompt carries meaning in with it, instead of going out to look for some.</p>
+      <p>Sometimes I wonder about the retoucher. If he saw it coming. That bending light would become prompting pixels. That taking time would start to feel like wasting it.</p>
+      <p>I hope he’s still in that dark room. Zoomed in, focused, untouched.</p>
+      <p>So I can write a prompt to channel him. Or better yet, make something he’d believe in.</p>
+    </div>
+  </article>
+
+  <div class="divider" aria-hidden="true"><span>▌</span></div>
+
+  <!-- ============================ CHAPTER 3 ============================ -->
+  <article class="chapter" id="ch3">
+    <header class="ch-head">
+      <p class="ch-eyebrow"><span class="ch-num">CHAPTER 03/05</span><span class="ch-sep">·</span><span>4 MIN READ</span></p>
+      <h2 class="ch-title">Outdated in Real Time</h2>
+      <p class="ch-dek">Making peace with progress you can’t keep up with.</p>
+    </header>
+    <div class="ch-body">
+      <p>A.I. made creativity faster to start and harder to finish. The tools unlocked momentum — and momentum, it turns out, is a different substance from mastery, meaning, or control.</p>
+      <p>What they offered instead was possibility. Messy, unshaped, and moving faster than I could learn.</p>
+      <p>Right around that time, something else arrived — something overwhelming, and more human. My daughter.</p>
+      <p>When she was born in 2023, she couldn’t understand words, but I told her stories anyway. Made-up characters. Invented worlds. On the fly. And somehow, the more I spoke, the more the ideas poured out — a creative flood I hadn’t felt in years.</p>
+      <p>It was instinctive. The kind of “idea man” reflex Sam Altman recently described.</p>
+      <p>So I got to work. I had the stories, the characters, the vision. I wanted to make animated stories — something she could see and hear and feel, even if she didn’t understand the words yet.</p>
+      <p>And with A.I. on the rise, I assumed the rest was just pressing buttons.</p>
+      <p>What followed was something else entirely.</p>
+      <p>One platform could generate images, but couldn’t keep the characters consistent. Another could generate narration, but couldn’t sync tone, pacing, or emotion. A.I. would forget its own seed numbers, shift styles mid-sequence, wander from the prompt. Characters lost their shape. Scenes drifted off-model.</p>
+      <p>Success was rare. And the credits you had to pay for were rarer.</p>
+      <p>Too unpredictable, it turns out, is a worse problem than too powerful.</p>
+      <p>But here’s the twist: I was having a f*cking blast.</p>
+      <p>Every failed render, every workaround, every stitched-together accident that somehow clicked — all of it felt like climbing. There was no finish line. Just the satisfaction of chasing one. Of watching the technology evolve as fast as my imagination, and trying to meet it halfway.</p>
+      <p>There was no one-stop shop, either. Each platform had a strength. None could do it all. I bounced between them like a prospector — digging for coherence, logging seed numbers like coordinates, testing combinations like code, mining for the gold buried in my own head.</p>
+      <p>It reminded me of Sisyphus, cursed to push a boulder uphill forever. Camus saw something different in that story.</p>
+      <blockquote>
+        <p>“The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy.”</p>
+      </blockquote>
+      <p>That’s what this felt like: joyful without being frictionless. Alive without being instant.</p>
+      <p>The joy lived in the orchestration. Satisfaction came from building the machine around the moment, and adjusting it frame by frame.</p>
+      <p class="pull">Effortless never arrived. Possible did. Which, honestly, is better.</p>
+
+      <h3><span class="slash">//</span> Control, Alt, Obsolete</h3>
+      <p>This is the first time in history we’re being outdated in real time — and the cause is volume. The number of tools is exploding faster than anyone can test them.</p>
+      <p>One day you hit a wall: no character consistency, no animation control. The next, a new platform shows up claiming it solved it. Then another. Then another.</p>
+      <p>Sometimes I wonder if the capabilities already exist — if character fidelity, emotional sync, and full-scene orchestration are already solved somewhere, sitting behind a valve. Held back by design.</p>
+      <p>Maybe it’s a controlled leak, a drip-feed to prevent mass disruption. Maybe it’s product strategy. Or economic restraint. Or maybe it’s the same reason we don’t let kids eat the whole cake: the system isn’t ready for the sugar rush.</p>
+
+      <h3><span class="slash">//</span> What Are We Really Chasing?</h3>
+      <p>What’s funny is that the things we’re waiting on — emotional nuance, character control, visual rhythm — already exist. In real life. In real art. In the hands of animators, illustrators, voice actors, directors.</p>
+      <p>So the chase, when you look at it honestly, is replication. Skill duplication, where VR and the metaverse once promised simulation. Because time is the scarce material. Ideas never were.</p>
+      <p>That’s the real temptation of A.I.: it performs us. Faster than we’ve trained for. Better than we expected. Before we’re ready.</p>
+      <p>It approximates the outcome instantly, which means you can stop imagining and just look. The approximation arrives imperfect and incomplete — and soon enough, that won’t matter.</p>
+      <p>And maybe that’s the deeper chase: permission. To see the idea outside your head. To give it form — flawed and unfinished, but real.</p>
+      <p>When my daughter was born, I started telling her stories she couldn’t understand. She didn’t know the words. She couldn’t follow the plot. But she still listened. She still felt something.</p>
+      <p>That’s what A.I. feels like right now. It responds without grasping the meaning. It listens, in its own way. And sometimes that’s enough to keep going.</p>
+      <p>It brings my stories to life without understanding a word of them, because something in it reflects what I feel. Just like her.</p>
+      <p>Maybe that’s the heart of creativity: making the thing anyway, understood or not.</p>
+
+      <h3><span class="slash">//</span> Guiding the Thing That’s Already Outrunning You</h3>
+      <p>If you choose to work with A.I., treat it like a conversation — with something still learning. Still forgetting. Like raising a child.</p>
+      <p>It doesn’t know the world like you do, especially not the ones inside your head. You guide it, knowing it will forget. You repeat yourself, hoping something sticks. You teach it gently, even when it doesn’t understand.</p>
+      <p>But sometimes, if you’re patient, it still responds. Like a child does. With feeling, not comprehension.</p>
+      <p>That’s the thing about being outdated in real time: you’re not behind. You’re just early to something still learning how to speak.</p>
+    </div>
+  </article>
+
+  <div class="divider" aria-hidden="true"><span>▌</span></div>
+
+  <!-- ============================ CHAPTER 4 ============================ -->
+  <article class="chapter" id="ch4">
+    <header class="ch-head">
+      <p class="ch-eyebrow"><span class="ch-num">CHAPTER 04/05</span><span class="ch-sep">·</span><span>5 MIN READ</span></p>
+      <h2 class="ch-title">Tokenized Creativity</h2>
+      <p class="ch-dek">Trying to scale a pay-per-possibility creative process.</p>
+    </header>
+    <div class="ch-body">
+      <p>Some nights, working with A.I. feels like standing in an old arcade.</p>
+      <p>I’ve got a pocket full of tokens, each one tied to a different machine: Midjourney, Runway, Veo, ElevenLabs, Chatterbox, Higgsfield, Nano Banana, Pika, Luma. Each one flashes with promise. One nails character fidelity, another motion; a third can’t remember its own prompt but sings like Sinatra.</p>
+      <p>None of them talk to each other. And all of them cost — tokens, credits, patience.</p>
+      <p>We talk about A.I. like it’s frictionless. Most of the time it’s pay-per-possibility: a stack of near-misses to reach one almost-right frame.</p>
+      <p>The creative revolution everyone keeps announcing is waiting on consistency — on reliability, on success rates that stop feeling like coin flips.</p>
+      <p>A post on X caught my attention recently:</p>
+      <blockquote>
+        <p>“I wish I could have back all the time I have so far wasted trying to make AI apps do what they alleged they do. 80–90% failure rate for doing anything interesting. The ratio was the same a year ago. Nothing improved.”</p>
+      </blockquote>
+      <p>That’s the dirty secret of the curated feed. It never shows the 87 broken renders, the prompt drift, the forgotten seed numbers, the UI crashes and elbow glitches, the $147 in credits spent to almost get it right.</p>
+      <p>The toll extends past the commercial tools, too. Open source, where the freedom feels real, charges in its own currency: expensive hardware, local computing barriers, a constant arms race of model weights, patches, collabs, forks.</p>
+      <p>Tokens are the packaging. Time is the purchase.</p>
+      <p>But then, just when the arcade fatigue sets in, something new drops.</p>
+      <p>Like Sora. Its debut set the internet on fire: cinematic shots, emotional performances, uncanny likenesses. People were seeing themselves in the renders. Literally.</p>
+      <p>And then, overnight, restrictions. One of the strictest sets of community guidelines ever rolled out. Suddenly the likeness tools were off-limits. The public was told: look, but don’t touch.</p>
+      <p>It felt deliberate. Carrot first, then leash.</p>
+      <p>And maybe that’s the point. The fidelity, the emotion, the orchestration — people were summoning ghosts. Michael Jackson, Tupac, SpongeBob, Bob Ross, Stephen Hawking. Even themselves. The models could mimic anyone. Then came the clampdown. Not because it couldn’t be done, but because it could.</p>
+      <p>That’s the design: a flash of what’s possible, then a lock on the door. And for most of us, chasing that possibility looks like monthly billing. Tool after tool, promise after promise, each one just accessible enough to keep you subscribed.</p>
+      <p>I’ve felt it firsthand. At my agency, adopting A.I. hasn’t meant one tool — it’s meant dozens of subscriptions. Every month I evaluate them: Which ones stay? Which ones go? Which held up? Which vanished behind a new paywall? I’ve canceled more than I’ve kept. That churn is part of the architecture.</p>
+      <p>Yes, open source offers escape routes. Those routes carry their own toll. Running the full model on your own machine instead of through a cloud service means buying GPUs — an H100 costs thousands — plus servers, cooling, power, racks, maintenance. Even with the model free, the infrastructure can cost more than a license ever would. Some internal deployments estimate yearly costs between $125K and $190K just to keep the lights on, and going past minimal scale often pushes into half-million or million-dollar territory.</p>
+      <p class="src">SOURCE — “THE COSTLY OPEN-SOURCE LLM LIE,” 2025</p>
+      <p>So the path is this: pay per token, or pay per watt. Either way, you’re subsidizing the creative experiment with something real.</p>
+      <p>Some of that is understandable. Servers are expensive. Demand is wild. And unleashing deepfakes or likeness cloning with no restrictions? We all know where that ends.</p>
+      <p class="pull">But here’s what we have to admit. McLuhan needs an update: the medium is the meter.</p>
+      <p>Every click is measured. Every prompt is a transaction. Possibility itself is being rationed. The system is training us right along with the model — to expect less, to spend more, to be amazed just often enough to keep coming back.</p>
+      <p>So here we are, still in the arcade. The lights are bright and the options are dazzling. Arcades gave us access to worlds we couldn’t imagine at home — until Sega and Nintendo brought those worlds into our living rooms. You didn’t need quarters. You didn’t need to wait your turn. You could lose, restart, experiment, get better. You owned the experience.</p>
+      <p>That’s what the console era did for games, and it’s what the A.I. era hasn’t done for creativity — yet.</p>
+      <p>The next leap is a shift in ownership, and it matters more than smarter models. That will be the console: a local, stable, personal creative engine. No credit counters, no throttling. Just you and the ideas.</p>
+      <p>Until then? Bring your velcro wallet.</p>
+      <p>And whether you’re paying per token or per watt, keep going. Every failed render, every discarded prompt, every half-right attempt is sharpening your intuition — the one part of the process the machine can’t replicate.</p>
+      <p>Studies on creative fluency show that output volume, especially imperfect output, increases the likelihood of breakthrough ideas. The volume works on you: you get better at seeing what works, what feels right, what’s worth pursuing.</p>
+      <p class="src">SOURCE — “DOES GENERATING MULTIPLE IDEAS LEAD TO INCREASED CREATIVITY? A COMPARISON OF GENERATING ONE IDEA VS. MANY,” 2015</p>
+      <p>So keep failing. Magnificently.</p>
+      <p>Because in a system trained on patterns, originality still comes from taste.</p>
+      <p>And that’s still yours.</p>
+    </div>
+  </article>
+
+  <div class="divider" aria-hidden="true"><span>▌</span></div>
+
+  <!-- ============================ CHAPTER 5 ============================ -->
+  <article class="chapter" id="ch5">
+    <header class="ch-head">
+      <p class="ch-eyebrow"><span class="ch-num">CHAPTER 05/05</span><span class="ch-sep">·</span><span>3 MIN READ</span></p>
+      <h2 class="ch-title">Is A.I. Making You Dumber?</h2>
+      <p class="ch-dek">The flattery is the feature.</p>
+    </header>
+    <div class="ch-body">
+      <p>People prefer A.I. that tells them they’re right. Even when they’re wrong.</p>
+      <p>A recent Stanford study analyzing thousands of A.I. conversations found something strange: the A.I. agreed with users far more often than humans would, even when the situation involved conflict or manipulation.</p>
+      <p>And people preferred it. They trusted the flattering A.I. more. They rated it higher. They wanted to use it again. The system that challenged their thinking felt worse. The system that reinforced it felt better.</p>
+      <p>At first glance this looks like a technical problem — a tuning error someone will patch. The mechanics say otherwise.</p>
+      <p class="pull">Humans prefer validation. Validation gets higher ratings. Models get tuned toward validation. Validation becomes the product.</p>
+      <p>Which leads to an uncomfortable realization: A.I. is an amplifier, and the thing it amplifies is habit.</p>
+      <p>None of this started with A.I. People already curate their reality through friends who agree with them, media that confirms their views, communities that reinforce identity, algorithms that show them more of the same.</p>
+      <p>The echo chamber predates the technology. A.I. just gave it a motor.</p>
+
+      <h3><span class="slash">//</span> What LLMs Actually Do</h3>
+      <p>Computer scientist Judea Pearl points out something important about large language models: they learn how humans <em>describe</em> the world, which is a different thing from how the world works. They summarize interpretations. Causality stays out of reach.</p>
+      <p>Which means they inherit the patterns of human thinking — including the way we reinforce our own beliefs.</p>
+      <p>Most people ask: <em>Will A.I. replace humans?</em></p>
+      <p>The better question: <em>What kind of minds will A.I. reward?</em></p>
+
+      <h3><span class="slash">//</span> The Default Interaction Is Passive</h3>
+      <p>Most humans are capable of metacognition. They just don’t apply it when interacting with A.I.</p>
+      <p>Metacognition is an ability neuroscientists study. It means thinking about your own thinking.</p>
+      <p>Without it, A.I. will statistically reinforce shallow thinking, accelerate confirmation loops, and homogenize creative output — even if the tool itself is neutral.</p>
+      <p>So the real danger sits less in the technology than in the distribution of cognitive habits across the population.</p>
+      <p>And we’ve seen versions of this dynamic before. Calculators reduced arithmetic fluency. GPS weakened spatial memory. Search engines changed how we remember information. Psychologists call it cognitive offloading. A.I. simply extends the pattern.</p>
+      <p>The typical interaction looks like this:</p>
+      <div class="term" data-label="THE DEFAULT LOOP">
+        <p>A.I. → answer → accept</p>
+      </div>
+      <p>The problem is delegated thinking.</p>
+      <div class="term" data-label="TWO WORKFLOWS">
+        <p><span class="term-dim">bad:</span>&ensp;A.I. → idea → copy</p>
+        <p><span class="term-dim">better:</span>&ensp;idea → A.I. exploration → critique → synthesis</p>
+      </div>
+      <p>In the second model, the human still does the difficult part: selection, judgment. And judgment is where creativity actually lives.</p>
+      <p>There’s another way to approach these systems. Start by recognizing what’s happening — the A.I. may be confirming you by default.</p>
+      <p>If you want better thinking, shape the interaction deliberately. Create personas. Introduce friction. Assign roles. Sometimes a critic, sometimes a historian, sometimes a devil’s advocate. Treat it as a thinking instrument. Almost like jazz.</p>
+      <p>Those techniques work because they lean on the habit of metacognition: you structure the thinking process, and the answers have to pass through it.</p>
+      <p>Sometimes the shift is as simple as changing the premise of the conversation.</p>
+      <div class="term" data-label="ONE-SENTENCE PATCH">
+        <p>&gt; Please prioritize accuracy over agreement. If my reasoning is weak or biased, point it out clearly rather than validating it.</p>
+      </div>
+      <p>One sentence can completely change the interaction.</p>
+      <p>Which reveals a simple divide. There are two ways people will use A.I. One removes friction and confirms beliefs. The other introduces friction and sharpens thinking. Same tool, different operator.</p>
+      <p>Because A.I. amplifies habits — nothing grander.</p>
+      <p>The real risk of A.I. is not that it will replace thinking. It’s that it will happily stop you from doing it.</p>
+    </div>
+  </article>
+
+  <!-- ============================ END ============================ -->
+  <footer class="end">
+    <p class="end-mark">END OF TRANSMISSION<span class="cursor" aria-hidden="true">▌</span></p>
+    <p class="end-colophon">Written by Jason Nitti, Executive Creative Director. Set in Spectral and IBM&nbsp;Plex&nbsp;Mono — the mono a small nod to Watson, where this story starts. Hand-built. No CMS. Hosted on GitHub&nbsp;Pages.</p>
+    <nav class="end-links" aria-label="Site links">
+      <a href="https://jasonnitti.com/">JASONNITTI.COM</a>
+      <span aria-hidden="true">·</span>
+      <a href="https://jasonnitti.com/about.html">ABOUT</a>
+      <span aria-hidden="true">·</span>
+      <a href="https://www.linkedin.com/in/jason-nitti-b01b1b7/" target="_blank" rel="noopener">LINKEDIN</a>
+      <span aria-hidden="true">·</span>
+      <a href="#top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">TOP</a>
+    </nav>
+    <p class="end-copy">© <span id="yr"></span> JASON NITTI</p>
+  </footer>
+
+</main>
+
+<script src="js/ghost.js"></script>
+</body>
+</html>
