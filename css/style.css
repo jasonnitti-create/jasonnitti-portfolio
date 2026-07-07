@@ -13,6 +13,8 @@
   --card: #faf8f4;
   --accent: #ff4d00;
   --maxw: 1280px;
+  --chip: rgba(20, 20, 20, .05);        /* soft index-card chip fill (light) */
+  --chip-accent: rgba(255, 77, 0, .10);
   /* Writing nav link — ghostwriter microsite's near-black slate reads legibly
      on cream; the phosphor green only shows up on hover/dark mode. */
   --writing-rest: #1d2529;
@@ -25,6 +27,8 @@ html[data-theme="dark"] {
   --card: #171716;
   --accent: #ff5c14;
   --writing-rest: rgba(52, 245, 178, .55);
+  --chip: rgba(255, 255, 255, .06);     /* soft index-card chip fill (dark) */
+  --chip-accent: rgba(255, 92, 20, .15);
 }
 
 * { box-sizing: border-box; }
@@ -136,6 +140,10 @@ nav.main a.writing:hover { color: #34f5b2; text-shadow: 0 0 10px rgba(52, 245, 1
   padding: 2px 8px; border-radius: 999px;
 }
 .tag.accent { border-color: var(--accent); color: var(--accent); }
+/* index cards: soft-filled chips read as intentional metadata without the
+   visual weight of an outline (the project-page header keeps its outline) */
+.card .tag { border-color: transparent; background: var(--chip); padding: 3px 9px; }
+.card .tag.accent { border-color: transparent; background: var(--chip-accent); color: var(--accent); }
 .empty { color: var(--ink-2); padding: 40px 0; }
 
 /* ---------- project page ---------- */
