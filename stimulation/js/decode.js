@@ -177,7 +177,12 @@
 
   function startTrickle() {
     stopTrickle();
-    if (!reduceMotion()) trickleTimer = setInterval(trickleStep, 75);
+    // DECODE is an explicit opt-in (a tap/click), so we honor the intent to
+    // SEE the effect even under prefers-reduced-motion — just at a calmer
+    // cadence there. (Previously reduced-motion killed the shimmer entirely,
+    // which on iOS — where many people leave Reduce Motion on — made the text
+    // scramble once and then sit dead still.)
+    trickleTimer = setInterval(trickleStep, reduceMotion() ? 160 : 75);
   }
   function stopTrickle() {
     if (trickleTimer) { clearInterval(trickleTimer); trickleTimer = null; }

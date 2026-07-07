@@ -1,3 +1,19 @@
+/* iOS Safari: nudge the muted masthead into autoplay. The HTML attributes
+   (autoplay/muted/playsinline) are correct, but iOS is unreliable about
+   honoring them — it wants muted set as a *property* and often a scripted
+   play() call. Harmless everywhere autoplay already works. (Low Power Mode
+   still blocks it — nothing in code can override that.) */
+(function () {
+  const v = document.querySelector(".masthead video");
+  if (!v) return;
+  v.muted = true;
+  const play = () => { const p = v.play(); if (p && p.catch) p.catch(() => {}); };
+  play();
+  const kick = () => { play(); };
+  document.addEventListener("touchstart", kick, { once: true, passive: true });
+  document.addEventListener("click", kick, { once: true });
+})();
+
 /* Index page: load projects.json, render filterable grid. */
 (function () {
   const grid = document.getElementById("grid");
