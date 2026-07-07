@@ -72,7 +72,8 @@ a { color: inherit; }
 .bar a { text-decoration: none; color: var(--ink-dim); transition: color .2s ease, text-shadow .2s ease; }
 .bar a:hover { color: var(--phos); text-shadow: 0 0 10px var(--phos-faint); }
 .bar-home { font-weight: 600; color: var(--ink-bright); }
-.bar-series { color: var(--phos-dim); }
+.bar a.bar-series { color: var(--phos-dim); cursor: pointer; }
+.bar a.bar-series:hover { color: var(--phos); text-shadow: 0 0 10px var(--phos-dim); }
 .bar-index::before { content: "//: "; color: var(--ink-dim); }
 
 /* ---------- chapter rail ---------- */
