@@ -102,7 +102,8 @@
      "label": "Official Book Site →",
      "url": "https://jasonnitti.com/stimulation"
     }
-   ]
+   ],
+   "subtitle": "Author + Book Design"
   },
   {
    "slug": "ibm-watson-alex-da-kid",
@@ -177,7 +178,8 @@
      "w": 2880,
      "h": 1800
     }
-   ]
+   ],
+   "subtitle": "Music + AI Campaign"
   },
   {
    "slug": "ibm-watson-phase-2",
@@ -244,7 +246,8 @@
      "w": 640,
      "h": 640
     }
-   ]
+   ],
+   "subtitle": "Music + AI Campaign, Pt. 2"
   },
   {
    "slug": "good-will-dunkin",
@@ -286,7 +289,8 @@
      "src": "assets/vid/good-will-dunkin-01.mp4",
      "poster": "assets/img/good-will-dunkin-cover.jpg"
     }
-   ]
+   ],
+   "subtitle": "Super Bowl Spot"
   },
   {
    "slug": "dunkin",
@@ -350,7 +354,8 @@
      "src": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.mp4",
      "poster": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.jpg"
     }
-   ]
+   ],
+   "subtitle": "Original Song"
   },
   {
    "slug": "iex-stock-exchange",
@@ -427,7 +432,8 @@
      "w": 6000,
      "h": 3375
     }
-   ]
+   ],
+   "subtitle": "Brand Campaign"
   },
   {
    "slug": "samsung-marvel",
@@ -496,7 +502,8 @@
      "src": "assets/vid/ff06b4_796080393d934bd7ad1749dc492a53ac.mp4",
      "poster": "assets/vid/ff06b4_796080393d934bd7ad1749dc492a53ac.jpg"
     }
-   ]
+   ],
+   "subtitle": "VR Experience"
   },
   {
    "slug": "converse",
@@ -524,7 +531,8 @@
      "src": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.mp4",
      "poster": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.jpg"
     }
-   ]
+   ],
+   "subtitle": "Music Video"
   },
   {
    "slug": "converse-im-a-goner",
@@ -561,12 +569,13 @@
    "items": [
     {
      "title": "I'm a Goner",
-     "caption": "Matt & Kim, Soulja Boy and Andrew W.K. rise from the dead to throw a raging dance party in a morgue. Premiered on MTV2’s “Converse Band of Ballers”; the track was released as a free download on converse.com/music.",
+     "caption": "Matt & Kim, Soulja Boy and Andrew W.K. rise from the dead to throw a raging dance party in a morgue. In other words, an afterlife party. Premiered on MTV2’s “Converse Band of Ballers”; the track was released as a free download on converse.com/music.",
      "type": "video",
      "src": "assets/vid/converse-im-a-goner-01.mp4",
      "poster": "assets/vid/converse-im-a-goner-01.jpg"
     }
-   ]
+   ],
+   "subtitle": "Music + Merch Campaign"
   },
   {
    "slug": "high-desert-cactus-vodka",
@@ -671,7 +680,8 @@
      "w": 6000,
      "h": 3375
     }
-   ]
+   ],
+   "subtitle": "Brand + Documentary"
   },
   {
    "slug": "airbnb",
@@ -753,7 +763,8 @@
      "src": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.mp4",
      "poster": "assets/vid/ff06b4_6a2e6228fa6a41daad44d6989090602f.jpg"
     }
-   ]
+   ],
+   "subtitle": "Global Campaign"
   },
   {
    "slug": "airheads-alvin-kamara",
@@ -869,7 +880,8 @@
      "w": 2000,
      "h": 3000
     }
-   ]
+   ],
+   "subtitle": "Content Series"
   },
   {
    "slug": "airheads-bigger-air-bigger-games",
@@ -931,7 +943,8 @@
      "src": "assets/vid/airheads-tvc-mile-high-ispy.mp4",
      "poster": "assets/vid/airheads-tvc-mile-high-ispy.jpg"
     }
-   ]
+   ],
+   "subtitle": "TVC Campaign"
   },
   {
    "slug": "rheem-water-heaters",
@@ -1045,7 +1058,8 @@
      "w": 1920,
      "h": 1080
     }
-   ]
+   ],
+   "subtitle": "Brand Campaign"
   },
   {
    "slug": "rheem-key-bass",
@@ -1125,7 +1139,8 @@
      "src": "assets/vid/ff06b4_cf543d08bb9f41f790e322ab6c93ec2c.mp4",
      "poster": "assets/vid/ff06b4_cf543d08bb9f41f790e322ab6c93ec2c.jpg"
     }
-   ]
+   ],
+   "subtitle": "Documentary + Song"
   },
   {
    "slug": "hulu-craig-robinson",
@@ -1170,7 +1185,8 @@
      "src": "assets/vid/hulu-bhm-jam-3.mp4",
      "poster": "assets/vid/hulu-bhm-jam-3.jpg"
     }
-   ]
+   ],
+   "subtitle": "Original Song"
   },
   {
    "slug": "softshox",
@@ -1251,7 +1267,8 @@
      "w": 1600,
      "h": 900
     }
-   ]
+   ],
+   "subtitle": "Logo + Identity"
   },
   {
    "slug": "ecolab-x-prostart",
@@ -1291,7 +1308,8 @@
      "src": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.mp4",
      "poster": "assets/vid/ff06b4_627c3076f381464594f3fadd6082d192.jpg"
     }
-   ]
+   ],
+   "subtitle": "Documentary Film"
   },
   {
    "slug": "cart-com",
@@ -1355,7 +1373,8 @@
      "src": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.mp4",
      "poster": "assets/vid/ff06b4_d67a582a456a4823b10638cac9629684.jpg"
     }
-   ]
+   ],
+   "subtitle": "Brand Voice"
   },
   {
    "slug": "time-hopper",
@@ -1392,7 +1411,8 @@
      "src": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.mp4",
      "poster": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.jpg"
     }
-   ]
+   ],
+   "subtitle": "AI Concept Film"
   },
   {
    "slug": "heavily-vs-ryan-whitby",
@@ -1432,7 +1452,8 @@
      "src": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.mp4",
      "poster": "assets/vid/ff06b4_8a189fb2974440eaab95754a6d064091.jpg"
     }
-   ]
+   ],
+   "subtitle": "Music + Code Project"
   },
   {
    "slug": "stereo-melon-studios",
@@ -1508,7 +1529,8 @@
      "w": 1577,
      "h": 936
     }
-   ]
+   ],
+   "subtitle": "Children's Stories + Music"
   }
  ]
 }

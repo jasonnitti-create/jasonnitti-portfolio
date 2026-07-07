@@ -92,13 +92,12 @@
       const a = document.createElement("a");
       a.className = "card";
       a.href = "project.html?p=" + encodeURIComponent(p.slug);
-      const client = detail(p, "client").split(",")[0].split("(")[0].trim();
       a.innerHTML = `
         <div class="thumb">${p.cover ? `<img loading="lazy" src="${p.cover}" alt="${esc(p.title)}">` : ""}</div>
         <div class="body">
           <div class="id">NO_${String(idx).padStart(2, "0")}</div>
           <h3>${esc(p.title)}</h3>
-          <div class="meta">${esc(client)}</div>
+          ${p.subtitle ? `<div class="meta">${esc(p.subtitle)}</div>` : ""}
           <div class="tags">${p.categories.map((c) =>
             `<span class="tag${c === activeCat ? " accent" : ""}">${esc(catLabel(c))}</span>`).join("")}</div>
         </div>`;
