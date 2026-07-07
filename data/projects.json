@@ -181,6 +181,61 @@
    "subtitle": "Music + AI Campaign"
   },
   {
+   "slug": "dunkings-2",
+   "title": "Dunkin' — DunKings 2",
+   "summary": "The sequel to DunKings: Ben Affleck's coffee-obsessed boy band returns for Super Bowl LIX, now recruiting his brother Casey Affleck and Jeremy Strong into the group, with cameo appearances from Bill Belichick, Druski, Kevin Smith, and Jason Mewes. The 60-second Big Game spot is a highlight reel pulled from a full seven-minute short film, “DunKings 2: The Movie,” which follows the band's quest to compete at Java Jam, a coffee-themed battle of the bands.\n\nI composed the film's original score and musical themes.",
+   "categories": [
+    "campaign",
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Dunkin'"
+    },
+    {
+     "label": "Type",
+     "text": "Big Game Commercial, Short Film"
+    },
+    {
+     "label": "Output",
+     "text": "Super Bowl LIX :60 spot + 7-minute short film “DunKings 2: The Movie”"
+    },
+    {
+     "label": "Talent",
+     "text": "Ben Affleck, Casey Affleck, Jeremy Strong, Bill Belichick, Druski, Kevin Smith, Jason Mewes"
+    },
+    {
+     "label": "Industry",
+     "text": "Food & Beverage"
+    },
+    {
+     "label": "Agency",
+     "text": "Artists Equity"
+    },
+    {
+     "label": "Role",
+     "text": "Music Composition & Production"
+    }
+   ],
+   "cover": "assets/vid/dunkings-2.jpg",
+   "links": [
+    {
+     "label": "Watch the Full Film →",
+     "url": "https://www.youtube.com/watch?v=9fjVm0Im6Ww"
+    }
+   ],
+   "items": [
+    {
+     "title": "DunKings 2",
+     "caption": "The boy band reunites, the lineup expands, and the battle of the bands escalates — Java Jam, Super Bowl LIX, and the full DunKings mythology, scored start to finish.",
+     "type": "video",
+     "src": "assets/vid/dunkings-2.mp4",
+     "poster": "assets/vid/dunkings-2.jpg"
+    }
+   ]
+  },
+  {
    "slug": "ibm-watson-phase-2",
    "title": "Phase 2 - IBM Watson + Alex Da Kid",
    "summary": "Keeping up with the thousands of new songs uploaded to the internet daily was impossible for music producer, Alex da Kid. So IBM helped him reinvent the process.",
@@ -1187,6 +1242,57 @@
     }
    ],
    "subtitle": "Original Song"
+  },
+  {
+   "slug": "hes-craig",
+   "title": "He's Craig",
+   "summary": "The Season 3 opener for Hulu's Your Attention Please needed a theme worthy of its host: Craig Robinson, reimagined as a mystical mountain-dwelling music man, holding court in a neon-lit cave with a yeti for a sidekick.\n\nI composed and produced “He's Craig,” the episode's theme song and intro sequence — the character's whole absurd mythology, set to music.",
+   "categories": [
+    "music",
+    "influencer"
+   ],
+   "details": [
+    {
+     "label": "Client",
+     "text": "Hulu"
+    },
+    {
+     "label": "Type",
+     "text": "Branded Entertainment, Music"
+    },
+    {
+     "label": "Output",
+     "text": "Original song “He's Craig,” Season 3 episode intro sequence"
+    },
+    {
+     "label": "Talent",
+     "text": "Craig Robinson"
+    },
+    {
+     "label": "Industry",
+     "text": "Streaming, Entertainment"
+    },
+    {
+     "label": "Role",
+     "text": "Music Composition & Production"
+    }
+   ],
+   "cover": "assets/vid/hes-craig.jpg",
+   "links": [
+    {
+     "label": "Watch the Full Episode →",
+     "url": "https://www.youtube.com/watch?v=9S2Un5HT7dg"
+    }
+   ],
+   "items": [
+    {
+     "title": "He's Craig",
+     "caption": "Deep in the mountainous city, Craig holds court: piano by firelight, a yeti roommate, a neon sign that just says his name. The theme song does what a cold open should — it tells you exactly what kind of show this is before anyone says a word.",
+     "type": "video",
+     "src": "assets/vid/hes-craig.mp4",
+     "poster": "assets/vid/hes-craig.jpg"
+    }
+   ]
   },
   {
    "slug": "softshox",
