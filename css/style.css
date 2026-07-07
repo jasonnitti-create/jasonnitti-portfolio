@@ -13,6 +13,9 @@
   --card: #faf8f4;
   --accent: #ff4d00;
   --maxw: 1280px;
+  /* Writing nav link — ghostwriter microsite's near-black slate reads legibly
+     on cream; the phosphor green only shows up on hover/dark mode. */
+  --writing-rest: #1d2529;
 }
 html[data-theme="dark"] {
   --bg: #0f0f0e;
@@ -21,6 +24,7 @@ html[data-theme="dark"] {
   --line: #2a2a27;
   --card: #171716;
   --accent: #ff5c14;
+  --writing-rest: rgba(52, 245, 178, .55);
 }
 
 * { box-sizing: border-box; }
@@ -55,7 +59,7 @@ header.site {
 nav.main { display: flex; gap: 18px; align-items: center; text-transform: uppercase; font-size: 12px; }
 nav.main a { color: var(--ink-2); }
 nav.main a:hover, nav.main a.active { color: var(--ink); }
-nav.main a.writing { color: rgba(52, 245, 178, .55); }
+nav.main a.writing { color: var(--writing-rest); }
 nav.main a.writing:hover { color: #34f5b2; text-shadow: 0 0 10px rgba(52, 245, 178, .5); }
 #themeToggle {
   cursor: pointer; background: none; border: 1px solid var(--line);
