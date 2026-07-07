@@ -55,6 +55,8 @@ header.site {
 nav.main { display: flex; gap: 18px; align-items: center; text-transform: uppercase; font-size: 12px; }
 nav.main a { color: var(--ink-2); }
 nav.main a:hover, nav.main a.active { color: var(--ink); }
+nav.main a.writing { color: #34f5b2; }
+nav.main a.writing:hover { color: #34f5b2; text-shadow: 0 0 10px rgba(52, 245, 178, .5); }
 #themeToggle {
   cursor: pointer; background: none; border: 1px solid var(--line);
   color: var(--ink-2); font-family: var(--mono); font-size: 11px;
