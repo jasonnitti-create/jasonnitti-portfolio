@@ -355,14 +355,16 @@
      "poster": "assets/vid/ff06b4_d1c25872f6284b019b611a7d1e832e3a.jpg"
     }
    ],
-   "subtitle": "Original Song"
+   "subtitle": "Crafting the Dunkin' Sound"
   },
   {
    "slug": "iex-stock-exchange",
    "title": "IEX - Stock Exchange",
-   "summary": "When industry competitors publicly questioned IEX’s “most liquidity” claim and suggested they were too small to make an impact anyway, IEX needed creative solutions to refute and debunk these challenges and raise brand awareness.",
+   "summary": "When industry competitors publicly questioned IEX's “best liquidity” claim and suggested they were too small to make an impact anyway, IEX needed something louder than another trader email blast.\n\nSo we built a beer. Liquidity — a signature IPA, brewed with actual traders, gifted to key clients, and launched during the Super Bowl with an OOH, social, and PR push. A brand people can literally drink beat a brand people just read about: daily trading volume roughly doubled, from $10B to $20B, after the campaign.",
    "categories": [
-    "campaign"
+    "campaign",
+    "brand",
+    "influencer"
    ],
    "details": [
     {
@@ -433,7 +435,7 @@
      "h": 3375
     }
    ],
-   "subtitle": "Brand Campaign"
+   "subtitle": "Beer Brand + Super Bowl Spot"
   },
   {
    "slug": "samsung-marvel",
@@ -503,7 +505,7 @@
      "poster": "assets/vid/ff06b4_796080393d934bd7ad1749dc492a53ac.jpg"
     }
    ],
-   "subtitle": "VR Experience"
+   "subtitle": "Marvel Short Films + VR"
   },
   {
    "slug": "converse",
@@ -532,7 +534,7 @@
      "poster": "assets/vid/ff06b4_edb152e956d4425baa5cdd3204aa19a5.jpg"
     }
    ],
-   "subtitle": "Music Video"
+   "subtitle": "Brand Retrospective Reel"
   },
   {
    "slug": "converse-im-a-goner",
@@ -575,7 +577,7 @@
      "poster": "assets/vid/converse-im-a-goner-01.jpg"
     }
    ],
-   "subtitle": "Music + Merch Campaign"
+   "subtitle": "Three Artists, One Song"
   },
   {
    "slug": "high-desert-cactus-vodka",
@@ -681,7 +683,7 @@
      "h": 3375
     }
    ],
-   "subtitle": "Brand + Documentary"
+   "subtitle": "Brand System + Launch Film"
   },
   {
    "slug": "airbnb",
@@ -1140,7 +1142,7 @@
      "poster": "assets/vid/ff06b4_cf543d08bb9f41f790e322ab6c93ec2c.jpg"
     }
    ],
-   "subtitle": "Documentary + Song"
+   "subtitle": "Soundtrack + Documentary"
   },
   {
    "slug": "hulu-craig-robinson",
@@ -1412,7 +1414,7 @@
      "poster": "assets/vid/ff06b4_19cbaacefcaa4ff4aae7aedaf2fb4877.jpg"
     }
    ],
-   "subtitle": "AI Concept Film"
+   "subtitle": "AI Travel Influencer Series"
   },
   {
    "slug": "heavily-vs-ryan-whitby",
