@@ -25,6 +25,30 @@
       "runtimeExecutable": "python3",
       "runtimeArgs": ["/Users/jason.nitti/Desktop/family-issues/serve.py", "4173"],
       "port": 4173
+    },
+    {
+      "name": "innerframe",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd '/Users/jason.nitti/Desktop/innerframe' && npm run dev -- --port 5183"],
+      "port": 5183
+    },
+    {
+      "name": "daybook",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd '/Users/jason.nitti/Desktop/daybook' && npm start"],
+      "port": 4400
+    },
+    {
+      "name": "daybook-dev",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd '/Users/jason.nitti/Desktop/daybook' && npm run dev"],
+      "port": 5180
+    },
+    {
+      "name": "ai-applied",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd '/Users/jason.nitti/Desktop/ai-applied' && python3 -m http.server 8370"],
+      "port": 8370
     }
   ]
 }
