@@ -158,6 +158,7 @@ nav.main a.writing:hover { color: #34f5b2; text-shadow: 0 0 10px rgba(52, 245, 1
 .proj-head .summary { font-size: 15px; line-height: 1.65; margin: 0 0 8px; }
 .proj-head .summary p { margin: 0 0 10px; }
 .proj-links { display: flex; gap: 10px; flex-wrap: wrap; margin: 14px 0 4px; }
+.proj-links[hidden] { display: none; }
 .proj-links a {
   font-size: 12px; text-transform: uppercase; letter-spacing: .04em;
   border: 1px solid var(--accent); color: var(--accent);

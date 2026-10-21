@@ -68,6 +68,7 @@
           <div class="caption">
             <p class="ct" id="capTitle"></p>
             <p class="cd" id="capText"></p>
+            <div class="proj-links" id="capLink" hidden></div>
           </div>
         </div>
         ${P.items.length > 1 ? `<div class="thumbs" id="thumbs"></div>` : ""}
@@ -115,6 +116,12 @@
     document.querySelector(".story-grid").classList.toggle("nocap", !hasCopy);
     document.getElementById("capTitle").textContent = it.title || "";
     document.getElementById("capText").textContent = it.caption || "";
+    // optional per-keyframe link, e.g. a "view site" CTA on the last frame
+    const capLink = document.getElementById("capLink");
+    capLink.hidden = !it.link;
+    capLink.innerHTML = it.link
+      ? `<a href="${it.link.url}" target="_blank" rel="noopener">${esc(it.link.label)}</a>`
+      : "";
     const cNow = document.getElementById("cNow");
     if (cNow) cNow.textContent = pad(i + 1);
     // last keyframe: the next-arrow becomes a restart cue (↺ back to start)

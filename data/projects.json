@@ -774,7 +774,11 @@
      "title": "The Readout",
      "caption": "When the song ends you get a session card: how many times you broke the spell, where on the timeline, and a Frame Readout of what you saw, in your own words. The card and the song both download.",
      "type": "image",
-     "src": "assets/img/innerframe-readout.jpg"
+     "src": "assets/img/innerframe-readout.jpg",
+     "link": {
+      "label": "View the site ↗",
+      "url": "https://innerfra.me"
+     }
     }
    ]
   },
