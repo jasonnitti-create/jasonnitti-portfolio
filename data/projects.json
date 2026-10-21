@@ -106,6 +106,77 @@
    "subtitle": "Author + Book Design"
   },
   {
+   "slug": "one-last-ride",
+   "title": "One Last Ride",
+   "subtitle": "Higgsfield Festival Short",
+   "summary": "A funeral procession goes off course, and a grandfather takes the long way to the Pacific. On the I-5 above Trestles the hearse clips a camper van's cargo, the coffin opens on the asphalt, and a seventy-eight-year-old man in a good suit lands on a stranger's surfboard. He rides eight lanes of Southern California traffic to the sea. His eyes never open.\n\nHe's seventy-eight on purpose. A man in his forties leaves a widow and small children, and the audience does that math. A long life everyone saw ending is grief people can survive, and survivable grief is the only thing that gives them permission to laugh.\n\nI wrote, directed and edited the film for the Higgsfield Global Film Festival, generated every shot in Higgsfield Cinema Studio, and prompted the score and cut it to picture. Four minutes, no dialogue.",
+   "categories": [
+    "nobrief"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Short Film, wordless, 4 min"
+    },
+    {
+     "label": "Festival",
+     "text": "Higgsfield Global Film Festival"
+    },
+    {
+     "label": "Role",
+     "text": "Writer, Director, Editor; every shot generated; score prompted and cut to picture"
+    },
+    {
+     "label": "Tools",
+     "text": "Higgsfield Cinema Studio"
+    },
+    {
+     "label": "Method",
+     "text": "Locked environment plates first, one force per shot, approved stills before animation, a dated decision log"
+    }
+   ],
+   "cover": "assets/img/one-last-ride-cover.jpg",
+   "items": [
+    {
+     "title": "One Last Ride",
+     "caption": "The full film. Sound on. The score never acknowledges a save or stings an impact; it keeps its own tempo while the freeway comes apart.",
+     "type": "video",
+     "src": "assets/vid/one-last-ride.mp4",
+     "poster": "assets/img/one-last-ride-cover.jpg"
+    },
+    {
+     "title": "The Rule",
+     "caption": "He never performs his own recovery. Every save comes from outside him: the road crown, a sedan's quarter panel, a median barrier, the curved inside of a concrete culvert on a flatbed. A corpse that surfs is absurd and dignified; a corpse that balances is a stunt reel. Any generation that showed him bracing, stepping or correcting was cut, including some of the best-looking ones.",
+     "type": "image",
+     "src": "assets/img/one-last-ride-rule.jpg"
+    },
+    {
+     "title": "Two Languages",
+     "caption": "Two camera grammars, assigned by subject and cut against each other. The freeway gets 24mm at road level or 135mm compressed, hard backlight, two-second cuts. The family car gets a locked 50mm at seated eye height, so the camera holds on a face while the catastrophe happens behind it. A third, stylized grammar made it into pre-production. Two shots out of seventy read as a mistake, so I cut it.",
+     "type": "image",
+     "src": "assets/img/one-last-ride-family.jpg"
+    },
+    {
+     "title": "The Cut",
+     "caption": "Generative models fail at the instant of transformation: a body changing orientation, two objects converging. So the film never shows that frame. The coffin-to-board transfer happens between these two shots, and the audience builds it in the gap. I spent six days trying to generate that half-second before the cut won. Five impossible moments in four minutes all live in the edit.",
+     "type": "image",
+     "src": "assets/img/one-last-ride-cut.jpg"
+    },
+    {
+     "title": "The Water",
+     "caption": "Silence comes in four times, never at the same length. The longest one is the water.",
+     "type": "image",
+     "src": "assets/img/one-last-ride-water.jpg"
+    },
+    {
+     "title": "The Girl",
+     "caption": "The dead man is the spectacle. The girl is the story. Across the ride her mother laughs, catches herself, and decides to keep up. The adults experience a death as catastrophe; the child experiences it as something else. The film ends on her face and holds there. Whatever she's feeling stays hers.",
+     "type": "image",
+     "src": "assets/img/one-last-ride-girl.jpg"
+    }
+   ]
+  },
+  {
    "slug": "ibm-watson-alex-da-kid",
    "title": "IBM Watson + Alex Da Kid",
    "summary": "Demonstrating the possibilities of IBM Watson in creative industries, like music, allowed IBM’s core business audience and tech-minded millennials to imagine what IBM could do for their business.",
