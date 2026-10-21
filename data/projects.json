@@ -480,6 +480,90 @@
    "subtitle": "Super Bowl Spot Music"
   },
   {
+   "slug": "innerframe",
+   "title": "INNERFRA.ME",
+   "subtitle": "Interactive Music Video",
+   "summary": "In 2014 I wrote up an idea for a music video you could only watch with your eyes closed. I called it Closed Session, and it sat in a folder for twelve years while the browser caught up.\n\nINNERFRA.ME locks a song inside a web page. Your webcam watches for one thing: open or closed. Shut your eyes and the track plays. Open them and the signal drops, then picks up from the exact moment you left when you close them again.\n\nThe screen gives you nothing. The footage comes from you. We spend all day being shown what to see; this asks for one song in the dark.",
+   "categories": [
+    "nobrief",
+    "brand",
+    "music"
+   ],
+   "details": [
+    {
+     "label": "Type",
+     "text": "Interactive music video, web"
+    },
+    {
+     "label": "Role",
+     "text": "Concept, design, direction, build; composed the track"
+    },
+    {
+     "label": "Track",
+     "text": "“Mash Finale” (original)"
+    },
+    {
+     "label": "Tools",
+     "text": "Claude Code; MediaPipe Face Landmarker (on-device), Three.js, Web Audio, TypeScript"
+    },
+    {
+     "label": "Privacy",
+     "text": "The camera feed never leaves the browser. Nothing is recorded or uploaded."
+    },
+    {
+     "label": "Platform",
+     "text": "One config file holds title, artist, audio and accent color, so any artist can drop in a song."
+    }
+   ],
+   "cover": "assets/img/innerframe-cover.jpg",
+   "coverVideo": "assets/vid/innerframe-card.mp4",
+   "links": [
+    {
+     "label": "Visit innerfra.me ↗",
+     "url": "https://innerfra.me"
+    }
+   ],
+   "items": [
+    {
+     "title": "The Origin",
+     "caption": "The 2014 deck: Closed Session, a music video project with no client and no brief. The idea was ready twelve years before the tools were. On-device face tracking in the browser finally made it buildable.",
+     "type": "image",
+     "src": "assets/img/innerframe-origin.jpg"
+    },
+    {
+     "title": "The Front Door",
+     "caption": "The URL is the logo. The page has one interaction: scroll to tune in. Progress decays when you stop, so getting in takes a moment of commitment. At lock, the page collapses like a CRT powering off. I built a cursor light and a cymatic ring for it and cut both, because they made the page about the effect.",
+     "type": "video",
+     "src": "assets/vid/innerframe-tune.mp4",
+     "poster": "assets/img/innerframe-cover.jpg"
+    },
+    {
+     "title": "The Name",
+     "caption": "An interframe is a video-compression term for a frame that stores only what changed since the last one. Innerframe points the term at the body: the picture behind your eyelids is a delta, rendered from memory and mood.",
+     "type": "image",
+     "src": "assets/img/innerframe-name.jpg"
+    },
+    {
+     "title": "The Gate",
+     "caption": "A terminal narrator calibrates against your own eyes, measuring the open and closed baselines separately because everyone's eyes rest differently. The gate covers the whole track, start to finish. Open your eyes and the signal drops: “It's flatter out here. Close your eyes to keep dreaming.”",
+     "type": "image",
+     "src": "assets/img/innerframe-gate.jpg"
+    },
+    {
+     "title": "The Void",
+     "caption": "While your eyes are closed, smoke fills the black screen, and it clears the instant you open them. The listener never sees it. Anyone walking past the screen does.",
+     "type": "image",
+     "src": "assets/img/innerframe-void.jpg"
+    },
+    {
+     "title": "The Readout",
+     "caption": "When the song ends you get a session card: how many times you broke the spell, where on the timeline, and a Frame Readout of what you saw, in your own words. The card and the song both download.",
+     "type": "image",
+     "src": "assets/img/innerframe-readout.jpg"
+    }
+   ]
+  },
+  {
    "slug": "iex-stock-exchange",
    "title": "IEX - Stock Exchange",
    "summary": "When industry competitors publicly questioned IEX's “best liquidity” claim and suggested they were too small to make an impact anyway, IEX needed something louder than another trader email blast.\n\nSo we built a beer. Liquidity — a signature IPA, brewed with actual traders, gifted to key clients, and launched during the Super Bowl with an OOH, social, and PR push. A brand people can literally drink beat a brand people just read about: daily trading volume roughly doubled, from $10B to $20B, after the campaign.",

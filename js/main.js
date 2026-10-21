@@ -109,7 +109,11 @@
       a.className = "card";
       a.href = "project.html?p=" + encodeURIComponent(p.slug);
       a.innerHTML = `
-        <div class="thumb">${p.cover ? `<img loading="lazy" src="${p.cover}" alt="${esc(p.title)}">` : ""}</div>
+        <div class="thumb">${p.coverVideo
+          // optional looping card: muted/inline so it autoplays everywhere;
+          // the still cover doubles as its poster until the clip loads
+          ? `<video src="${p.coverVideo}" poster="${p.cover || ""}" autoplay muted loop playsinline preload="auto" aria-label="${esc(p.title)}"></video>`
+          : p.cover ? `<img loading="lazy" src="${p.cover}" alt="${esc(p.title)}">` : ""}</div>
         <div class="body">
           <div class="id">NO_${String(idx).padStart(2, "0")}</div>
           <h3>${esc(p.title)}</h3>
